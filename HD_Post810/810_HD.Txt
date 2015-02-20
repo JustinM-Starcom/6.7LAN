@@ -1,0 +1,24 @@
+N;
+^032811;162068;032211;16976530
+Post Gardens of Battle Creek Inc.;016728990
+0;Invoice;032211;Posted;;EDI 850;810 230-8784;
+;;;152.00;0.00;0.00;152.00;0.00;0.00;
+2716;0
+H2716;The Home Depot #2716;4380 W CORUNNA RD;;FLINT;MI;48532      ;2716
+HD;The Home Depot;EDI Dept - Invoices;P. O. Box 105581;Atlanta;GA;30348-5581 
+;;;;;;;;;
+3055 W Michigan;Battle Creek;MI;49017      
+4380 W CORUNNA RD;;FLINT;MI;48532      
+592425
+0.0;032811;042711;0;30;NET 30
+110328
+^32;4.75;178558;099702000012;SEASONAL ITEMS
+;SEASONAL;SEASONAL ITEMS;1;EA;1;152.00;0.00;0.00;;Y;;;;11123
+;                                                                                
+Post Gardens of Battle Creek Inc.;162068
+^A;0.76;;I170
+151.24
+32.00;2.00;32
+1;32.00
+@
+|

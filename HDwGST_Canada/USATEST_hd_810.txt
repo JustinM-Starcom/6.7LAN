@@ -1,0 +1,27 @@
+^030508;33512;030108;24988666
+Jeffery's Greenhouses Plant II;
+0;Invoice;030108;Posted;JEFFERY'S TRUCK;EDI 850;705-733-2800;
+;13:30;;2491.20;0.00;0.00;2491.20;0.00;5.00;
+7024;870481090
+HD#7024;HOME DEPOT #7024-BARRIE;10 BARRIE VIEW DR;;BARRIE;ON;L4M 4S7    ;7024
+HDCANADA;HOME DEPOT CANADA;P.O. BOX 900;STATION D;SCARBOROUGH;ON;M1R 5H8    
+;;;870481090;;;;;;
+RR#3, 1036 Lakeshore Rd. West;ST. CATHARINES;ON;L2R 6P9    
+10 BARRIE VIEW DR;;BARRIE;ON;L4M 4S7    
+14548
+2.0;040408;040408;30;30;2.0/30 N/30
+080305
+^360;4.00;112620;6-23390-96467-9;6" EASTER LILY
+;6" LILY;6" EASTER LILY;90;cart;1;1440.00;0.00;0.00;;Y;;;;10500
+;                                                                                
+^144;7.30;112676;6-23390-96403-7;6.5" HYDRANGEA
+;6" HYD;6.5" HYDRANGEA;72;cart;1;1051.20;0.00;0.00;;Y;;;;10520
+;                                                                                
+Jeffery's Greenhouses Plant II;33512
+^A;12.46;;I170
+^C;12456.00;;      
+2602.68
+504.00;6.00;6
+2;504.00
+@
+|

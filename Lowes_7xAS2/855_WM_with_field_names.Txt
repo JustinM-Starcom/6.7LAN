@@ -1,0 +1,25 @@
+^090310[ldShip_Dt];1732[INVOICE.Invoice_no];090210[INVOICE.Order_dt];1234567890[INVOICE.Po_no]
+EMAIL TEST[COMPANY.Name];98765421[COMPANY.Duns_no]
+0[invoice.memo_no];Invoice[invoice.type];090210[invoice.order_dt];Order[invoice.status];[invoice.ship_via];Store[invoice.placed_by];479 636 3222[invoice.phone_no];NewGuy[invoice.sales_rep]
+[invoice.pull_load];[invoice.del_time];[invoice.ref_no];171.00[invoice.discounted];0.00[invoice.del_chrg];0.00[invoice.misc_chrg];114.00[invoice.taxable];0.00[invoice.tax_pctg];5.00[invoice.gst_pctg];
+0001[INVOICE.Ship_id];123456789-12[SHIP_TO.Prof_04]
+WM0001[ship_to.ship_id];Walmart Store # 0001[ship_to.name];2110 WEST WALNUT[ship_to.addr_l1];[ship_to.addr_l2];ROGERS[ship_to.city];AR[ship_to.st];72756      [ship_to.zip];0078742000015[store_no]
+WalMart[bill_to.bill_id];Wal-Mart Inc.[bill_to.name];1500 SW Maple[bill_to.addr_l1];[bill_to.addr_l2];Boise[bill_to.city];ID[bill_to.st];88722      [bill_to.zip]
+[ship_to.prof_01];[ship_to.prof_02];[ship_to.prof_03];123456789-12[ship_to.prof_04];[ship_to.prof_05];[ship_to.prof_06];[ship_to.prof_07];[ship_to.prof_08];[ship_to.prof_09];[ship_to.prof_10]
+19515 North Creek Parkway [COMPANY.Address1][COMPANY.Address2];Bothell[COMPANY.City];WA[COMPANY.State];98011      [COMPANY.Zip]
+2110 WEST WALNUT[INVOICE.Addr_L1];[INVOICE.Addr_L2];ROGERS[INVOICE.City];AR[INVOICE.St];72756      [INVOICE.Zip]
+193328816622[BILL_TO.Vendor_no]
+2.0[TERMS.Terms_disc];101810[Invoice.Ship_Dt + TERMS.Terms_days];101810[Invoice.Ship_Dt + TERMS.Net_days];45[TERMS.Terms_days];45[TERMS.Net_days];2.0/45 N/30[TERMS.Terms_code]
+100903[ldShip_Dt]
+^60;0.95;1112223334;4321098765
+^60;0.95;1112223334;4321098765
+^60;0.95;1112223334;4321098765
+EMAIL TEST[COMPANY.Name];1732[INVOICE.Invoice_no]
+^N[if INVOICE.cust_disc different then 0 show A or N];0.00[INVOICE.cust_disc* INVOICE.discounted/100];;[if INVOICE.cust_disc different then 0 show I170 or nothing]
+^C;10.00[INVOICE.surchgamt];;     [bill_to.surchgcode ]
+^C;570.00[INVOICE.gst_pctg * INVOICE.taxable];;      [ship_to.tax_code]
+189.55[INVOICE.Doc_total]
+180.00[ThisForm.TotalInvQty];30.00[INVOICE.Carts , INVOICE.Cases or INVOICE.Eaches];30[ThisForm.TotalQty]
+3[ThisForm.TotalLine];180.00[ThisForm.TotalInvQty]
+@
+|

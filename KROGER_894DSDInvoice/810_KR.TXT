@@ -1,0 +1,27 @@
+N;
+^030813;62197;030113;
+PLANT ODYSSEY, INC.;102758836
+0;Invoice;030113;Order;;"";(713)661-8305 x 3;KG
+;;;1156.50;0.00;0.00;1156.50;0.00;0.00;
+K314;034
+K314;KROGER #314 (2A);5150 Buffalo Speedway;;Houston;TX;77005      ;314
+KROGER;The Kroger Company;Floral Buying Office;19245 David Memorial Drive;Shenandoah;TX;77385      
+;;;034;;;;;;
+7101 Niederwald Strasse;Niederwald;Tx;78640-3902 
+5150 Buffalo Speedway;;Houston;TX;77005      
+D03400530
+0.0;040713;040713;30;30;NET 30
+130308
+^150;4.7500;;79386410500;10 in. Hanging Baskets
+;HB 10;10 in. Hanging Baskets;1;Each;1;712.50;0.00;0.00;;Y;;;;10500
+;                                                                                
+^240;1.8500;;79386405000;5 in. Pots
+;Pots 05;5 in. Pots;1;Each;8;444.00;0.00;0.00;;Y;;;;5000
+;                                                                                
+PLANT ODYSSEY, INC.;62197
+^N;0.00;;
+1156.50
+390.00;180.00;180
+2;390.00
+@
+|

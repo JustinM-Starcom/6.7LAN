@@ -1,0 +1,23 @@
+^031005;232742;030805;01922365
+Test Vendor;03-056-678
+0;Invoice;030805;Order;2 Day Carts;bren/js/suds;(708)865-9900;JS
+;;;468.00;0.00;0.00;0.00;0.00;0.00;
+1901;0
+HD-1901;Home Depot # 1901;700 Broadview Square;;Broadview;IL;60153      ;1901
+HD;Home Depot;Dept 28 Payables;P.O. Box 105728;Atlanta;GA;30348-5728 
+0;0;0;0;;;;;;
+RT. 89, Box 36;Granville;IL;61326      
+700 Broadview Square;;Broadview;IL;60153      
+10621
+0.0;040905;040905;30;30;NET 30
+050310
+^360;1.30;208-467;044054050802;5" Gerbera Daisy
+;GERBD-5;5" Gerbera Daisy;1;DSPLYB;1;468.00;0.00;0.00;;N;;
+;                                                                                
+Test Vendor;232742
+^N;0.00;;
+468.00
+360.00;1.00;360
+1;360.00
+@
+|

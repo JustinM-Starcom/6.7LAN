@@ -1,0 +1,27 @@
+N;
+^012913;61447;012413;
+PLANT ODYSSEY, INC.;102758836
+0;Invoice;012413;Order;Our truck;;;KG
+;;;1122.00;0.00;0.00;1122.00;0.00;0.00;
+H668;0
+H668;HEB (#668);2990 East Highway 190;;Copperas Cove;TX;76522      ;668
+HEB;H.E.B. Grocery Company;D.S.D.  Accounting Department;P.O. Box 9999;San Antonio;TX;78204-0999 
+;;;;;;;;;
+7101 Niederwald Strasse;Niederwald;Tx;78640-3902 
+2990 East Highway 190;;Copperas Cove;TX;76522      
+19880
+0.0;022813;022813;30;30;NET 30
+130129
+^100;4.4200;;79386410500;10 in. Hanging Baskets
+;HB 10;10 in. Hanging Baskets;1;Each;1;442.00;0.00;0.00;;Y;;;;10500
+;                                                                                
+^80;8.5000;;79386490290;10 in. Pots
+;Pots 10;10 in. Pots;1;Each;1;680.00;0.00;0.00;;Y;;;;90290
+;                                                                                
+PLANT ODYSSEY, INC.;61447
+^N;0.00;;
+1122.00
+180.00;180.00;180
+2;180.00
+@
+|

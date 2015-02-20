@@ -1,0 +1,23 @@
+^120105;45085;112305;75969287
+Timberline Nursery;021791103
+0;Invoice;112305;Posted;truck;;512-308-1022;COO
+;;;382.50;0.00;0.00;382.50;0.00;0.00;
+6575;0
+HD6575;Home Depot #6575;525 Hwy 71 W;;Bastrop;TX;78602      ;6575
+HDEPOT;Home Depot;Vendor# 54151;Attn: Dept. 28 - Payables;Atlanta;GA;30339      
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+525 Hwy 71 W;;Bastrop;TX;78602      
+0000054151
+1.0;123105;010106;30;31;1/30N31
+051201
+^51;7.50;410691;830340001357;8in Poinsettia
+;60POIN8POT;8in Poinsettia-Red;1;BOXES;1;382.50;0.00;0.00;;Y;;
+;                                                                                
+Timberline Nursery;45085
+^N;0.00;;
+382.50
+51.00;17.00;51
+1;51.00
+@
+|

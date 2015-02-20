@@ -1,0 +1,26 @@
+^070810;353616;070810;
+Eighteen Acres Ltd.;
+0;Cr Memo;070810;Posted;ALBERTA TRUCK;TERRI;780-462-6670;ARP
+;;110719;0.00;0.00;0.00;0.00;0.00;0.00;
+6622;0
+SA6622;SAVE ON FOODS 6622;1120 - 91 STREET SW;SUMMERSIDE;EDMONTON;AB;T6X 0P2    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+1120 - 91 STREET SW;SUMMERSIDE;EDMONTON;AB;T6X 0P2    
+
+0.0;070810;070810;0;0;NET 7
+100708
+^0;0.00;;;
+;;SALES - BUCKETS;0;;0;-236.00;0.00;0.00;;N;;;;0
+;                                                                                
+^0;0.00;;;
+;;GST;0;;0;-11.30;0.00;0.00;;N;;;;0
+;                                                                                
+Eighteen Acres Ltd.;353616
+^N;0.00;;
+-247.30
+0.00;0.00;0
+2;0.00
+@
+|

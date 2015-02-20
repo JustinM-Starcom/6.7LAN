@@ -1,0 +1,29 @@
+^120203;54845;101303;204642890
+Post Gardens of Battle Creek Inc.;017340548
+0;Invoice;101303;Posted;;EDI 850;574-936-4000;
+;;;508.95;0.00;0.00;508.95;0.00;0.00;
+3571;17340548
+K3571;K-Mart  #3571;2500 NORTH OAK ROAD;;PLYMOUTH;IN;465633409  ;571
+KMART;Kmart Corp.;Vendor Audit Dept. 17340548;3100 West Big Beaver;Troy;MI;48084-3163 
+;;7;17340548;;;;;;
+3055 W Michigan;Battle Creek;MI;49017      
+2500 NORTH OAK ROAD;;PLYMOUTH;IN;465633409  
+17340548
+0.0;120203;010104;0;30;NET 30
+031202
+^1;12.63;(95) 0-457056-117;099702120505;10 INCH POINSETTIA
+;POIN10";10 INCH POINSETTIA;1;EA;1;12.63;0.00;0.00;;Y;00000997020000548453;
+;                                                                                
+^168;2.65;(95) 0-503857-138;099702120062;6 INCH POINSETTIA
+;POIN6";6 INCH POINSETTIA;1;EA;1;445.20;0.00;0.00;;Y;00000997020000548453;
+;                                                                                
+^12;4.26;(95) 0-526284-112;099702120048;6.5 INCH POINSETTIA
+;POIN6.5";6.5 INCH POINSETTIA;1;EA;1;51.12;0.00;0.00;;Y;00000997020000548453;
+;                                                                                
+Post Gardens of Battle Creek Inc.;54845
+^N;0.00;;
+508.95
+181.00;1.28;181
+3;181.00
+@
+|

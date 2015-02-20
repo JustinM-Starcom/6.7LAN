@@ -1,0 +1,778 @@
+^021808;228535;012308;223977983
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;850-243-8185;WKA
+;;;965.90;0.00;0.00;0.00;0.00;0.00;
+3223;00010814770
+KM3223;K-Mart Store #3223;200 Irwin NE;;Fort Walton Beach,;FL;32548      ;3223
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+200 IRWIN NE;;FORT WALTON BEACH;FL;325484435  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^60;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;318.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228535
+^N;0.00;;
+965.90
+164.00;143.00;143
+6;164.00
+@
+^021808;228540;012308;223977988
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;904-272-7774;WKA
+;;;965.90;0.00;0.00;0.00;0.00;0.00;
+3353;00010814770
+KM3353;K-Mart Store #3353;Sears Essentials # 3353;380 Blanding Blvd;Orange Park,;FL;32073      ;3353
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+380 BLANDING BLVD;;ORANGE PARK;FL;320734351  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^60;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;318.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228540
+^N;0.00;;
+965.90
+164.00;143.00;143
+6;164.00
+@
+^021808;228544;012308;223977992
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;850-769-2251;WKA
+;;;1071.90;0.00;0.00;0.00;0.00;0.00;
+3355;00010814770
+KM3355;K-Mart Store #3355;1329 W. 15th St.;;Panama City,;FL;32401      ;3355
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+1329 W 15TH ST;;PANAMA CITY;FL;324012048  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^80;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;424.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228544
+^N;0.00;;
+1071.90
+184.00;163.00;163
+6;184.00
+@
+^021808;228550;012308;223977998
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;352-332-2105;WKA
+;;;1230.90;0.00;0.00;0.00;0.00;0.00;
+3424;00010814770
+KM3424;K-Mart Store #3424;900 NW 76 Bvld.;;Gainesville,;FL;32606      ;3424
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+900 NW 76 BOULEVARD;;GAINESVILLE;FL;326066747  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^110;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;583.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228550
+^N;0.00;;
+1230.90
+214.00;193.00;193
+6;214.00
+@
+^021808;228565;012308;223978013
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;850-729-2244;WKA
+;;;1177.90;0.00;0.00;0.00;0.00;0.00;
+3701;00010814770
+KM3701;K-Mart Store #3701;1140 E. John Sims Pkwy.;;Niceville,;FL;32578      ;3701
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+1140 E JOHN SIMS PKWY;;NICEVILLE;FL;325782204  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^100;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;530.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228565
+^N;0.00;;
+1177.90
+204.00;183.00;183
+6;204.00
+@
+^021808;228583;012308;223978031
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;850-234-6012;WKA
+;;;965.90;0.00;0.00;0.00;0.00;0.00;
+3939;00010814770
+KM3939;K-Mart Store #3939;7100 W Highway 98;;Panama City;FL;32405      ;3939
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+7100 HIGHWAY 98 WEST;;PANAMA CITY BEACH;FL;324074801  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^60;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;318.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228583
+^N;0.00;;
+965.90
+164.00;143.00;143
+6;164.00
+@
+^021808;228593;012308;223978041
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;850-626-7653;WKA
+;;;1177.90;0.00;0.00;0.00;0.00;0.00;
+3975;00010814770
+KM3975;K-Mart Store #3975;6050 Highway #90;;Milton;FL;32570      ;3975
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+6050 HIGHWAY 90;;MILTON;FL;325701703  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^100;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;530.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228593
+^N;0.00;;
+1177.90
+204.00;183.00;183
+6;204.00
+@
+^021808;228602;012308;223978050
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;850-456-7416;WKA
+;;;1177.90;0.00;0.00;0.00;0.00;0.00;
+4122;00010814770
+KM4122;K-Mart Store #4122;4211 Mobile Hwy;;Pensacola;FL;32506      ;4122
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+4211 MOBILE HWY;;PENSACOLA;FL;325064205  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^100;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;530.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228602
+^N;0.00;;
+1177.90
+204.00;183.00;183
+6;204.00
+@
+^021808;228610;012308;223978058
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;904-396-6931;WKA
+;;;1177.90;0.00;0.00;0.00;0.00;0.00;
+4283;00010814770
+KM4283;K-Mart Store #4283;5751 Beach Blvd;;Jacksonville;FL;32207      ;4283
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+5751 BEACH BLVD;;JACKSONVILLE;FL;322075163  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^100;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;530.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228610
+^N;0.00;;
+1177.90
+204.00;183.00;183
+6;204.00
+@
+^021808;228612;012308;223978060
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;904-772-8911;WKA
+;;;1177.90;0.00;0.00;0.00;0.00;0.00;
+4286;00010814770
+KM4286;K-Mart Store #4286;4645 Blanding Bvld;;Jacksonville;FL;32210      ;4286
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+4645 BLANDING BLVD;;JACKSONVILLE;FL;322107324  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^100;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;530.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228612
+^N;0.00;;
+1177.90
+204.00;183.00;183
+6;204.00
+@
+^021808;228621;012308;223978069
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;904-764-7613;WKA
+;;;1177.90;0.00;0.00;0.00;0.00;0.00;
+4410;00010814770
+KM4410;K-Mart Store #4410;9459 Lem Turner Rd;;Jacksonville;FL;32208      ;4410
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+9459 LEM TURNER RD;;JACKSONVILLE;FL;322081568  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^100;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;530.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228621
+^N;0.00;;
+1177.90
+204.00;183.00;183
+6;204.00
+@
+^021808;228627;012308;223978075
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;850-877-6133;WKA
+;;;1177.90;0.00;0.00;0.00;0.00;0.00;
+4489;00010814770
+KM4489;K-Mart Store #4489;1701 Apalachee Parkway;1-850-877-6133;Tallahassee;FL;32301      ;4489
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+1701 APALACHEE PARKWAY;;TALLAHASSEE;FL;323013009  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^100;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;530.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228627
+^N;0.00;;
+1177.90
+204.00;183.00;183
+6;204.00
+@
+^021808;228642;012308;223978090
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;904-783-2008;WKA
+;;;965.90;0.00;0.00;0.00;0.00;0.00;
+4848;00010814770
+KM4848;K-Mart Store #4848;1501 Normandy Village Pkwy;***** NO TUESDAY DELIVERIES **;Jacksonville;FL;32221      ;4848
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+1501 NORMANDY VILLAGE PKY;;JACKSONVILLE;FL;322216698  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^60;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;318.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228642
+^N;0.00;;
+965.90
+164.00;143.00;143
+6;164.00
+@
+^021808;228666;012308;223978114
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;904-249-7273;WKA
+;;;965.90;0.00;0.00;0.00;0.00;0.00;
+7071;00010814770
+KM7071;K-Mart Store #7071;500 Atlantic Blvd;;Neptune Bch;FL;32266      ;7071
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+500 ATLANTIC BLVD;;NEPTUNE BEACH;FL;322664024  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^60;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;318.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228666
+^N;0.00;;
+965.90
+164.00;143.00;143
+6;164.00
+@
+^021808;228671;012308;223978119
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;904-824-8361;WKA
+;;;965.90;0.00;0.00;0.00;0.00;0.00;
+7079;00010814770
+KM7079;K-Mart Store #7079;1777 US 1 South;;St Agustine;FL;32086      ;7079
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+1777 US HIGHWAY 1 S;;ST AUGUSTINE;FL;320844253  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^60;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;318.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228671
+^N;0.00;;
+965.90
+164.00;143.00;143
+6;164.00
+@
+^021808;228682;012308;223978130
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;904-268-3325;WKA
+;;;1230.90;0.00;0.00;0.00;0.00;0.00;
+7265;00010814770
+KM7265;K-Mart Store #7265;9600 San Jose Blvd;;Jacksonville;FL;32257      ;7265
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+9600 SAN JOSE BLVD;;JACKSONVILLE;FL;322575434  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^110;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;583.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228682
+^N;0.00;;
+1230.90
+214.00;193.00;193
+6;214.00
+@
+^021808;228698;012308;223978146
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;850-763-3936;WKA
+;;;1246.90;0.00;0.00;0.00;0.00;0.00;
+7558;00010814770
+KM7558;K-Mart Store #7558;225 S Tyndall Pkwy;;Callaway;FL;32401      ;7558
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+225 S TYNDALL PKWY;;CALLAWAY;FL;324046795  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^100;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;530.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^16;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;152.00;0.00;0.00;;N;;
+;                                                                                
+^52;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;312.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228698
+^N;0.00;;
+1246.90
+212.00;191.00;191
+6;212.00
+@
+^021808;228703;012308;223978151
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;904-261-2004;WKA
+;;;1230.90;0.00;0.00;0.00;0.00;0.00;
+7613;00010814770
+KM7613;K-Mart Store #7613;1525 Sadler Rd.;;Fernandina Beach,;FL;32034      ;7613
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+1525 SADLER RD;;FERNANDINA BEACH;FL;320344467  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^110;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;583.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228703
+^N;0.00;;
+1230.90
+214.00;193.00;193
+6;214.00
+@
+^021808;228705;012308;223978153
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;850-838-1870;WKA
+;;;921.90;0.00;0.00;0.00;0.00;0.00;
+7643;00010814770
+KM7643;K-Mart Store #7643;1809 Byron Butler Pkwy;;Perry,;FL;32347      ;7643
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+1809 BYRON BUTLER PARKWAY;;PERRY;FL;323475507  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^80;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;424.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^25;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;150.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228705
+^N;0.00;;
+921.90
+159.00;138.00;138
+6;159.00
+@
+^021808;228711;012308;223978159
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;386-325-5315;WKA
+;;;1177.90;0.00;0.00;0.00;0.00;0.00;
+9511;00010814770
+KM9511;K-Mart Store #9511;111 Town & Country Dr.;;Palatka,;FL;32177      ;9511
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+111 TOWN  COUNTRY DRIVE;;PALATKA;FL;321773996  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^100;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;530.00;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^50;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;300.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228711
+^N;0.00;;
+1177.90
+204.00;183.00;183
+6;204.00
+@
+^021808;228726;012308;223978174
+Dewar Nurseries, Inc.;
+0;Invoice;012308;Posted;Dewar Truck;EDI 850;850-478-7785;WKA
+;;;1054.40;0.00;0.00;0.00;0.00;0.00;
+9714;00010814770
+KM9714;K-Mart Store #9714;235 E. 9 Mile Rd.;;Pensacola,;FL;32514      ;9714
+KM;K-Mart Corp - Attn: VN 143;Dewar Duns#010814770;3100 W. Big Beaver;Troy;MI;48084      
+;;;00010814770;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+235 E 9 MILE RD STE 3;;PENSACOLA;FL;325343132  
+00000474551
+1.0;031908;031908;30;30;1.0/30 N/30
+080218
+^105;5.30;975860164;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;EA;1;556.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.35;098707011;095062000730;Rose 3 Gal
+;ROS3G;Rose 3 Gal Knockout;1;EA;1;93.50;0.00;0.00;;N;;
+;                                                                                
+^10;9.50;098707111;095062001225;Rose 3 Gal
+;ROS3G;ROSE BLEND 3POT;1;EA;1;95.00;0.00;0.00;;N;;
+;                                                                                
+^25;6.00;098706611;095062000747;Rose 1 Gal
+;ROS1G;Rose Knockout 1POT;1;EA;1;150.00;0.00;0.00;;N;;
+;                                                                                
+^24;3.10;050168811;095062121008;Rose Mini 4"
+;ROSM04;Rose Mini 4POT;8;CA;1;74.40;0.00;0.00;;N;;
+;                                                                                
+^10;8.50;975860115;095062001072;Rose Trellis 2 Gal
+;ROSTL2G;Rose Trellis 2 Gal;1;EA;1;85.00;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;228726
+^N;0.00;;
+1054.40
+184.00;163.00;163
+6;184.00
+@
+|

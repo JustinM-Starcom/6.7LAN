@@ -1,0 +1,23 @@
+N;
+^041511;25275;040911;120171940
+CK Greenhouses, Inc.;960372589
+0;Invoice;040911;Order;CK Gnhs Truck;Staged cutoff 4/13;203-468-3068;
+;;;672.00;0.00;0.00;672.00;0.00;0.00;
+N593;16113
+IN593;Lowe's of New Haven,  CT;115 Foxon Blvd;;New Haven;CT;06513      ;593
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+;;;16113;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+115 Foxon Blvd;;New Haven;CT;06513      
+25633
+0.0;041511;053011;0;45;NET 45 Days
+110415
+^48;5.50;162396;614902162393
+^48;8.50;93603;614902936031
+CK Greenhouses, Inc.;25275
+^N;0.00;;
+672.00
+96.00;2.00;16
+2;96.00
+@
+|

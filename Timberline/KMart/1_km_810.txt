@@ -1,0 +1,23 @@
+^010405;14405;010405;7890
+Timberline Nursery;021791103
+0;Invoice;010405;Order;truck;KEVIN w/starcom;318-742-6811;COO
+;;EDI test;37.50;0.00;0.00;37.50;0.00;0.00;
+3016;0
+KM3016;Big Kmart #3016;3045 E Texas St.;;Bossier City;LA;71111      ;3016
+KMART;K-MART Corporate;3100 W. Big Beaver Rd.;;Troy;MI;48084-3163 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+3045 E Texas St.;;Bossier City;LA;71111      
+979294
+0.0;010405;021805;0;45;N45
+050104
+^30;1.25;454978115;830340001272;606 Jumbo Annual-6 per Flat
+;01ANN606;606 Jumbo Annual-6 per Flat;1;FLATS;6;37.50;0.00;0.00;;Y;;
+;                                                                                
+Timberline Nursery;14405
+^N;0.00;;
+37.50
+30.00;1.00;5
+1;30.00
+@
+|

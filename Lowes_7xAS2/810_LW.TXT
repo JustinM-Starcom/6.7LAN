@@ -1,0 +1,450 @@
+N;
+^092110;23901;091410;108789673
+CK Greenhouses, Inc.;960372589
+0;Invoice;091410;Order;CK Gnhs Truck;RTR edit 9/17;860-502-1068;1215
+;;;3376.00;0.00;0.00;3376.00;0.00;0.00;
+1665;17653
+1665;Lowe's of Bloomfield,  CT;325 Cottage Grove Rd;;Bloomfield;CT;06002      ;1665
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+325 Cottage Grove Rd;;Bloomfield;CT;06002      
+25633
+0.0;092110;110510;0;45;NET 45 Days
+100921
+^40;9.75;235802;614902114569;11 Colors of Fall Harvest Bskt
+;Mum 11BBAN;1.5GAL FALL ANNUAL BUSHEL BSKT;1;Cart;1;390.00;0.00;0.00;;Y;;;;101800
+;                                                                                
+^50;7.50;158631;614902121260;Mum Color Bowl
+;MumCB12;1.5GAL MUM COLOR BOWL;1;Cart;1;375.00;0.00;0.00;;Y;;;;100920
+;                                                                                
+^20;8.25;122355;614902117775;11 Harvest Basket Mum
+;Mum 11 BB;1.5GAL MUM HARVEST BASKET;1;Cart;1;165.00;0.00;0.00;;Y;;;;100800
+;                                                                                
+^1080;0.80;94000;614902412337;4 Garden Mum
+;Mum 4;1PT GARDEN MUM;1;Cart;12;864.00;0.00;0.00;;Y;;;;94000
+;                                                                                
+^24;8.50;86730;614902123004;12 Garden Mum
+;Mum 12;2.0 GAL MUM GARDEN PLANTER;1;Cart;1;204.00;0.00;0.00;;Y;;;;209479
+;                                                                                
+^24;8.75;15254;614902123202;12 Multicolor Mum
+;Mum 12mult;2GAL MULTI-COLOR MUM PLANTER;1;Cart;1;210.00;0.00;0.00;;Y;;;;209519
+;                                                                                
+^32;8.75;278735;614902123103;12 Mum with Grass
+;Mum 12grs;2GAL MUM W/GRASS;1;Cart;1;280.00;0.00;0.00;;Y;;;;209499
+;                                                                                
+^24;14.50;67469;614902144443;14 Mum Harvest Basket
+;Mum 14 BB;3GAL MUM HARVEST BASKET;1;Cart;1;348.00;0.00;0.00;;Y;;;;100960
+;                                                                                
+^216;2.50;93245;614902875224;8 Garden Mum
+;Mum 8;3QT MUM GARDEN;1;Cart;1;540.00;0.00;0.00;;Y;;;;93245
+;                                                                                
+CK Greenhouses, Inc.;23901
+^N;0.00;;
+3376.00
+1510.00;15.00;520
+9;1510.00
+@
+N;
+^092110;23902;091410;108789674
+CK Greenhouses, Inc.;960372589
+0;Invoice;091410;Order;CK Gnhs Truck;Adj Juliette 9/18;718-758-2910;1230
+;;;1925.40;0.00;0.00;1488.60;0.00;0.00;
+2284;17653
+2284;Lowe's of Brooklyn, NY  Kings Plaza;5602 Avenue U;;Brooklyn;NY;11234      ;2284
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+Lowes;NY;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+5602 Avenue U;;Brooklyn;NY;11234      
+25633
+0.0;092110;110510;0;45;NET 45 Days
+100921
+^48;9.10;200358;614902200354;Whiskey Barrell Mum
+;MumWiskey;1.5GAL MUM WHISKEY BARREL;1;Cart;1;436.80;0.00;0.00;;N;;;;1901
+;                                                                                
+^1080;0.80;94000;614902412337;4 Garden Mum
+;Mum 4;1PT GARDEN MUM;1;Cart;12;864.00;0.00;0.00;;Y;;;;94000
+;                                                                                
+^36;2.35;99600;614902876115;8 Cabbage / Kale
+;Mum 8C&K;3QT CABBAGE & KALE;1;Cart;1;84.60;0.00;0.00;;Y;;;;100900
+;                                                                                
+^216;2.50;93245;614902875224;8 Garden Mum
+;Mum 8;3QT MUM GARDEN;1;Cart;1;540.00;0.00;0.00;;Y;;;;93245
+;                                                                                
+CK Greenhouses, Inc.;23902
+^N;0.00;;
+1925.40
+1380.00;7.00;390
+4;1380.00
+@
+N;
+^092110;23904;091410;108789676
+CK Greenhouses, Inc.;960372589
+0;Invoice;091410;Order;CK Gnhs Truck;RTR edit 9/17;203-546-6962;871
+;;;6482.80;0.00;0.00;6296.80;0.00;0.00;
+2544;17653
+2544;Lowe's of Danbury CT;67 Eagle Rd;;Danbury;CT;06810      ;2254
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+67 Eagle Rd;;Danbury;CT;06810      
+25633
+0.0;092110;110510;0;45;NET 45 Days
+100921
+^40;9.75;235802;614902114569;11 Colors of Fall Harvest Bskt
+;Mum 11BBAN;1.5GAL FALL ANNUAL BUSHEL BSKT;1;Cart;1;390.00;0.00;0.00;;Y;;;;101800
+;                                                                                
+^50;7.50;158631;614902121260;Mum Color Bowl
+;MumCB12;1.5GAL MUM COLOR BOWL;1;Cart;1;375.00;0.00;0.00;;Y;;;;100920
+;                                                                                
+^48;6.25;4276;614902101231;10 Garden Mum HB
+;Mum 10HB;1.5GAL MUM H/B;1;Cart;1;300.00;0.00;0.00;;Y;;;;100885
+;                                                                                
+^20;8.25;122355;614902117775;11 Harvest Basket Mum
+;Mum 11 BB;1.5GAL MUM HARVEST BASKET;1;Cart;1;165.00;0.00;0.00;;Y;;;;100800
+;                                                                                
+^60;8.00;302622;614902302621;Container Annuals
+;Containers;10 IN Succulents Planter;1;Cart;1;480.00;0.00;0.00;;Y;;;;541
+;                                                                                
+^1080;0.80;94000;614902412337;4 Garden Mum
+;Mum 4;1PT GARDEN MUM;1;Cart;12;864.00;0.00;0.00;;Y;;;;94000
+;                                                                                
+^48;8.50;86730;614902123004;12 Garden Mum
+;Mum 12;2.0 GAL MUM GARDEN PLANTER;1;Cart;1;408.00;0.00;0.00;;Y;;;;209479
+;                                                                                
+^48;8.75;15254;614902123202;12 Multicolor Mum
+;Mum 12mult;2GAL MULTI-COLOR MUM PLANTER;1;Cart;1;420.00;0.00;0.00;;Y;;;;209519
+;                                                                                
+^32;8.75;278735;614902123103;12 Mum with Grass
+;Mum 12grs;2GAL MUM W/GRASS;1;Cart;1;280.00;0.00;0.00;;Y;;;;209499
+;                                                                                
+^12;15.50;201670;614902201672;Whiskey Barrell Mum
+;MumWiskey;3.0GAL MUM WHISKEY BARREL;1;Cart;1;186.00;0.00;0.00;;N;;;;1661
+;                                                                                
+^48;14.50;67469;614902144443;14 Mum Harvest Basket
+;Mum 14 BB;3GAL MUM HARVEST BASKET;1;Cart;1;696.00;0.00;0.00;;Y;;;;100960
+;                                                                                
+^144;3.15;79689;614902858517;8 Aster
+;Mum 8Aster;3QT ASTER;1;Cart;1;453.60;0.00;0.00;;Y;;;;100700
+;                                                                                
+^72;2.35;99600;614902876115;8 Cabbage / Kale
+;Mum 8C&K;3QT CABBAGE & KALE;1;Cart;1;169.20;0.00;0.00;;Y;;;;100900
+;                                                                                
+^360;2.50;93245;614902875224;8 Garden Mum
+;Mum 8;3QT MUM GARDEN;1;Cart;1;900.00;0.00;0.00;;Y;;;;93245
+;                                                                                
+^36;11.00;83286;614902125541;Container Annuals
+;Containers;PLANTER REFILL LARGE;1;Cart;1;396.00;0.00;0.00;;Y;;;;1001
+;                                                                                
+CK Greenhouses, Inc.;23904
+^N;0.00;;
+6482.80
+2098.00;29.00;1108
+15;2098.00
+@
+N;
+^092110;23905;091410;108789677
+CK Greenhouses, Inc.;960372589
+0;Invoice;091410;Order;CK Gnhs Truck;Adj Sam 9/16;413-543-0601;1215
+;;;694.00;0.00;0.00;694.00;0.00;0.00;
+0660;17653
+660;Lowe's Of Springfield, MA;1600 Boston Rd;;Springfield;MA;01129      ;660
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+MA;LOWES;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+1600 Boston Rd;;Springfield;MA;01129      
+25633
+0.0;092110;110510;0;45;NET 45 Days
+100921
+^200;1.55;50780;614902687773;6 Garden Mum
+;Mum 6;1.25 QT MUM GARDEN;1;Cart;8;310.00;0.00;0.00;;Y;;;;100880
+;                                                                                
+^24;8.50;86730;614902123004;12 Garden Mum
+;Mum 12;2.0 GAL MUM GARDEN PLANTER;1;Cart;1;204.00;0.00;0.00;;Y;;;;209479
+;                                                                                
+^72;2.50;93245;614902875224;8 Garden Mum
+;Mum 8;3QT MUM GARDEN;1;Cart;1;180.00;0.00;0.00;;Y;;;;93245
+;                                                                                
+CK Greenhouses, Inc.;23905
+^N;0.00;;
+694.00
+296.00;3.00;121
+3;296.00
+@
+N;
+^092110;23906;091410;108789678
+CK Greenhouses, Inc.;960372589
+0;Invoice;091410;Order;CK Gnhs Truck;RTR edit 9/17;516-794-6531;1230
+;;;5704.00;0.00;0.00;5081.20;0.00;0.00;
+1624;17653
+1624;Lowe's of Garden City, NY;700 Dibblee Drive;;Garden City;NY;11530      ;1624
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+NY;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+700 Dibblee Drive;;Garden City;NY;11530      
+25633
+0.0;092110;110510;0;45;NET 45 Days
+100921
+^80;9.75;235802;614902114569;11 Colors of Fall Harvest Bskt
+;Mum 11BBAN;1.5GAL FALL ANNUAL BUSHEL BSKT;1;Cart;1;780.00;0.00;0.00;;Y;;;;101800
+;                                                                                
+^100;7.50;158631;614902121260;Mum Color Bowl
+;MumCB12;1.5GAL MUM COLOR BOWL;1;Cart;1;750.00;0.00;0.00;;Y;;;;100920
+;                                                                                
+^48;9.10;200358;614902200354;Whiskey Barrell Mum
+;MumWiskey;1.5GAL MUM WHISKEY BARREL;1;Cart;1;436.80;0.00;0.00;;N;;;;1901
+;                                                                                
+^60;8.00;302622;614902302621;Container Annuals
+;Containers;10 IN Succulents Planter;1;Cart;1;480.00;0.00;0.00;;Y;;;;541
+;                                                                                
+^1620;0.80;94000;614902412337;4 Garden Mum
+;Mum 4;1PT GARDEN MUM;1;Cart;12;1296.00;0.00;0.00;;Y;;;;94000
+;                                                                                
+^48;8.50;86730;614902123004;12 Garden Mum
+;Mum 12;2.0 GAL MUM GARDEN PLANTER;1;Cart;1;408.00;0.00;0.00;;Y;;;;209479
+;                                                                                
+^24;8.75;15254;614902123202;12 Multicolor Mum
+;Mum 12mult;2GAL MULTI-COLOR MUM PLANTER;1;Cart;1;210.00;0.00;0.00;;Y;;;;209519
+;                                                                                
+^32;8.75;278735;614902123103;12 Mum with Grass
+;Mum 12grs;2GAL MUM W/GRASS;1;Cart;1;280.00;0.00;0.00;;Y;;;;209499
+;                                                                                
+^12;15.50;201670;614902201672;Whiskey Barrell Mum
+;MumWiskey;3.0GAL MUM WHISKEY BARREL;1;Cart;1;186.00;0.00;0.00;;N;;;;1661
+;                                                                                
+^24;14.50;67469;614902144443;14 Mum Harvest Basket
+;Mum 14 BB;3GAL MUM HARVEST BASKET;1;Cart;1;348.00;0.00;0.00;;Y;;;;100960
+;                                                                                
+^72;2.35;99600;614902876115;8 Cabbage / Kale
+;Mum 8C&K;3QT CABBAGE & KALE;1;Cart;1;169.20;0.00;0.00;;Y;;;;100900
+;                                                                                
+^144;2.50;93245;614902875224;8 Garden Mum
+;Mum 8;3QT MUM GARDEN;1;Cart;1;360.00;0.00;0.00;;Y;;;;93245
+;                                                                                
+CK Greenhouses, Inc.;23906
+^N;0.00;;
+5704.00
+2264.00;22.00;779
+12;2264.00
+@
+N;
+^092110;23907;091410;108789679
+CK Greenhouses, Inc.;960372589
+0;Invoice;091410;Order;CK Gnhs Truck;Adj Chris 9/16;413-588-0270;1215
+;;;1286.20;0.00;0.00;1067.80;0.00;0.00;
+1916;17653
+1916;Lowe's of Hadley, MA;282 Russell St;;Hadley;MA;01035      ;1916
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+MA;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+282 Russell St;;Hadley;MA;01035      
+25633
+0.0;092110;110510;0;45;NET 45 Days
+100921
+^200;1.55;50780;614902687773;6 Garden Mum
+;Mum 6;1.25 QT MUM GARDEN;1;Cart;8;310.00;0.00;0.00;;Y;;;;100880
+;                                                                                
+^30;7.50;158631;614902121260;Mum Color Bowl
+;MumCB12;1.5GAL MUM COLOR BOWL;1;Cart;1;225.00;0.00;0.00;;Y;;;;100920
+;                                                                                
+^24;9.10;200358;614902200354;Whiskey Barrell Mum
+;MumWiskey;1.5GAL MUM WHISKEY BARREL;1;Cart;1;218.40;0.00;0.00;;N;;;;1901
+;                                                                                
+^216;0.80;94000;614902412337;4 Garden Mum
+;Mum 4;1PT GARDEN MUM;1;Cart;12;172.80;0.00;0.00;;Y;;;;94000
+;                                                                                
+^144;2.50;93245;614902875224;8 Garden Mum
+;Mum 8;3QT MUM GARDEN;1;Cart;1;360.00;0.00;0.00;;Y;;;;93245
+;                                                                                
+CK Greenhouses, Inc.;23907
+^N;0.00;;
+1286.20
+614.00;5.00;241
+5;614.00
+@
+N;
+^092110;23908;091410;108789680
+CK Greenhouses, Inc.;960372589
+0;Invoice;091410;Order;CK Gnhs Truck;RTR edit 9/17;860-644-7220;1215
+;;;4920.00;0.00;0.00;4297.20;0.00;0.00;
+0763;17653
+763;Lowe's Of Manchester, CT;31 Buckland Hills Dr;;Manchester;CT;06040      ;763
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;LOWES;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+31 Buckland Hills Dr;;Manchester;CT;06040      
+25633
+0.0;092110;110510;0;45;NET 45 Days
+100921
+^40;9.75;235802;614902114569;11 Colors of Fall Harvest Bskt
+;Mum 11BBAN;1.5GAL FALL ANNUAL BUSHEL BSKT;1;Cart;1;390.00;0.00;0.00;;Y;;;;101800
+;                                                                                
+^50;7.50;158631;614902121260;Mum Color Bowl
+;MumCB12;1.5GAL MUM COLOR BOWL;1;Cart;1;375.00;0.00;0.00;;Y;;;;100920
+;                                                                                
+^20;8.25;122355;614902117775;11 Harvest Basket Mum
+;Mum 11 BB;1.5GAL MUM HARVEST BASKET;1;Cart;1;165.00;0.00;0.00;;Y;;;;100800
+;                                                                                
+^48;9.10;200358;614902200354;Whiskey Barrell Mum
+;MumWiskey;1.5GAL MUM WHISKEY BARREL;1;Cart;1;436.80;0.00;0.00;;N;;;;1901
+;                                                                                
+^2160;0.80;94000;614902412337;4 Garden Mum
+;Mum 4;1PT GARDEN MUM;1;Cart;12;1728.00;0.00;0.00;;Y;;;;94000
+;                                                                                
+^24;8.50;86730;614902123004;12 Garden Mum
+;Mum 12;2.0 GAL MUM GARDEN PLANTER;1;Cart;1;204.00;0.00;0.00;;Y;;;;209479
+;                                                                                
+^24;8.75;15254;614902123202;12 Multicolor Mum
+;Mum 12mult;2GAL MULTI-COLOR MUM PLANTER;1;Cart;1;210.00;0.00;0.00;;Y;;;;209519
+;                                                                                
+^12;15.50;201670;614902201672;Whiskey Barrell Mum
+;MumWiskey;3.0GAL MUM WHISKEY BARREL;1;Cart;1;186.00;0.00;0.00;;N;;;;1661
+;                                                                                
+^48;14.50;67469;614902144443;14 Mum Harvest Basket
+;Mum 14 BB;3GAL MUM HARVEST BASKET;1;Cart;1;696.00;0.00;0.00;;Y;;;;100960
+;                                                                                
+^72;2.35;99600;614902876115;8 Cabbage / Kale
+;Mum 8C&K;3QT CABBAGE & KALE;1;Cart;1;169.20;0.00;0.00;;Y;;;;100900
+;                                                                                
+^144;2.50;93245;614902875224;8 Garden Mum
+;Mum 8;3QT MUM GARDEN;1;Cart;1;360.00;0.00;0.00;;Y;;;;93245
+;                                                                                
+CK Greenhouses, Inc.;23908
+^N;0.00;;
+4920.00
+2642.00;19.00;662
+11;2642.00
+@
+N;
+^092110;23909;091410;108789681
+CK Greenhouses, Inc.;960372589
+0;Invoice;091410;Order;CK Gnhs Truck;Adj Donald 9/17;718-682-9027;1217
+;;;3590.00;0.00;0.00;3404.00;0.00;0.00;
+1583;17653
+1583;Lowe's of N.W. Staten Island, NY;2171 Forest Ave;;Staten Island;NY;10303      ;1583
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+NY;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+2171 Forest Ave;;Staten Island;NY;10303      
+25633
+0.0;092110;110510;0;45;NET 45 Days
+100921
+^400;1.55;50780;614902687773;6 Garden Mum
+;Mum 6;1.25 QT MUM GARDEN;1;Cart;8;620.00;0.00;0.00;;Y;;;;100880
+;                                                                                
+^48;6.75;86944;614902114446;10 Garden Mum
+;Mum 10;1.5GAL MUM GARDEN;1;Cart;1;324.00;0.00;0.00;;Y;;;;100720
+;                                                                                
+^144;6.25;4276;614902101231;10 Garden Mum HB
+;Mum 10HB;1.5GAL MUM H/B;1;Cart;1;900.00;0.00;0.00;;Y;;;;100885
+;                                                                                
+^540;0.80;94000;614902412337;4 Garden Mum
+;Mum 4;1PT GARDEN MUM;1;Cart;12;432.00;0.00;0.00;;Y;;;;94000
+;                                                                                
+^24;8.50;86730;614902123004;12 Garden Mum
+;Mum 12;2.0 GAL MUM GARDEN PLANTER;1;Cart;1;204.00;0.00;0.00;;Y;;;;209479
+;                                                                                
+^24;8.75;15254;614902123202;12 Multicolor Mum
+;Mum 12mult;2GAL MULTI-COLOR MUM PLANTER;1;Cart;1;210.00;0.00;0.00;;Y;;;;209519
+;                                                                                
+^12;15.50;201670;614902201672;Whiskey Barrell Mum
+;MumWiskey;3.0GAL MUM WHISKEY BARREL;1;Cart;1;186.00;0.00;0.00;;N;;;;1661
+;                                                                                
+^12;14.50;67469;614902144443;14 Mum Harvest Basket
+;Mum 14 BB;3GAL MUM HARVEST BASKET;1;Cart;1;174.00;0.00;0.00;;Y;;;;100960
+;                                                                                
+^216;2.50;93245;614902875224;8 Garden Mum
+;Mum 8;3QT MUM GARDEN;1;Cart;1;540.00;0.00;0.00;;Y;;;;93245
+;                                                                                
+CK Greenhouses, Inc.;23909
+^N;0.00;;
+3590.00
+1420.00;14.00;575
+9;1420.00
+@
+N;
+^092110;23910;091410;108789682
+CK Greenhouses, Inc.;960372589
+0;Invoice;091410;Order;CK Gnhs Truck;Adj David 9/20;860-667-7003;1215
+;;;1438.00;0.00;0.00;1438.00;0.00;0.00;
+0623;17653
+623;Lowe's Of Newington, CT;3270 Berlin Tpk;;Newington;CT;06111      ;623
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;LOWES;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+3270 Berlin Tpk;;Newington;CT;06111      
+25633
+0.0;092110;110510;0;45;NET 45 Days
+100921
+^200;1.55;50780;614902687773;6 Garden Mum
+;Mum 6;1.25 QT MUM GARDEN;1;Cart;8;310.00;0.00;0.00;;Y;;;;100880
+;                                                                                
+^24;8.75;15254;614902123202;12 Multicolor Mum
+;Mum 12mult;2GAL MULTI-COLOR MUM PLANTER;1;Cart;1;210.00;0.00;0.00;;Y;;;;209519
+;                                                                                
+^288;2.50;93245;614902875224;8 Garden Mum
+;Mum 8;3QT MUM GARDEN;1;Cart;1;720.00;0.00;0.00;;Y;;;;93245
+;                                                                                
+^18;11.00;83286;614902125541;Container Annuals
+;Containers;PLANTER REFILL LARGE;1;Cart;1;198.00;0.00;0.00;;Y;;;;1001
+;                                                                                
+CK Greenhouses, Inc.;23910
+^N;0.00;;
+1438.00
+530.00;7.00;355
+4;530.00
+@
+N;
+^092110;23911;091410;108789683
+CK Greenhouses, Inc.;960372589
+0;Invoice;091410;Order;CK Gnhs Truck;Adj Stacy 9/21;631-406-2015;1230
+;;;4879.80;0.00;0.00;4443.00;0.00;0.00;
+2233;17653
+2233;Lowe's of Stony Brook, NY;2150 Nesconset Highway;;Stony Brook;NY;11790      ;2233
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+NY;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+2150 Nesconset Highway;;Stony Brook;NY;11790      
+25633
+0.0;092110;110510;0;45;NET 45 Days
+100921
+^48;7.75;10178;614902101552;Hanging Baskets
+;HB's;1.25 GAL FOLIAGE DLXE HNGING B;1;Cart;1;372.00;0.00;0.00;;Y;;;;361
+;                                                                                
+^20;8.25;122355;614902117775;11 Harvest Basket Mum
+;Mum 11 BB;1.5GAL MUM HARVEST BASKET;1;Cart;1;165.00;0.00;0.00;;Y;;;;100800
+;                                                                                
+^48;9.10;200358;614902200354;Whiskey Barrell Mum
+;MumWiskey;1.5GAL MUM WHISKEY BARREL;1;Cart;1;436.80;0.00;0.00;;N;;;;1901
+;                                                                                
+^60;8.00;302622;614902302621;Container Annuals
+;Containers;10 IN Succulents Planter;1;Cart;1;480.00;0.00;0.00;;Y;;;;541
+;                                                                                
+^540;0.80;94000;614902412337;4 Garden Mum
+;Mum 4;1PT GARDEN MUM;1;Cart;12;432.00;0.00;0.00;;Y;;;;94000
+;                                                                                
+^760;1.50;242292;400002422921;Fall Items
+;FALL;1QT REBOUND PANSY;1;Cart;8;1140.00;0.00;0.00;;Y;;;;101040
+;                                                                                
+^24;8.50;86730;614902123004;12 Garden Mum
+;Mum 12;2.0 GAL MUM GARDEN PLANTER;1;Cart;1;204.00;0.00;0.00;;Y;;;;209479
+;                                                                                
+^12;14.50;67469;614902144443;14 Mum Harvest Basket
+;Mum 14 BB;3GAL MUM HARVEST BASKET;1;Cart;1;174.00;0.00;0.00;;Y;;;;100960
+;                                                                                
+^72;3.15;79689;614902858517;8 Aster
+;Mum 8Aster;3QT ASTER;1;Cart;1;226.80;0.00;0.00;;Y;;;;100700
+;                                                                                
+^72;2.35;99600;614902876115;8 Cabbage / Kale
+;Mum 8C&K;3QT CABBAGE & KALE;1;Cart;1;169.20;0.00;0.00;;Y;;;;100900
+;                                                                                
+^432;2.50;93245;614902875224;8 Garden Mum
+;Mum 8;3QT MUM GARDEN;1;Cart;1;1080.00;0.00;0.00;;Y;;;;93245
+;                                                                                
+CK Greenhouses, Inc.;23911
+^N;0.00;;
+4879.80
+2088.00;19.00;928
+11;2088.00
+@
+|

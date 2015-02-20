@@ -1,0 +1,276 @@
+N;
+^021811;242103;021511;237332832
+Timberline Nursery;021791103
+0;Invoice;021511;Order;truck;;361-643-8571;COO
+2;;;1972.24;0.00;0.00;1972.24;0.00;0.00;
+7296;0
+KM7296;Big Kmart #7296;1400 Wildcat Drive;;Portland;TX;78374      ;7296
+KMART;Sears Holding Corporation;Accounting Services Cntr 9767;PO Box 660200;Dallas;TX;75266-0200 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+1400 Wildcat Drive;;Portland;TX;78374      
+979294
+0.0;021811;040411;0;45;N45
+110218
+^576;1.38;002139356;830340003535;606 Jumbo Ann - 6/Fl - 96/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 96/Rk;1;EA;6;794.88;0.00;0.00;;Y;;;;1040
+;                                                                                
+^24;7.00;002139357;830340003634;24 Pack Annual - 96/Rk
+;14ANN24PK;24 Pack Annual - 96/Rk;1;EA;1;168.00;0.00;0.00;;Y;;;;10030
+;                                                                                
+^450;1.00;002139361;830340002248;4.50in Rnd Ann - 10/Fl - 60/Rk
+;21ANN425R;4.50in Rnd Ann - 10/Fl - 60/Rk;1;EA;10;450.00;0.00;0.00;;Y;;;;21800
+;                                                                                
+^80;2.80;002139364;830340002699;6in Premium - 8/Fl - 40/Rk
+;40PRM06;6in Premium - 8/Fl - 40/Rk;1;EA;8;224.00;0.00;0.00;;Y;;;;44018
+;                                                                                
+^40;5.18;002139369;830340003054;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;207.20;0.00;0.00;;Y;;;;70020
+;                                                                                
+^16;8.01;002139372;830340003375;10in Deco Annual - 64/Rk
+;80ANN10DEC;10in Deco Annual - 64/Rk;1;EA;1;128.16;0.00;0.00;;Y;;;;80210
+;                                                                                
+Timberline Nursery;242103
+^N;0.00;;
+1972.24
+1186.00;3.00;231
+6;1186.00
+@
+N;
+^021811;242104;021511;237332827
+Timberline Nursery;021791103
+0;Invoice;021511;Order;truck;;956-682-6166;COO
+2;;;1972.24;0.00;0.00;1972.24;0.00;0.00;
+4389;0
+KM4389;Big Kmart #4389;1801 South 10th Street;;McAllen;TX;78503      ;4389
+KMART;Sears Holding Corporation;Accounting Services Cntr 9767;PO Box 660200;Dallas;TX;75266-0200 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+1801 South 10th Street;;McAllen;TX;78503      
+979294
+0.0;021811;040411;0;45;N45
+110218
+^576;1.38;002139356;830340003535;606 Jumbo Ann - 6/Fl - 96/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 96/Rk;1;EA;6;794.88;0.00;0.00;;Y;;;;1040
+;                                                                                
+^24;7.00;002139357;830340003634;24 Pack Annual - 96/Rk
+;14ANN24PK;24 Pack Annual - 96/Rk;1;EA;1;168.00;0.00;0.00;;Y;;;;10030
+;                                                                                
+^450;1.00;002139361;830340002248;4.50in Rnd Ann - 10/Fl - 60/Rk
+;21ANN425R;4.50in Rnd Ann - 10/Fl - 60/Rk;1;EA;10;450.00;0.00;0.00;;Y;;;;21800
+;                                                                                
+^80;2.80;002139364;830340002699;6in Premium - 8/Fl - 40/Rk
+;40PRM06;6in Premium - 8/Fl - 40/Rk;1;EA;8;224.00;0.00;0.00;;Y;;;;44018
+;                                                                                
+^40;5.18;002139369;830340003054;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;207.20;0.00;0.00;;Y;;;;70020
+;                                                                                
+^16;8.01;002139372;830340003375;10in Deco Annual - 64/Rk
+;80ANN10DEC;10in Deco Annual - 64/Rk;1;EA;1;128.16;0.00;0.00;;Y;;;;80210
+;                                                                                
+Timberline Nursery;242104
+^N;0.00;;
+1972.24
+1186.00;3.00;231
+6;1186.00
+@
+N;
+^021811;242105;021511;237332829
+Timberline Nursery;021791103
+0;Invoice;021511;Order;truck;;956-580-3353;COO
+2;;;1972.24;0.00;0.00;1972.24;0.00;0.00;
+4708;0
+KM4708;Big Kmart #4708;1405 East Expressway 83;;Mission;TX;78572      ;4708
+KMART;Sears Holding Corporation;Accounting Services Cntr 9767;PO Box 660200;Dallas;TX;75266-0200 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+1405 East Expressway 83;;Mission;TX;78572      
+979294
+0.0;021811;040411;0;45;N45
+110218
+^576;1.38;002139356;830340003535;606 Jumbo Ann - 6/Fl - 96/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 96/Rk;1;EA;6;794.88;0.00;0.00;;Y;;;;1040
+;                                                                                
+^24;7.00;002139357;830340003634;24 Pack Annual - 96/Rk
+;14ANN24PK;24 Pack Annual - 96/Rk;1;EA;1;168.00;0.00;0.00;;Y;;;;10030
+;                                                                                
+^450;1.00;002139361;830340002248;4.50in Rnd Ann - 10/Fl - 60/Rk
+;21ANN425R;4.50in Rnd Ann - 10/Fl - 60/Rk;1;EA;10;450.00;0.00;0.00;;Y;;;;21800
+;                                                                                
+^80;2.80;002139364;830340002699;6in Premium - 8/Fl - 40/Rk
+;40PRM06;6in Premium - 8/Fl - 40/Rk;1;EA;8;224.00;0.00;0.00;;Y;;;;44018
+;                                                                                
+^40;5.18;002139369;830340003054;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;207.20;0.00;0.00;;Y;;;;70020
+;                                                                                
+^16;8.01;002139372;830340003375;10in Deco Annual - 64/Rk
+;80ANN10DEC;10in Deco Annual - 64/Rk;1;EA;1;128.16;0.00;0.00;;Y;;;;80210
+;                                                                                
+Timberline Nursery;242105
+^N;0.00;;
+1972.24
+1186.00;3.00;231
+6;1186.00
+@
+N;
+^021811;242106;021511;237332831
+Timberline Nursery;021791103
+0;Invoice;021511;Order;truck;;956-428-4191;COO
+2;;;2459.36;0.00;0.00;2459.36;0.00;0.00;
+7077;0
+KM7077;Big Kmart #7077;1129 Morgan Blvd.;;Harlingen;TX;78550      ;7077
+KMART;Sears Holding Corporation;Accounting Services Cntr 9767;PO Box 660200;Dallas;TX;75266-0200 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+1129 Morgan Blvd.;;Harlingen;TX;78550      
+979294
+0.0;021811;040411;0;45;N45
+110218
+^576;1.38;002139356;830340003535;606 Jumbo Ann - 6/Fl - 96/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 96/Rk;1;EA;6;794.88;0.00;0.00;;Y;;;;1040
+;                                                                                
+^48;7.00;002139357;830340003634;24 Pack Annual - 96/Rk
+;14ANN24PK;24 Pack Annual - 96/Rk;1;EA;1;336.00;0.00;0.00;;Y;;;;10030
+;                                                                                
+^600;1.00;002139361;830340002248;4.50in Rnd Ann - 10/Fl - 60/Rk
+;21ANN425R;4.50in Rnd Ann - 10/Fl - 60/Rk;1;EA;10;600.00;0.00;0.00;;Y;;;;21800
+;                                                                                
+^96;2.80;002139364;830340002699;6in Premium - 8/Fl - 40/Rk
+;40PRM06;6in Premium - 8/Fl - 40/Rk;1;EA;8;268.80;0.00;0.00;;Y;;;;44018
+;                                                                                
+^64;5.18;002139369;830340003054;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;331.52;0.00;0.00;;Y;;;;70020
+;                                                                                
+^16;8.01;002139372;830340003375;10in Deco Annual - 64/Rk
+;80ANN10DEC;10in Deco Annual - 64/Rk;1;EA;1;128.16;0.00;0.00;;Y;;;;80210
+;                                                                                
+Timberline Nursery;242106
+^N;0.00;;
+2459.36
+1400.00;3.85;296
+6;1400.00
+@
+N;
+^021811;242107;021511;237332833
+Timberline Nursery;021791103
+0;Invoice;021511;Order;truck;;956-546-0264;COO
+2;;;3166.08;0.00;0.00;3166.08;0.00;0.00;
+9329;0
+KM9329;Big Kmart #9329;2440 Pablo Kisel Blvd.;;Brownsville;TX;78520      ;9329
+KMART;Sears Holding Corporation;Accounting Services Cntr 9767;PO Box 660200;Dallas;TX;75266-0200 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+2440 Pablo Kisel Blvd.;;Brownsville;TX;78520      
+979294
+0.0;021811;040411;0;45;N45
+110218
+^648;1.38;002139356;830340003535;606 Jumbo Ann - 6/Fl - 96/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 96/Rk;1;EA;6;894.24;0.00;0.00;;Y;;;;1040
+;                                                                                
+^72;7.00;002139357;830340003634;24 Pack Annual - 96/Rk
+;14ANN24PK;24 Pack Annual - 96/Rk;1;EA;1;504.00;0.00;0.00;;Y;;;;10030
+;                                                                                
+^700;1.00;002139361;830340002248;4.50in Rnd Ann - 10/Fl - 60/Rk
+;21ANN425R;4.50in Rnd Ann - 10/Fl - 60/Rk;1;EA;10;700.00;0.00;0.00;;Y;;;;21800
+;                                                                                
+^160;2.80;002139364;830340002699;6in Premium - 8/Fl - 40/Rk
+;40PRM06;6in Premium - 8/Fl - 40/Rk;1;EA;8;448.00;0.00;0.00;;Y;;;;44018
+;                                                                                
+^72;5.18;002139369;830340003054;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;372.96;0.00;0.00;;Y;;;;70020
+;                                                                                
+^16;7.42;002139370;830340003252;10in Bskt Deluxe Prm - 64/Rk
+;70PRM10HB;10in Bskt Deluxe Prm - 64/Rk;1;EA;1;118.72;0.00;0.00;;Y;;;;75110
+;                                                                                
+^16;8.01;002139372;830340003375;10in Deco Annual - 64/Rk
+;80ANN10DEC;10in Deco Annual - 64/Rk;1;EA;1;128.16;0.00;0.00;;Y;;;;80210
+;                                                                                
+Timberline Nursery;242107
+^N;0.00;;
+3166.08
+1684.00;4.94;374
+7;1684.00
+@
+N;
+^021811;242108;021511;237332828
+Timberline Nursery;021791103
+0;Invoice;021511;Order;truck;;956-687-7788;COO
+2;;;3207.52;0.00;0.00;3207.52;0.00;0.00;
+4707;0
+KM4707;Big Kmart #4707;3701 North 23rd Street;;McAllen;TX;78501      ;4707
+KMART;Sears Holding Corporation;Accounting Services Cntr 9767;PO Box 660200;Dallas;TX;75266-0200 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+3701 North 23rd Street;;McAllen;TX;78501      
+979294
+0.0;021811;040411;0;45;N45
+110218
+^648;1.38;002139356;830340003535;606 Jumbo Ann - 6/Fl - 96/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 96/Rk;1;EA;6;894.24;0.00;0.00;;Y;;;;1040
+;                                                                                
+^72;7.00;002139357;830340003634;24 Pack Annual - 96/Rk
+;14ANN24PK;24 Pack Annual - 96/Rk;1;EA;1;504.00;0.00;0.00;;Y;;;;10030
+;                                                                                
+^700;1.00;002139361;830340002248;4.50in Rnd Ann - 10/Fl - 60/Rk
+;21ANN425R;4.50in Rnd Ann - 10/Fl - 60/Rk;1;EA;10;700.00;0.00;0.00;;Y;;;;21800
+;                                                                                
+^160;2.80;002139364;830340002699;6in Premium - 8/Fl - 40/Rk
+;40PRM06;6in Premium - 8/Fl - 40/Rk;1;EA;8;448.00;0.00;0.00;;Y;;;;44018
+;                                                                                
+^80;5.18;002139369;830340003054;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;414.40;0.00;0.00;;Y;;;;70020
+;                                                                                
+^16;7.42;002139370;830340003252;10in Bskt Deluxe Prm - 64/Rk
+;70PRM10HB;10in Bskt Deluxe Prm - 64/Rk;1;EA;1;118.72;0.00;0.00;;Y;;;;75110
+;                                                                                
+^16;8.01;002139372;830340003375;10in Deco Annual - 64/Rk
+;80ANN10DEC;10in Deco Annual - 64/Rk;1;EA;1;128.16;0.00;0.00;;Y;;;;80210
+;                                                                                
+Timberline Nursery;242108
+^N;0.00;;
+3207.52
+1692.00;5.04;382
+7;1692.00
+@
+N;
+^021811;242109;021511;237332830
+Timberline Nursery;021791103
+0;Invoice;021511;Order;truck;;956-729-1199;COO
+2;;;3207.52;0.00;0.00;3207.52;0.00;0.00;
+4809;0
+KM4809;Big Kmart #4809;5000 San Dario;;Laredo;TX;78041      ;4809
+KMART;Sears Holding Corporation;Accounting Services Cntr 9767;PO Box 660200;Dallas;TX;75266-0200 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+5000 San Dario;;Laredo;TX;78041      
+979294
+0.0;021811;040411;0;45;N45
+110218
+^648;1.38;002139356;830340003535;606 Jumbo Ann - 6/Fl - 96/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 96/Rk;1;EA;6;894.24;0.00;0.00;;Y;;;;1040
+;                                                                                
+^72;7.00;002139357;830340003634;24 Pack Annual - 96/Rk
+;14ANN24PK;24 Pack Annual - 96/Rk;1;EA;1;504.00;0.00;0.00;;Y;;;;10030
+;                                                                                
+^700;1.00;002139361;830340002248;4.50in Rnd Ann - 10/Fl - 60/Rk
+;21ANN425R;4.50in Rnd Ann - 10/Fl - 60/Rk;1;EA;10;700.00;0.00;0.00;;Y;;;;21800
+;                                                                                
+^160;2.80;002139364;830340002699;6in Premium - 8/Fl - 40/Rk
+;40PRM06;6in Premium - 8/Fl - 40/Rk;1;EA;8;448.00;0.00;0.00;;Y;;;;44018
+;                                                                                
+^80;5.18;002139369;830340003054;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;414.40;0.00;0.00;;Y;;;;70020
+;                                                                                
+^16;7.42;002139370;830340003252;10in Bskt Deluxe Prm - 64/Rk
+;70PRM10HB;10in Bskt Deluxe Prm - 64/Rk;1;EA;1;118.72;0.00;0.00;;Y;;;;75110
+;                                                                                
+^16;8.01;002139372;830340003375;10in Deco Annual - 64/Rk
+;80ANN10DEC;10in Deco Annual - 64/Rk;1;EA;1;128.16;0.00;0.00;;Y;;;;80210
+;                                                                                
+Timberline Nursery;242109
+^N;0.00;;
+3207.52
+1692.00;5.04;382
+7;1692.00
+@
+|

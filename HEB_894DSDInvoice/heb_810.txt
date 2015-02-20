@@ -1,0 +1,26 @@
+^030310;42210;020810;
+PLANT ODYSSEY, INC.;
+0;Invoice;020810;Order;;;(817)641-6203;KG
+;;;625.40;0.00;0.00;440.00;0.00;0.00;
+H264;0
+H264;HEB (#264);600 W. Henderson;;Cleburne;TX;76031      ;264
+HEB;H.E.B. Grocery Company;D.S.D.  Accounting Department;P.O. Box 9999;San Antonio;TX;78204-0999 
+;;;;;;;;;
+7101 Niederwald Strasse;Niederwald;Tx;78640-3902 
+600 W. Henderson;;Cleburne;TX;76031      
+19880
+0.0;040210;040210;30;30;NET 30
+100303
+^100;4.40;;79386425666;10 in. Hanging Baskets
+;HB 10;10 in. Hanging Baskets;1;Each;1;440.00;0.00;0.00;;Y;;;;10500
+;                                                                                
+^360;0.52;;79386441180;4 in. Vegetables
+;Veg 04;4 in. Vegetables;1;Flat;18;185.40;0.00;0.00;;N;;;;48242
+;                                                                                
+PLANT ODYSSEY, INC.;42210
+^N;0.00;;
+625.40
+460.00;120.00;120
+2;460.00
+@
+|

@@ -1,0 +1,27 @@
+N;
+^120110;130626;112410;6750053086
+Grower Direct Farms;108960428
+0;Invoice;112410;Order;Our Truck;;(781)857-2345;HD
+;;;797.10;0.00;0.00;0.00;0.00;0.00;
+2227;0
+WAL2227;Wal-Mart #2227;777 Brockton Ave.;;Abington;MA;02351      ;0078742021768
+WAL-MART;WAL-MART STORES, INC.;702 S.W. 8th Street;Inv.Control Dept. Ven. #576587;Bentonville;AR;72716-0333 
+C;;;;;;;;;
+164 Hampden Road;Somers;CT;06071      
+777 Brockton Ave.;;Abington;MA;02351      
+576587560
+0.0;120110;010511;0;35;NET 35
+101201
+^120;2.33;005602090;738604650009;6" Poinsettia
+;POINT06;6" Poinsettia - Promo;1;EA;1;279.60;0.00;0.00;;N;;;;65002
+;                                                                                
+^69;7.50;005698604;738604665003;8" Poinsettia
+;POINT08;8" Poinsettia;1;EA;1;517.50;0.00;0.00;;N;;;;66000
+;                                                                                
+Grower Direct Farms;130626
+^N;0.00;;
+797.10
+189.00;2.92;189
+2;189.00
+@
+|

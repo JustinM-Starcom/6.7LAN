@@ -1,0 +1,49 @@
+N;
+^121511;68584;121211;63106268
+Jeffery's Greenhouses Plant II;
+0;Invoice;121211;Posted;JEFFERY'S TRUCK;EDI 850;;
+;8:00;;591.50;0.00;0.00;591.50;0.00;13.00;
+7161;0
+HD#7161;Home Depot #7161 - Richmond Hill;1706 Elgin Mills Road E;;Richomond Hill;ON;L4S1M6     ;7161
+HDCANADA;HOME DEPOT CANADA;P.O. BOX 900;STATION D;SCARBOROUGH;ON;M1R 5H8    
+;;;;;072271711C;;;;
+RR#3, 1036 Lakeshore Rd. West;ST. CATHARINES;ON;L2R 6P9    
+1706 ELGIN MILLS ROAD E;;RICHMOND HILL;ON;L4S 1M6    
+14548
+2.0;011412;011412;30;30;2.0/30 N/30
+111215
+^350;1.69;137058;6-23390-29252-9;Cyclamen 4" Potted Plant
+;CYC4;Cyclamen 4" Potted Plant;350;cart;1;591.50;0.00;0.00;;Y;;;;11000
+;                                                                                
+Jeffery's Greenhouses Plant II;68584
+^A;2.96;;I170
+^C;7689.50;;      
+665.05
+350.00;1.00;1
+1;350.00
+@
+N;
+^121511;68585;121211;63106271
+Jeffery's Greenhouses Plant II;
+0;Invoice;121211;Posted;JEFFERY'S TRUCK;EDI 850;;
+;14:30;;591.50;0.00;0.00;591.50;0.00;13.00;
+7239;0
+HD#7239;Home Depot #7239 - Brampton East;9105 Airport Road;;Brampton;ON;L6S0B8     ;7239
+HDCANADA;HOME DEPOT CANADA;P.O. BOX 900;STATION D;SCARBOROUGH;ON;M1R 5H8    
+;;;;;;;;;
+RR#3, 1036 Lakeshore Rd. West;ST. CATHARINES;ON;L2R 6P9    
+9105 AIRPORT ROAD;;BRAMPTON;ON;L6S 0B8    
+14548
+2.0;011412;011412;30;30;2.0/30 N/30
+111215
+^350;1.69;137058;6-23390-29252-9;Cyclamen 4" Potted Plant
+;CYC4;Cyclamen 4" Potted Plant;350;cart;1;591.50;0.00;0.00;;Y;;;;11000
+;                                                                                
+Jeffery's Greenhouses Plant II;68585
+^A;2.96;;I170
+^C;7689.50;;      
+665.05
+350.00;1.00;1
+1;350.00
+@
+|

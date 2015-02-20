@@ -1,0 +1,8 @@
+M200	WARNING:
+	Map: Adv_Ship   Output: Receiver InterchangeIDQual'r Element:ISAPartnerInfo:Partner Outbound ISA Segment Control ANSI:Out_856
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: Adv_Ship   Output: InterchangeRcv'rID Element:ISAPartnerInfo:Partner Outbound ISA Segment Control ANSI:Out_856
+	Size of input item is greater than size of output item.
+

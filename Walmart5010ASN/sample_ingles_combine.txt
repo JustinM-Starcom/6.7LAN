@@ -1,0 +1,13 @@
+doc #   ship_to_na     line_descri   catego   sku       qt              Pall         lading_    weigh poun  volum   cubic_f
+888472  INGLES #0412   06 KALANCHOE  FLWR06   803012     8         PLT                0.00  0.00 LB     0.00   CF
+888472  INGLES #0412   06 MUM ASSOR  FLWR06   803270     16        PLT                0.29  0.00 LB    30.79   CF
+888472  INGLES #0412   04 MINIATURE  FLWR04   802180     15        PLT                0.00  0.00 LB     0.00   CF
+888472  INGLES #0412   04 CYCLAMEN   FLWR04   802060     15        PLT                0.00  0.00 LB     0.00   CF
+888473  INGLES #0414   04 CYCLAMEN   FLWR04   802060     15        PLT                0.00  0.00 LB     0.00   CF
+888473  INGLES #0414   04 MINIATURE  FLWR04   802180     15        PLT                0.00  0.00 LB     0.00   CF
+888473  INGLES #0414   06 KALANCHOE  FLWR06   803012     8         PLT                0.00  0.00 LB     0.00   CF
+888473  INGLES #0414   06 MUM ASSOR  FLWR06   803270     16        PLT                0.29  0.00 LB    30.79   CF
+888475  INGLES #0436   04 CYCLAMEN   FLWR04   802060     15        PLT                0.00  0.00 LB     0.00   CF
+888475  INGLES #0436   06 KALANCHOE  FLWR06   803012     8         PLT                0.00  0.00 LB     0.00   CF
+888475  INGLES #0436   04 MINIATURE  FLWR04   802180     15        PLT                0.00  0.00 LB     0.00   CF
+888475  INGLES #0436   06 MUM ASSOR  FLWR06   803270     24        PLT                0.29  0.00 LB    30.79   CF

@@ -1,0 +1,16 @@
+M200	WARNING:
+	Map: Invoice   Output: Receiver InterchangeIDQual'r Element:ISAPartnerInfo:Partner Outbound ISA Segment Control ANSI:HD_810_Out
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: Invoice   Output: InterchangeRcv'rID Element:ISAPartnerInfo:Partner Outbound ISA Segment Control ANSI:HD_810_Out
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: Transaction   Output: PO# Element:BIG Segment:Transaction_Out
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: Transaction   Output: TermsNetDays Element:ITD Segment [1]:Transaction_Out
+	Size of input item is greater than size of output item.
+

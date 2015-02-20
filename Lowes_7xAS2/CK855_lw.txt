@@ -1,0 +1,456 @@
+R;
+^092810;24057;092110;108789764
+CK Greenhouses, Inc.;960372589
+0;Invoice;092110;Posted;CK Gnhs Truck;RTR edit  9/24;631-954-9001;1230
+;;;2172.00;0.00;0.00;2172.00;0.00;0.00;
+1709;17653
+1709;Lowe's of Bay Shore, NY;800 Sunrise Highway;;Bay Shore;NY;11706      ;1709
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+NY;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+800 Sunrise Highway;;Bay Shore;NY;11706      
+25633
+0.0;092810;111210;0;45;NET 45 Days
+100928
+^48;7.75;10178;614902101552
+^48;6.25;4276;614902101231
+^24;8.50;86730;614902123004
+^72;3.15;79689;614902858517
+^72;2.35;99600;614902876115
+^360;2.50;93245;614902875224
+CK Greenhouses, Inc.;24057
+^N;0.00;;
+2172.00
+624.00;10.00;624
+6;624.00
+@
+R;
+^092810;24059;092110;108789765
+CK Greenhouses, Inc.;960372589
+0;Invoice;092110;Posted;CK Gnhs Truck;RTR edit 9/24;860-502-1068;1215
+;;;1927.80;0.00;0.00;1491.00;0.00;0.00;
+1665;17653
+1665;Lowe's of Bloomfield,  CT;325 Cottage Grove Rd;;Bloomfield;CT;06002      ;1665
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+325 Cottage Grove Rd;;Bloomfield;CT;06002      
+25633
+0.0;092810;111210;0;45;NET 45 Days
+100928
+^50;7.50;158631;614902121260
+^48;6.25;4276;614902101231
+^48;9.10;200358;614902200354
+^72;8.50;86730;614902123004
+^48;4.25;278959;614902875446
+CK Greenhouses, Inc.;24059
+^N;0.00;;
+1927.80
+266.00;7.00;266
+5;266.00
+@
+R;
+^092810;24061;092110;108789766
+CK Greenhouses, Inc.;960372589
+0;Invoice;092110;Posted;CK Gnhs Truck;Adj Paul 9/24;718-758-2910;1230
+;;;1568.40;0.00;0.00;1350.00;0.00;0.00;
+2284;17653
+2284;Lowe's of Brooklyn, NY  Kings Plaza;5602 Avenue U;;Brooklyn;NY;11234      ;2284
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+Lowes;NY;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+5602 Avenue U;;Brooklyn;NY;11234      
+25633
+0.0;092810;111210;0;45;NET 45 Days
+100928
+^24;9.10;200358;614902200354
+^540;2.50;93245;614902875224
+CK Greenhouses, Inc.;24061
+^N;0.00;;
+1568.40
+564.00;9.00;564
+2;564.00
+@
+R;
+^092810;24063;092110;108789768
+CK Greenhouses, Inc.;960372589
+0;Invoice;092110;Posted;CK Gnhs Truck;Adj Dianne 9/24;860-894-3800;1215
+;;;1818.00;0.00;0.00;1818.00;0.00;0.00;
+2383;17653
+2383;Lowe's of Cromwell, CT;90 Berlin Rd;;Cromwell;CT;06416      ;2383
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+90 Berlin Rd;;Cromwell;CT;06416      
+25633
+0.0;092810;111210;0;45;NET 45 Days
+100928
+^48;6.25;4276;614902101231
+^48;8.50;86730;614902123004
+^24;8.75;278735;614902123103
+^360;2.50;93245;614902875224
+CK Greenhouses, Inc.;24063
+^N;0.00;;
+1818.00
+480.00;10.00;480
+4;480.00
+@
+C;
+^092810;24064;092110;108789769
+CK Greenhouses, Inc.;960372589
+0;Invoice;092110;Posted;CK Gnhs Truck;RTR edit 9/24;203-546-6962;871
+;;;1102.80;0.00;0.00;1102.80;0.00;0.00;
+2544;17653
+2544;Lowe's of Danbury CT;67 Eagle Rd;;Danbury;CT;06810      ;2254
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+67 Eagle Rd;;Danbury;CT;06810      
+25633
+0.0;092810;111210;0;45;NET 45 Days
+100928
+^48;7.75;10178;614902101552
+^48;6.25;4276;614902101231
+^24;8.50;86730;614902123004
+^72;3.15;79689;614902858517
+CK Greenhouses, Inc.;24064
+^N;0.00;;
+1102.80
+192.00;4.00;192
+4;192.00
+@
+C;
+^092810;24065;092110;108789770
+CK Greenhouses, Inc.;960372589
+0;Invoice;092110;Posted;CK Gnhs Truck;Adj Paul 9/24;413-543-0601;1215
+;;;914.00;0.00;0.00;914.00;0.00;0.00;
+0660;17653
+660;Lowe's Of Springfield, MA;1600 Boston Rd;;Springfield;MA;01129      ;660
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+MA;LOWES;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+1600 Boston Rd;;Springfield;MA;01129      
+25633
+0.0;092810;111210;0;45;NET 45 Days
+100928
+^400;1.55;50780;614902687773
+^12;8.00;302622;614902302621
+^36;3.15;79689;614902858517
+^36;2.35;99600;614902876115
+CK Greenhouses, Inc.;24065
+^N;0.00;;
+914.00
+484.00;4.00;134
+4;484.00
+@
+C;
+^092810;24066;092110;108789771
+CK Greenhouses, Inc.;960372589
+0;Invoice;092110;Posted;CK Gnhs Truck;RTR edit 9/24;516-794-6531;1230
+;;;979.20;0.00;0.00;979.20;0.00;0.00;
+1624;17653
+1624;Lowe's of Garden City, NY;700 Dibblee Drive;;Garden City;NY;11530      ;1624
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+NY;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+700 Dibblee Drive;;Garden City;NY;11530      
+25633
+0.0;092810;111210;0;45;NET 45 Days
+100928
+^48;6.25;4276;614902101231
+^40;8.25;122355;614902117775
+^72;2.35;99600;614902876115
+^72;2.50;93245;614902875224
+CK Greenhouses, Inc.;24066
+^N;0.00;;
+979.20
+232.00;4.00;232
+4;232.00
+@
+C;
+^092810;24070;092110;108789775
+CK Greenhouses, Inc.;960372589
+0;Invoice;092110;Posted;CK Gnhs Truck;Adj David 9/27;860-667-7003;1215
+;;;2394.00;0.00;0.00;2394.00;0.00;0.00;
+0623;17653
+623;Lowe's Of Newington, CT;3270 Berlin Tpk;;Newington;CT;06111      ;623
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;LOWES;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+3270 Berlin Tpk;;Newington;CT;06111      
+25633
+0.0;092810;111210;0;45;NET 45 Days
+100928
+^96;6.25;4276;614902101231
+^40;8.25;122355;614902117775
+^24;8.50;86730;614902123004
+^504;2.50;93245;614902875224
+CK Greenhouses, Inc.;24070
+^N;0.00;;
+2394.00
+664.00;11.00;664
+4;664.00
+@
+C;
+^092810;24072;092110;108789777
+CK Greenhouses, Inc.;960372589
+0;Invoice;092110;Posted;CK Gnhs Truck;RTR edit 9/24;413-277-4000;1215
+;;;1021.80;0.00;0.00;585.00;0.00;0.00;
+2386;17653
+2386;Lowe's of  Ware, MA;348 Palmer Rd;;Ware;MA;01082      ;2386
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+MA;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+348 Palmer Rd;;Ware;MA;01082      
+25633
+0.0;092810;111210;0;45;NET 45 Days
+100928
+^50;7.50;158631;614902121260
+^48;9.10;200358;614902200354
+^24;8.75;15254;614902123202
+CK Greenhouses, Inc.;24072
+^N;0.00;;
+1021.80
+122.00;3.00;122
+3;122.00
+@
+R;
+^092910;24078;092210;108789780
+CK Greenhouses, Inc.;960372589
+0;Invoice;092210;Posted;CK Gnhs Truck;Adj Tom 9/24;516-733-7840;1230
+;;;513.00;0.00;0.00;513.00;0.00;0.00;
+2612;17653
+2612;Lowe's of Hicksville, NY;920 South Broadway;;Hicksville;NY;11801      ;2612
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+NY;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+920 South Broadway;;Hicksville;NY;11801      
+25633
+0.0;092910;111310;0;45;NET 45 Days
+100929
+^144;2.50;93245;614902875224
+^36;4.25;114445;614902875330
+CK Greenhouses, Inc.;24078
+^N;0.00;;
+513.00
+180.00;3.00;180
+2;180.00
+@
+R;
+^092910;24079;092210;108789781
+CK Greenhouses, Inc.;960372589
+0;Invoice;092210;Posted;CK Gnhs Truck;RTR edit 9/27;631-207-4541;1230
+;;;2094.00;0.00;0.00;2094.00;0.00;0.00;
+1189;17653
+1189;Lowe's of Medford, NY;2796 Route 112;;Medford;NY;11763      ;1189
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+NY;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+2796 Route 112;;Medford;NY;11763      
+25633
+0.0;092910;111310;0;45;NET 45 Days
+100929
+^30;10.00;52489;614902524894
+^432;2.50;93245;614902875224
+^72;4.25;114445;614902875330
+^48;4.25;178521;614902875552
+^48;4.25;278959;614902875446
+CK Greenhouses, Inc.;24079
+^N;0.00;;
+2094.00
+630.00;10.00;630
+5;630.00
+@
+R;
+^092910;24080;092210;108789782
+CK Greenhouses, Inc.;960372589
+0;Invoice;092210;Posted;CK Gnhs Truck;Adj Chris 9/24;203-701-3150;871
+;;;360.00;0.00;0.00;360.00;0.00;0.00;
+2658;17653
+2658;Lowe's of Milford, CT;311 Old Gate Rd;;Milford;CT;06460      ;2658
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+311 Old Gate Rd;;Milford;CT;06460      
+25633
+0.0;092910;111310;0;45;NET 45 Days
+100929
+^144;2.50;93245;614902875224
+CK Greenhouses, Inc.;24080
+^N;0.00;;
+360.00
+144.00;2.00;144
+1;144.00
+@
+N;
+^092910;24081;092210;108789783
+CK Greenhouses, Inc.;960372589
+0;Invoice;092210;Posted;CK Gnhs Truck;Adj Beverly 9/27;468-3068;871
+;;;486.00;0.00;0.00;486.00;0.00;0.00;
+0593;17653
+593;Lowe's Of New Haven, CT;115 Foxon Blvd;;New Haven;CT;06513      ;593
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;LOWES;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+115 Foxon Blvd;;New Haven;CT;06513      
+25633
+0.0;092910;111310;0;45;NET 45 Days
+100929
+^72;2.50;93245;614902875224
+^72;4.25;114445;614902875330
+CK Greenhouses, Inc.;24081
+^N;0.00;;
+486.00
+144.00;2.00;144
+2;144.00
+@
+N;
+^092910;24083;092210;108789785
+CK Greenhouses, Inc.;960372589
+0;Invoice;092210;Posted;CK Gnhs Truck;Adj Tanner 9/27;631-687-6220;1230
+;;;892.80;0.00;0.00;892.80;0.00;0.00;
+2731;17653
+2731;Lowe's of Patchogue, NY;825 Montauk Highway;;East Patchogue;NY;11772      ;2731
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+NY;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+825 Montauk Highway;;East Patchogue;NY;11772      
+25633
+0.0;092910;111310;0;45;NET 45 Days
+100929
+^72;3.15;79689;614902858517
+^144;2.50;93245;614902875224
+^72;4.25;114445;614902875330
+CK Greenhouses, Inc.;24083
+^N;0.00;;
+892.80
+288.00;4.00;288
+3;288.00
+@
+N;
+^092910;24084;092210;108789786
+CK Greenhouses, Inc.;960372589
+0;Invoice;092210;Posted;CK Gnhs Truck;RTR edit 9/27;860-793-1500;871
+;;;4924.80;0.00;0.00;4924.80;0.00;0.00;
+0650;17653
+650;Lowe's Of Plainville, CT;246 New Britain Ave;;Plainville;CT;06062      ;650
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;LOWES;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+246 New Britain Ave;;Plainville;CT;06062      
+25633
+0.0;092910;111310;0;45;NET 45 Days
+100929
+^400;1.55;50780;614902687773
+^72;8.50;86730;614902123004
+^30;10.00;52489;614902524894
+^80;8.75;278735;614902123103
+^72;3.15;79689;614902858517
+^864;2.50;93245;614902875224
+^72;4.25;114445;614902875330
+CK Greenhouses, Inc.;24084
+^N;0.00;;
+4924.80
+1590.00;25.00;1240
+7;1590.00
+@
+N;
+^092910;24085;092210;108789787
+CK Greenhouses, Inc.;960372589
+0;Invoice;092210;Posted;CK Gnhs Truck;Adj Sandy 9/27;860-385-9193;871
+;;;814.00;0.00;0.00;814.00;0.00;0.00;
+2910;17653
+2910;Lowe's of Southington, CT;500 Executive Blvd;;Southington;CT;06489      ;2910
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+500 Executive Blvd;;Southington;CT;06489      
+25633
+0.0;092910;111310;0;45;NET 45 Days
+100929
+^32;8.75;278735;614902123103
+^12;14.50;67469;614902144443
+^144;2.50;93245;614902875224
+CK Greenhouses, Inc.;24085
+^N;0.00;;
+814.00
+188.00;5.00;188
+3;188.00
+@
+N;
+^092910;24087;092210;108789789
+CK Greenhouses, Inc.;960372589
+0;Invoice;092210;Posted;CK Gnhs Truck;RTR edit 9/27;626-4300;871
+;;;3312.80;0.00;0.00;3312.80;0.00;0.00;
+2288;17653
+2288;Lowe's of Wallingford, CT;1094 North Colony Rd;;Wallingford;CT;06492      ;2288
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+1094 North Colony Rd;;Wallingford;CT;06492      
+25633
+0.0;092910;111310;0;45;NET 45 Days
+100929
+^400;1.55;50780;614902687773
+^30;10.00;52489;614902524894
+^48;8.75;278735;614902123103
+^72;3.15;79689;614902858517
+^576;2.50;93245;614902875224
+^72;4.25;114445;614902875330
+CK Greenhouses, Inc.;24087
+^N;0.00;;
+3312.80
+1198.00;16.00;848
+6;1198.00
+@
+N;
+^092910;24088;092210;108789790
+CK Greenhouses, Inc.;960372589
+0;Invoice;092210;Posted;CK Gnhs Truck;RTR edit 9/27;860-701-2000;1272
+;;;3690.00;0.00;0.00;3690.00;0.00;0.00;
+2263;17653
+2263;Lowe's of Waterford, CT;167 Waterford Parkway North;;Waterford;CT;06385      ;2263
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+CT;Lowes;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+167 Waterford Parkway North;;Waterford;CT;06385      
+25633
+0.0;092910;111310;0;45;NET 45 Days
+100929
+^400;1.55;50780;614902687773
+^24;8.50;86730;614902123004
+^30;10.00;52489;614902524894
+^32;8.75;278735;614902123103
+^792;2.50;93245;614902875224
+^72;4.25;114445;614902875330
+CK Greenhouses, Inc.;24088
+^N;0.00;;
+3690.00
+1350.00;18.00;1000
+6;1350.00
+@
+N;
+^092910;24121;092710;100244820
+CK Greenhouses, Inc.;960372589
+0;Invoice;092710;Posted;CK Gnhs Truck;Store Pull Marie 9/2;774-678-6000;CK
+;;;1138.80;0.00;0.00;1138.80;0.00;0.00;
+2376;17653
+2376;Lowe's of Wareham, MA;2421 Cranberry Hwy;STE 100;Wareham;MA;02571      ;2376
+Lowes;Lowe' s Corperate Trade Payables;PO Box 1111;;North Wilkesboro;NC;28656      
+;;;17653;;;;;;
+200 Schoolhouse Rd;Cheshire;CT;06410      
+2421 Cranberry Hwy;STE 100;Wareham;MA;02571      
+25633
+0.0;092910;111310;0;45;NET 45 Days
+100929
+^24;8.50;86730;614902123004
+^30;10.00;52489;614902524894
+^72;3.15;79689;614902858517
+^96;4.25;178521;614902875552
+CK Greenhouses, Inc.;24121
+^N;0.00;;
+1138.80
+222.00;5.00;222
+4;222.00
+@
+|

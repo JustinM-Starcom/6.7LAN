@@ -1,0 +1,1627 @@
+^071510;353802;071010;6609-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;(780) 484-1088;ARP
+;;;521.75;0.00;0.00;521.75;0.00;5.00;
+6609;0
+SA6609;SAVE ON FOODS 6609;360 MAYFIELD COMMON;;EDMONTON;AB;T5P4B3     ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+360 MAYFIELD COMMON;;EDMONTON;AB;T5P4B3     
+
+0.0;071510;071510;0;0;NET 7
+100715
+^14;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;168.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^3;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;60.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^15;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;97.50;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^20;2.50;;774755940064;CUTS/BU
+;.8100_CFBU;FREESIA 10's BU;20;BUCKET;1;50.00;0.00;0.00;;Y;;;;824500
+;                                                                                
+^9;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;27.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^7;3.00;;7-74755-94140-5;CUTS/BU
+;.8100_CFBU;GERMINI 10's BU;7;BUCKET;1;21.00;0.00;0.00;;Y;;;;824846
+;                                                                                
+^15;1.75;;7-74755-94109-2;BOUQUETS
+;.8300;LEATHER & GYP BQT;15;BUCKET;1;26.25;0.00;0.00;;Y;;;;830150
+;Value add 1                                                                     
+^20;3.60;;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM ASSORTED (5st/bu);10;BUCKET;1;72.00;0.00;0.00;;Y;;;;828530
+;                                                                                
+Eighteen Acres Ltd.;353802
+^N;0.00;;
+^C;2608.75;;      
+547.84
+103.00;0.41;19
+8;103.00
+@
+^071510;353804;071010;6611-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;(780) 454-4699;ARP
+;;;535.62;0.00;0.00;535.62;0.00;5.00;
+6611;0
+SA6611;SAVE ON FOODS 6611;11541 KINGSWAY AVENUE;KINGSWAY;EDMONTON;AB;T5G 3AG    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+11541 KINGSWAY AVENUE;KINGSWAY;EDMONTON;AB;T5G 3AG    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^10;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;120.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^4;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;80.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^15;2.50;;774755111037;CUTS/BU
+;.8100_CFBU;ALSTRO 5's TALL BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;823040
+;                                                                                
+^18;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;54.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^50;2.00;;774755941351;CUTS/BU
+;.8100_CFBU;GLADIOLA 5's BU;25;BUCKET;1;100.00;0.00;0.00;;Y;;;;824854
+;                                                                                
+^1;42.00;;7-74755-98110-4;FLORAL SUPPLY
+;FLORALSUP;GLASS 6.5 VASE;1;CASE;1;42.00;0.00;0.00;;Y;;;;911712
+;                                                                                
+^1;30.12;1680751;7-74755-98140-1;FLORAL SUPPLY
+;FLORALSUP;GLASS.4175C.-10.5".ROMAN.COLUM;1;CASE;1;30.12;0.00;0.00;;Y;;;;911706
+;                                                                                
+^10;3.60;;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED ASST  BU (5st/b;10;BUCKET;1;36.00;0.00;0.00;;Y;;;;828540
+;Value add 1                                                                     
+^10;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;36.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353804
+^N;0.00;;
+^C;2678.10;;      
+562.40
+119.00;0.31;18
+9;119.00
+@
+^071510;353806;071010;6612-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780-471-6244;ARP
+;;;252.00;0.00;0.00;252.00;0.00;5.00;
+6612;0
+SA6612;SAVE ON FOODS 6612;8124 112TH AVENUE;STADIUM;EDMONTON;AB;T5B 4W4    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+8124 112TH AVENUE;STADIUM;EDMONTON;AB;T5B 4W4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^8;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;96.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^50;2.00;;774755941351;CUTS/BU
+;.8100_CFBU;GLADIOLA 5's BU;25;BUCKET;1;100.00;0.00;0.00;;Y;;;;824854
+;                                                                                
+^10;2.00;;774755941474;CUTS/BU
+;.8100_CFBU;GLADIOLA MINI 10's BU;10;BUCKET;1;20.00;0.00;0.00;;Y;;;;824853
+;                                                                                
+^10;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;36.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353806
+^N;0.00;;
+^C;1260.00;;      
+264.60
+78.00;0.11;8
+4;78.00
+@
+^071510;353810;071010;6686-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;403-309-0375;ARP
+;;;635.00;0.00;0.00;635.00;0.00;5.00;
+6686;0
+SA6686;SAVE ON FOODS 6686;3020 - 22ND STREET;NEW STORE;RED DEER;AB;           ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+3020 - 22ND STREET;NEW STORE;RED DEER;AB;           
+
+0.0;071510;071510;0;0;NET 7
+100715
+^10;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;120.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^5;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;32.50;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^54;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;162.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^50;2.00;;774755941351;CUTS/BU
+;.8100_CFBU;GLADIOLA 5's BU;25;BUCKET;1;100.00;0.00;0.00;;Y;;;;824854
+;                                                                                
+^45;2.50;;774755111068;CUTS/BU
+;.8100_CFBU;LILY HYBRID 5's BU;15;BUCKET;1;112.50;0.00;0.00;;Y;;;;825332
+;                                                                                
+^30;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;108.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353810
+^N;0.00;;
+^C;3175.00;;      
+666.75
+194.00;0.39;20
+6;194.00
+@
+^071510;353817;071010;6682-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;(403) 343-6611;ARP
+;;;557.50;0.00;0.00;557.50;0.00;5.00;
+6682;0
+SA6682;SAVE ON FOODS 6682;6720 52nd AVENUE;;RED DEER;AB;T4N 4K9    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+6720 52nd AVENUE;;RED DEER;AB;T4N 4K9    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^20;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;240.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^15;2.20;;7-74755-20101-1;4" FLOWERING
+;8100004F;4" AFRICAN VIOLET;15;FLAT;1;33.00;0.00;0.00;;Y;;;;856480
+;                                                                                
+^6;6.00;;7-74755-22101-9;6" FLOWERING
+;8350006F;6" CYCLAMEN;6;FLAT;1;36.00;0.00;0.00;;Y;;;;859390
+;                                                                                
+^2;10.00;;774755842184;ARRG.-LIVE
+;ARRG.LIVE;A1 ARRANGEMENT;1;EACH;1;20.00;0.00;0.00;;Y;;;;840210
+;                                                                                
+^2;15.00;;774755843181;ARRG.-LIVE
+;ARRG.LIVE;A3 ARRANGEMENT;1;EACH;1;30.00;0.00;0.00;;Y;;;;840316
+;                                                                                
+^15;2.50;;774755111037;CUTS/BU
+;.8100_CFBU;ALSTRO 5's TALL BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;823040
+;                                                                                
+^9;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;27.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^14;3.00;;7-74755-94140-5;CUTS/BU
+;.8100_CFBU;GERMINI 10's BU;7;BUCKET;1;42.00;0.00;0.00;;Y;;;;824846
+;                                                                                
+^10;2.00;;774755941474;CUTS/BU
+;.8100_CFBU;GLADIOLA MINI 10's BU;10;BUCKET;1;20.00;0.00;0.00;;Y;;;;824853
+;                                                                                
+^20;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;72.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353817
+^N;0.00;;
+^C;2787.50;;      
+585.38
+113.00;0.59;23
+10;113.00
+@
+^071510;353818;071010;6679-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;1-780-417-0117;ARP
+;;;445.25;0.00;0.00;445.25;0.00;5.00;
+6679;0
+SA6679;SAVE ON FOODS 6679 - SUMMERWOOD;#10 - 4005 CLOVER BAR RD.;;SHERWOOD PARK;AB;T8H OM4    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+#10 - 4005 CLOVER BAR RD.;;SHERWOOD PARK;AB;T8H OM4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^8;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;96.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^5;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;100.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^10;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;65.00;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^25;2.00;;774755941351;CUTS/BU
+;.8100_CFBU;GLADIOLA 5's BU;25;BUCKET;1;50.00;0.00;0.00;;Y;;;;824854
+;                                                                                
+^15;1.75;;;BOUQUETS
+;.8300;GYP & MADRONA BQT;15;BUCKET;1;26.25;0.00;0.00;;Y;;;;830060
+;                                                                                
+^20;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;72.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+^12;3.00;;7-74755-94013-2;CUTS/BU
+;.8100_CFBU;SPRAY ROSE BU (5st/bu);12;BUCKET;1;36.00;0.00;0.00;;Y;;;;828700
+;Value add 1                                                                     
+Eighteen Acres Ltd.;353818
+^N;0.00;;
+^C;2226.25;;      
+467.51
+95.00;0.34;16
+7;95.00
+@
+^071510;353819;071010;6677-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;(780) 449-7241;ARP
+;;;320.25;0.00;0.00;320.25;0.00;5.00;
+6677;0
+SA6677;SAVE ON FOODS 6677;#200 - 22  BASELINE ROAD;;SHERWOOD PARK;AB;T8A 0Z6    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+#200 - 22  BASELINE ROAD;;SHERWOOD PARK;AB;T8A 0Z6    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^14;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;168.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^18;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;54.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^15;1.75;;7-74755-94109-2;BOUQUETS
+;.8300;LEATHER & GYP BQT;15;BUCKET;1;26.25;0.00;0.00;;Y;;;;830150
+;Value add 1                                                                     
+^20;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;72.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353819
+^N;0.00;;
+^C;1601.25;;      
+336.26
+67.00;0.25;12
+4;67.00
+@
+^071510;353820;071010;6675-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780-419-2065;ARP
+;;;619.50;0.00;0.00;619.50;0.00;5.00;
+6675;0
+SA6675;SAVE ON FOODS 6675;ST. ALBERT NORTH;740 ST ALBERT ROAD;ST ALBERT;AB;T8N 7H5    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+ST. ALBERT NORTH;740 ST ALBERT ROAD;ST ALBERT;AB;T8N 7H5    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^16;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;192.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^10;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;65.00;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^12;6.50;;7-74755-22601-4;6" FLOWERING
+;8350006F;6" KALANCHOE;6;FLAT;1;78.00;0.00;0.00;;Y;;;;859600
+;                                                                                
+^15;2.50;;774755111037;CUTS/BU
+;.8100_CFBU;ALSTRO 5's TALL BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;823040
+;                                                                                
+^50;2.00;;774755941351;CUTS/BU
+;.8100_CFBU;GLADIOLA 5's BU;25;BUCKET;1;100.00;0.00;0.00;;Y;;;;824854
+;                                                                                
+^30;2.50;;774755111068;CUTS/BU
+;.8100_CFBU;LILY HYBRID 5's BU;15;BUCKET;1;75.00;0.00;0.00;;Y;;;;825332
+;                                                                                
+^20;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;72.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353820
+^N;0.00;;
+^C;3097.50;;      
+650.48
+153.00;0.36;19
+7;153.00
+@
+^071510;353821;071010;6665-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780-460-5430;ARP
+;;;595.00;0.00;0.00;595.00;0.00;5.00;
+6665;0
+SA6665;SAVE ON FOODS 6665;#500 - 140 ST. ALBERT ROAD;;ST. ALBERT;AB;T8N 7C8    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+#500 - 140 ST. ALBERT ROAD;;ST. ALBERT;AB;T8N 7C8    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^8;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;96.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^4;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;80.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^10;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;65.00;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^6;8.50;;7-74755-23701-0;6" FLOWERING
+;8350006F;6" AZALEA;6;FLAT;1;51.00;0.00;0.00;;Y;;;;859255
+;                                                                                
+^15;2.50;;774755111037;CUTS/BU
+;.8100_CFBU;ALSTRO 5's TALL BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;823040
+;                                                                                
+^18;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;54.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^14;3.00;;7-74755-94140-5;CUTS/BU
+;.8100_CFBU;GERMINI 10's BU;7;BUCKET;1;42.00;0.00;0.00;;Y;;;;824846
+;                                                                                
+^15;2.50;;774755111068;CUTS/BU
+;.8100_CFBU;LILY HYBRID 5's BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;825332
+;                                                                                
+^16;3.75;;774755941412;CUTS/BU
+;.8100_CFBU;LILY OR. MISC 5's BU;8;BUCKET;1;60.00;0.00;0.00;;Y;;;;825355
+;                                                                                
+^20;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;72.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353821
+^N;0.00;;
+^C;2975.00;;      
+624.75
+126.00;0.50;21
+10;126.00
+@
+^071510;353822;071010;6667-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780-476-3705;ARP
+;;;498.00;0.00;0.00;498.00;0.00;5.00;
+6667;0
+SA6667;SAVE ON FOODS 6667;12903 - 153 AVE NW;OXFORD;EDMONTON;AB;T6V 0C5    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+12903 - 153 AVE NW;OXFORD;EDMONTON;AB;T6V 0C5    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^10;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;120.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^4;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;80.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^18;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;54.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^50;2.00;;774755941351;CUTS/BU
+;.8100_CFBU;GLADIOLA 5's BU;25;BUCKET;1;100.00;0.00;0.00;;Y;;;;824854
+;                                                                                
+^40;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;144.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353822
+^N;0.00;;
+^C;2490.00;;      
+522.90
+122.00;0.29;17
+5;122.00
+@
+^071510;353823;071010;6670-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780-465-1216;ARP
+;;;276.00;0.00;0.00;276.00;0.00;5.00;
+6670;0
+SA6670;SAVE ON FOODS 6670;2390 - 24TH STREET NW;MILLWOOD;EDMONTON;AB;T6T 6G9    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+2390 - 24TH STREET NW;MILLWOOD;EDMONTON;AB;T6T 6G9    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^10;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;120.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^1;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;20.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^50;2.00;;774755941351;CUTS/BU
+;.8100_CFBU;GLADIOLA 5's BU;25;BUCKET;1;100.00;0.00;0.00;;Y;;;;824854
+;                                                                                
+^10;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;36.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353823
+^N;0.00;;
+^C;1380.00;;      
+289.80
+71.00;0.13;9
+4;71.00
+@
+^071510;353824;071010;6664-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780-472-7400;ARP
+;;;642.50;0.00;0.00;642.50;0.00;5.00;
+6664;0
+SA6664;SAVE ON FOODS 6664 - NAMAO;9510 - 160 AVENUE N.W.;;EDMONTON;AB;T5Z 3R7    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+9510 - 160 AVENUE N.W.;;EDMONTON;AB;T5Z 3R7    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^20;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;240.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^6;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;120.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^10;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;65.00;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^6;10.00;;7-74755-22550-5;6" FLOWERING
+;8350006F;6" HIBISCUS, PREMIUM;6;FLAT;1;60.00;0.00;0.00;;Y;;;;859541
+;                                                                                
+^9;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;27.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^7;3.00;;7-74755-94140-5;CUTS/BU
+;.8100_CFBU;GERMINI 10's BU;7;BUCKET;1;21.00;0.00;0.00;;Y;;;;824846
+;                                                                                
+^15;2.50;;774755111068;CUTS/BU
+;.8100_CFBU;LILY HYBRID 5's BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;825332
+;                                                                                
+^20;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;72.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353824
+^N;0.00;;
+^C;3212.50;;      
+674.63
+93.00;0.53;24
+8;93.00
+@
+^071510;353825;071010;6663-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780-467-7503;ARP
+;;;337.00;0.00;0.00;337.00;0.00;5.00;
+6663;0
+SA6663;SAVE ON FOODS 6663 - WYE ROAD;81 FIR STREET;;SHERWOOD PARK;AB;T8A 6H8    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+81 FIR STREET;;SHERWOOD PARK;AB;T8A 6H8    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^8;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;96.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^2;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;40.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^10;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;65.00;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^50;2.00;;774755941351;CUTS/BU
+;.8100_CFBU;GLADIOLA 5's BU;25;BUCKET;1;100.00;0.00;0.00;;Y;;;;824854
+;                                                                                
+^10;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;36.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353825
+^N;0.00;;
+^C;1685.00;;      
+353.85
+80.00;0.19;11
+5;80.00
+@
+^071510;353826;071010;6662-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780-438-0385;ARP
+;;;327.00;0.00;0.00;327.00;0.00;5.00;
+6662;0
+SA6662;SAVE ON FOODS 6662;10368 78TH AVENUE NW;STRATHCONA;EDMONTON;AB;T6E 6J2    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+10368 78TH AVENUE NW;STRATHCONA;EDMONTON;AB;T6E 6J2    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^12;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;144.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^15;2.50;;774755111037;CUTS/BU
+;.8100_CFBU;ALSTRO 5's TALL BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;823040
+;                                                                                
+^15;2.50;;774755111068;CUTS/BU
+;.8100_CFBU;LILY HYBRID 5's BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;825332
+;                                                                                
+^20;3.60;;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED ASST  BU (5st/b;10;BUCKET;1;72.00;0.00;0.00;;Y;;;;828540
+;Value add 1                                                                     
+^10;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;36.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353826
+^N;0.00;;
+^C;1635.00;;      
+343.35
+72.00;0.20;11
+5;72.00
+@
+^071510;353829;071010;6661-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780-473-7820;ARP
+;;;399.00;0.00;0.00;399.00;0.00;5.00;
+6661;0
+SA6661;SAVE ON FOODS 6661;Y100D LONDONDERRY MALL;137A & 66TH STREET;EDMONTON;AB;T5C 3C8    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+Y100D LONDONDERRY MALL;137A & 66TH STREET;EDMONTON;AB;T5C 3C8    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^16;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;192.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^6;6.00;;7-74755-22101-9;6" FLOWERING
+;8350006F;6" CYCLAMEN;6;FLAT;1;36.00;0.00;0.00;;Y;;;;859390
+;                                                                                
+^9;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;27.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^40;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;144.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353829
+^N;0.00;;
+^C;1995.00;;      
+418.95
+71.00;0.25;14
+4;71.00
+@
+^071510;353833;071010;6613-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780-423-5678;ARP
+;;;999.25;0.00;0.00;999.25;0.00;5.00;
+6613;0
+SA6613;SAVE ON FOODS 6613;10180-109TH STREET;JASPER AVE;EDMONTON;AB;T5J 5B4    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+10180-109TH STREET;JASPER AVE;EDMONTON;AB;T5J 5B4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^28;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;336.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^3;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;60.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^15;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;97.50;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^15;2.20;;7-74755-20101-1;4" FLOWERING
+;8100004F;4" AFRICAN VIOLET;15;FLAT;1;33.00;0.00;0.00;;Y;;;;856480
+;                                                                                
+^12;6.00;;7-74755-21801-9;6" FLOWERING
+;8350006F;6" BEGONIA, RIEGER;6;FLAT;1;72.00;0.00;0.00;;Y;;;;859300
+;                                                                                
+^12;6.00;;7-74755-22101-9;6" FLOWERING
+;8350006F;6" CYCLAMEN;6;FLAT;1;72.00;0.00;0.00;;Y;;;;859390
+;                                                                                
+^27;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;81.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^15;1.75;;7-74755-94109-2;BOUQUETS
+;.8300;LEATHER & GYP BQT;15;BUCKET;1;26.25;0.00;0.00;;Y;;;;830150
+;Value add 1                                                                     
+^15;2.50;;774755111068;CUTS/BU
+;.8100_CFBU;LILY HYBRID 5's BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;825332
+;                                                                                
+^12;3.50;;774755941399;CUTS/BU
+;.8100_CFBU;LISIANTHUS DOUBLE 5's BU;12;BUCKET;1;42.00;0.00;0.00;;Y;;;;825538
+;Value add 1                                                                     
+^20;3.50;;7-74755-11108-2;CUTS/BU
+;.8100_CFBU;SNAPDRAGON 5's BU;20;BUCKET;1;70.00;0.00;0.00;;Y;;;;827800
+;                                                                                
+^20;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;72.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353833
+^N;0.00;;
+^C;4996.25;;      
+1049.21
+194.00;0.77;34
+12;194.00
+@
+^071510;353836;071010;6614-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;(780) 437-3322;ARP
+;;;450.00;0.00;0.00;450.00;0.00;5.00;
+6614;0
+SA6614;SAVE ON FOODS 6614;3361 CALGARY TRAIL NW;CALGARY TRAIL;EDMONTON;AB;T6J 6V1    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+3361 CALGARY TRAIL NW;CALGARY TRAIL;EDMONTON;AB;T6J 6V1    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^8;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;96.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^4;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;80.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^5;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;32.50;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^6;6.00;;7-74755-21801-9;6" FLOWERING
+;8350006F;6" BEGONIA, RIEGER;6;FLAT;1;36.00;0.00;0.00;;Y;;;;859300
+;                                                                                
+^6;6.00;;7-74755-22101-9;6" FLOWERING
+;8350006F;6" CYCLAMEN;6;FLAT;1;36.00;0.00;0.00;;Y;;;;859390
+;                                                                                
+^18;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;54.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^14;3.00;;7-74755-94140-5;CUTS/BU
+;.8100_CFBU;GERMINI 10's BU;7;BUCKET;1;42.00;0.00;0.00;;Y;;;;824846
+;                                                                                
+^15;2.50;;774755111068;CUTS/BU
+;.8100_CFBU;LILY HYBRID 5's BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;825332
+;                                                                                
+^10;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;36.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353836
+^N;0.00;;
+^C;2250.00;;      
+472.50
+86.00;0.41;17
+9;86.00
+@
+^071510;353837;071010;6615-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;(780) 483 - 3259;ARP
+;;;832.00;0.00;0.00;832.00;0.00;5.00;
+6615;0
+SA6615;SAVE ON FOODS 6615;6260 - 199TH STREET, N.W.;HAMPTON MARKET;EDMONTON;AB;T5T 2K4    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+6260 - 199TH STREET, N.W.;HAMPTON MARKET;EDMONTON;AB;T5T 2K4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^24;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;288.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^12;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;240.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^18;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;54.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^14;3.00;;7-74755-94140-5;CUTS/BU
+;.8100_CFBU;GERMINI 10's BU;7;BUCKET;1;42.00;0.00;0.00;;Y;;;;824846
+;                                                                                
+^50;2.00;;774755941351;CUTS/BU
+;.8100_CFBU;GLADIOLA 5's BU;25;BUCKET;1;100.00;0.00;0.00;;Y;;;;824854
+;                                                                                
+^30;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;108.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353837
+^N;0.00;;
+^C;4160.00;;      
+873.60
+148.00;0.70;33
+6;148.00
+@
+^071510;353840;071010;6619-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780 - 434 - 8526;ARP
+;;;645.50;0.00;0.00;645.50;0.00;5.00;
+6619;0
+SA6619;SAVE ON FOODS 6619;14161 - 23rd AVENUE,;;N.W. EDMONTON;AB;T6R 0G4    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+14161 - 23rd AVENUE,;;N.W. EDMONTON;AB;T6R 0G4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^8;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;96.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^20;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;130.00;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^15;2.50;;774755111037;CUTS/BU
+;.8100_CFBU;ALSTRO 5's TALL BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;823040
+;                                                                                
+^18;3.00;;7-74755-94134-4;CUTS/BU
+;.8100_CFBU;GERBERA 5's BU;9;BUCKET;1;54.00;0.00;0.00;;Y;;;;824842
+;                                                                                
+^75;2.00;;774755941351;CUTS/BU
+;.8100_CFBU;GLADIOLA 5's BU;25;BUCKET;1;150.00;0.00;0.00;;Y;;;;824854
+;                                                                                
+^20;3.50;;7-74755-11108-2;CUTS/BU
+;.8100_CFBU;SNAPDRAGON 5's BU;20;BUCKET;1;70.00;0.00;0.00;;Y;;;;827800
+;                                                                                
+^10;3.60;;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED ASST  BU (5st/b;10;BUCKET;1;36.00;0.00;0.00;;Y;;;;828540
+;Value add 1                                                                     
+^20;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;72.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353840
+^N;0.00;;
+^C;3227.50;;      
+677.78
+186.00;0.29;18
+8;186.00
+@
+^071510;353841;071010;6622-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780-462-6670;ARP
+;;;598.25;0.00;0.00;598.25;0.00;5.00;
+6622;0
+SA6622;SAVE ON FOODS 6622;1120 - 91 STREET SW;SUMMERSIDE;EDMONTON;AB;T6X 0P2    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+1120 - 91 STREET SW;SUMMERSIDE;EDMONTON;AB;T6X 0P2    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^8;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;96.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^4;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;80.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^10;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;65.00;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^15;2.50;;774755111037;CUTS/BU
+;.8100_CFBU;ALSTRO 5's TALL BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;823040
+;                                                                                
+^20;2.50;;774755940064;CUTS/BU
+;.8100_CFBU;FREESIA 10's BU;20;BUCKET;1;50.00;0.00;0.00;;Y;;;;824500
+;                                                                                
+^50;2.00;;774755941351;CUTS/BU
+;.8100_CFBU;GLADIOLA 5's BU;25;BUCKET;1;100.00;0.00;0.00;;Y;;;;824854
+;                                                                                
+^15;1.75;;7-74755-94109-2;BOUQUETS
+;.8300;LEATHER & GYP BQT;15;BUCKET;1;26.25;0.00;0.00;;Y;;;;830150
+;Value add 1                                                                     
+^15;2.50;;774755111068;CUTS/BU
+;.8100_CFBU;LILY HYBRID 5's BU;15;BUCKET;1;37.50;0.00;0.00;;Y;;;;825332
+;                                                                                
+^20;3.50;;7-74755-11108-2;CUTS/BU
+;.8100_CFBU;SNAPDRAGON 5's BU;20;BUCKET;1;70.00;0.00;0.00;;Y;;;;827800
+;                                                                                
+^10;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;36.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353841
+^N;0.00;;
+^C;2991.25;;      
+628.16
+167.00;0.38;18
+10;167.00
+@
+^071510;353844;071010;6630-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071010;Posted;ALBERTA TRUCK;AL-PRYSTUPA;780-435-2590;ARP
+;;;445.75;0.00;0.00;445.75;0.00;5.00;
+6630;0
+SA6630;SAVE ON FOODS 6630;11180 ELLERSLIE ROAD;;S.W. EDMONTON;AB;T6W 1A2    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+11180 ELLERSLIE ROAD;;S.W. EDMONTON;AB;T6W 1A2    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^20;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;240.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^5;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;32.50;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^6;7.50;;7-74755-92253-4;6" BULBS
+;8350006B;6" LILY, CALLA;6;FLAT;1;45.00;0.00;0.00;;Y;;;;859615
+;                                                                                
+^15;1.75;;7-74755-94109-2;BOUQUETS
+;.8300;LEATHER & GYP BQT;15;BUCKET;1;26.25;0.00;0.00;;Y;;;;830150
+;Value add 1                                                                     
+^8;3.75;;774755941412;CUTS/BU
+;.8100_CFBU;LILY OR. MISC 5's BU;8;BUCKET;1;30.00;0.00;0.00;;Y;;;;825355
+;                                                                                
+^20;3.60;1682936;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED RAINBOW MIX BU;10;BUCKET;1;72.00;0.00;0.00;;Y;;;;828545
+;                                                                                
+Eighteen Acres Ltd.;353844
+^N;0.00;;
+^C;2228.75;;      
+468.04
+74.00;0.34;16
+6;74.00
+@
+^071510;354262;071410;6613-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071410;Posted;ALBERTA TRUCK;BEN-LAPTOP;780-423-5678;ARP
+;;;158.60;0.00;0.00;158.60;0.00;5.00;
+6613;0
+SA6613;SAVE ON FOODS 6613;10180-109TH STREET;JASPER AVE;EDMONTON;AB;T5J 5B4    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+10180-109TH STREET;JASPER AVE;EDMONTON;AB;T5J 5B4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^22;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;90.20;0.00;0.00;;Y;;;;999003
+;                                                                                
+^4;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;20.40;0.00;0.00;;Y;;;;999006
+;                                                                                
+^1;48.00;;;FLORAL SUPPLY
+;FLORALSUP;WESTERN FAMILY 1000 PKTS;1;EACH;1;48.00;0.00;0.00;;Y;;;;848755
+;                                                                                
+Eighteen Acres Ltd.;354262
+^N;0.00;;
+^C;793.00;;      
+166.53
+27.00;0.03;27
+3;27.00
+@
+^071510;354301;071510;6607-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;VERSABAKER;BEN-LAPTOP;(780) 791-4077;AMR
+box;;;264.50;0.00;0.00;264.50;0.00;5.00;
+6607;0
+SA6607;SAVE ON FOODS 6607;8406 FRANKLIN AVENUE;;FORT MCMURRAY;AB;T9H 2J3    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+8406 FRANKLIN AVENUE;;FORT MCMURRAY;AB;T9H 2J3    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^8;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;96.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^5;20.00;;7-74755-94956-2;BOUQUETS
+;.8300;#20.0 MIXED BQT;1;BUCKET;1;100.00;0.00;0.00;;Y;;;;834500
+;Value add 1                                                                     
+^5;6.50;1680968;7-74755-94945-6;BOUQUETS
+;.8300;#6.5 MIXED BQT;5;BUCKET;1;32.50;0.00;0.00;;Y;;;;832700
+;Value add 1                                                                     
+^11;0.00;;;PACKING CASES
+;9990-PACK;PACKING CASES;1;EACH;1;0.00;0.00;0.00;;Y;;;;999019
+;                                                                                
+^10;3.60;;7-74755-94060-6;CUTS/BU
+;.8100_CFBU;SPRAY MUM TALL ASST Local BU(5;10;BUCKET;1;36.00;0.00;0.00;;Y;;;;828570
+;Value add 1                                                                     
+Eighteen Acres Ltd.;354301
+^N;0.00;;
+^C;1322.50;;      
+277.73
+39.00;0.24;22
+5;39.00
+@
+^071510;354311;071510;6686-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;BEN-LAPTOP;403-309-0375;ARP
+;;;92.82;0.00;0.00;92.82;0.00;5.00;
+6686;0
+SA6686;SAVE ON FOODS 6686;3020 - 22ND STREET;NEW STORE;RED DEER;AB;           ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+3020 - 22ND STREET;NEW STORE;RED DEER;AB;           
+
+0.0;071510;071510;0;0;NET 7
+100715
+^8;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;32.80;0.00;0.00;;Y;;;;999003
+;                                                                                
+^6;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;30.60;0.00;0.00;;Y;;;;999006
+;                                                                                
+^1;29.42;;;FLORAL SUPPLY
+;FLORALSUP;CARDETTE 1942 (9" 1000/CS);1;CASE;1;29.42;0.00;0.00;;Y;;;;911304
+;                                                                                
+Eighteen Acres Ltd.;354311
+^N;0.00;;
+^C;464.10;;      
+97.46
+15.00;0.03;15
+3;15.00
+@
+^071510;354320;071510;6630-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;PAT;780-435-2590;ARP
+;;;125.88;0.00;0.00;125.88;0.00;5.00;
+6630;0
+SA6630;SAVE ON FOODS 6630;11180 ELLERSLIE ROAD;;S.W. EDMONTON;AB;T6W 1A2    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+11180 ELLERSLIE ROAD;;S.W. EDMONTON;AB;T6W 1A2    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^12;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;49.20;0.00;0.00;;Y;;;;999003
+;                                                                                
+^3;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;15.30;0.00;0.00;;Y;;;;999006
+;                                                                                
+^1;2.23;;;FLORAL SUPPLY
+;FLORALSUP;CARDS AC3218 H.BIRTH W/GERB DA;1;CASE;1;2.23;0.00;0.00;;Y;;;;911204
+;                                                                                
+^1;2.23;;;FLORAL SUPPLY
+;FLORALSUP;CARDS AC3408 CONGRAT. FLORAL F;1;CASE;1;2.23;0.00;0.00;;Y;;;;911232
+;                                                                                
+^1;2.23;;;FLORAL SUPPLY
+;FLORALSUP;CARDS.AC3120.SPEEDY.RECOVER.W/;1;CASE;1;2.23;0.00;0.00;;Y;;;;911246
+;                                                                                
+^1;2.23;;;FLORAL SUPPLY
+;FLORALSUP;CARDS.AC3306.THANK.YOU.FLOWERS;1;CASE;1;2.23;0.00;0.00;;Y;;;;911224
+;                                                                                
+^1;2.23;;;FLORAL SUPPLY
+;FLORALSUP;CARDS.AC3414.JUST.BECAUSE.FLOR;1;CASE;1;2.23;0.00;0.00;;Y;;;;911241
+;                                                                                
+^1;2.23;;;FLORAL SUPPLY
+;FLORALSUP;CARDS.AC3620.PLAIN.GERB.DAISY.;1;CASE;1;2.23;0.00;0.00;;Y;;;;911260
+;                                                                                
+^1;48.00;;;FLORAL SUPPLY
+;FLORALSUP;WESTERN FAMILY 1000 PKTS;1;EACH;1;48.00;0.00;0.00;;Y;;;;848755
+;                                                                                
+Eighteen Acres Ltd.;354320
+^N;0.00;;
+^C;629.40;;      
+132.17
+22.00;0.19;22
+9;22.00
+@
+^071510;354325;071510;6611-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;PAT;(780) 454-4699;ARP
+;;;100.33;0.00;0.00;100.33;0.00;5.00;
+6611;0
+SA6611;SAVE ON FOODS 6611;11541 KINGSWAY AVENUE;KINGSWAY;EDMONTON;AB;T5G 3AG    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+11541 KINGSWAY AVENUE;KINGSWAY;EDMONTON;AB;T5G 3AG    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^11;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;45.10;0.00;0.00;;Y;;;;999003
+;                                                                                
+^3;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;15.30;0.00;0.00;;Y;;;;999006
+;                                                                                
+^1;28.00;;;FLORAL SUPPLY
+;FLORALSUP;ROLL CRAFT PAPER IVY PRINT;1;EACH;1;28.00;0.00;0.00;;Y;;;;848790
+;                                                                                
+^1;11.93;;;FLORAL SUPPLY
+;FLORALSUP;WATERPICK4947DBL.ANCHORx100;1;CASE;1;11.93;0.00;0.00;;Y;;;;912306
+;                                                                                
+Eighteen Acres Ltd.;354325
+^N;0.00;;
+^C;501.65;;      
+105.35
+16.00;0.07;16
+4;16.00
+@
+^071510;354355;071510;6675-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;PAT;780-419-2065;ARP
+;;;114.50;0.00;0.00;114.50;0.00;5.00;
+6675;0
+SA6675;SAVE ON FOODS 6675;ST. ALBERT NORTH;740 ST ALBERT ROAD;ST ALBERT;AB;T8N 7H5    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+ST. ALBERT NORTH;740 ST ALBERT ROAD;ST ALBERT;AB;T8N 7H5    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^10;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;41.00;0.00;0.00;;Y;;;;999003
+;                                                                                
+^5;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;25.50;0.00;0.00;;Y;;;;999006
+;                                                                                
+^1;48.00;;;FLORAL SUPPLY
+;FLORALSUP;WESTERN FAMILY 1000 PKTS;1;EACH;1;48.00;0.00;0.00;;Y;;;;848755
+;                                                                                
+Eighteen Acres Ltd.;354355
+^N;0.00;;
+^C;572.50;;      
+120.23
+16.00;0.03;16
+3;16.00
+@
+^071510;354360;071510;6607-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;VERSABAKER;INVOICE;(780) 791-4077;AMR
+;;;46.10;0.00;0.00;46.10;0.00;5.00;
+6607;0
+SA6607;SAVE ON FOODS 6607;8406 FRANKLIN AVENUE;;FORT MCMURRAY;AB;T9H 2J3    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+8406 FRANKLIN AVENUE;;FORT MCMURRAY;AB;T9H 2J3    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^10;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;41.00;0.00;0.00;;Y;;;;999003
+;                                                                                
+^1;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;5.10;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354360
+^N;0.00;;
+^C;230.50;;      
+48.41
+11.00;0.00;11
+2;11.00
+@
+^071510;354369;071510;2256-i-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;LOCAL TRUCK;TEREE-K;604-434-5038;TMK
+;;;93.00;0.00;0.00;93.00;12.00;0.00;
+2256;0
+PR2256;PRICESMART #2256 - VANCOUVER;2880 BENTALL STREET;;VANCOUVER;BC;V5M 4H4    ;1
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+2880 BENTALL STREET;;VANCOUVER;BC;V5M 4H4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^6;12.00;1680985;7-74755-94952-4;BOUQUETS
+;.8300;#12.0 MIXED BQT;2;BUCKET;1;72.00;0.00;0.00;;Y;;;;833900
+;Value add 1                                                                     
+^7;3.00;;7-74755-94140-5;CUTS/BU
+;.8100_CFBU;GERMINI 10's BU;7;BUCKET;1;21.00;0.00;0.00;;Y;;;;824846
+;                                                                                
+Eighteen Acres Ltd.;354369
+^N;0.00;;
+104.16
+13.00;0.09;4
+2;13.00
+@
+^071510;354374;071510;107956B
+Eighteen Acres Ltd.;
+0;Dr Memo;071510;Posted;ALBERTA TRUCK;TERRI;780-473-7820;ARP
+;;;0.00;0.00;0.00;0.00;0.00;0.00;
+6661;0
+SA6661;SAVE ON FOODS 6661;Y100D LONDONDERRY MALL;137A & 66TH STREET;EDMONTON;AB;T5C 3C8    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+Y100D LONDONDERRY MALL;137A & 66TH STREET;EDMONTON;AB;T5C 3C8    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^0;0.00;;;
+;;SALES - WHOLESALE,   MISC;0;;0;258.50;0.00;0.00;;N;;;;0
+;                                                                                
+^0;0.00;;;
+;;GST;0;;0;12.93;0.00;0.00;;N;;;;0
+;                                                                                
+Eighteen Acres Ltd.;354374
+^N;0.00;;
+271.43
+0.00;0.00;0
+2;0.00
+@
+^071510;354375;071510;351598A
+Eighteen Acres Ltd.;
+0;Dr Memo;071510;Posted;ALBERTA TRUCK;TERRI;780-476-3705;ARP
+;;;0.00;0.00;0.00;0.00;0.00;0.00;
+6667;0
+SA6667;SAVE ON FOODS 6667;12903 - 153 AVE NW;OXFORD;EDMONTON;AB;T6V 0C5    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+12903 - 153 AVE NW;OXFORD;EDMONTON;AB;T6V 0C5    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^0;0.00;;;
+;;SALES - WHOLESALE,   MISC;0;;0;103.81;0.00;0.00;;N;;;;0
+;                                                                                
+^0;0.00;;;
+;;GST;0;;0;5.20;0.00;0.00;;N;;;;0
+;                                                                                
+Eighteen Acres Ltd.;354375
+^N;0.00;;
+109.01
+0.00;0.00;0
+2;0.00
+@
+^071510;354379;071510;6677-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;(780) 449-7241;ARP
+;;;43.00;0.00;0.00;43.00;0.00;5.00;
+6677;0
+SA6677;SAVE ON FOODS 6677;#200 - 22  BASELINE ROAD;;SHERWOOD PARK;AB;T8A 0Z6    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+#200 - 22  BASELINE ROAD;;SHERWOOD PARK;AB;T8A 0Z6    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^8;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;32.80;0.00;0.00;;Y;;;;999003
+;                                                                                
+^2;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;10.20;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354379
+^N;0.00;;
+^C;215.00;;      
+45.15
+10.00;0.00;10
+2;10.00
+@
+^071510;354381;071510;6612-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;780-471-6244;ARP
+;;;33.80;0.00;0.00;33.80;0.00;5.00;
+6612;0
+SA6612;SAVE ON FOODS 6612;8124 112TH AVENUE;STADIUM;EDMONTON;AB;T5B 4W4    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+8124 112TH AVENUE;STADIUM;EDMONTON;AB;T5B 4W4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^7;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;28.70;0.00;0.00;;Y;;;;999003
+;                                                                                
+^1;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;5.10;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354381
+^N;0.00;;
+^C;169.00;;      
+35.49
+8.00;0.00;8
+2;8.00
+@
+^071510;354382;071510;6661-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;780-473-7820;ARP
+;;;53.20;0.00;0.00;53.20;0.00;5.00;
+6661;0
+SA6661;SAVE ON FOODS 6661;Y100D LONDONDERRY MALL;137A & 66TH STREET;EDMONTON;AB;T5C 3C8    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+Y100D LONDONDERRY MALL;137A & 66TH STREET;EDMONTON;AB;T5C 3C8    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^8;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;32.80;0.00;0.00;;Y;;;;999003
+;                                                                                
+^4;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;20.40;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354382
+^N;0.00;;
+^C;266.00;;      
+55.86
+12.00;0.00;12
+2;12.00
+@
+^071510;354384;071510;6679-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;1-780-417-0117;ARP
+;;;67.60;0.00;0.00;67.60;0.00;5.00;
+6679;0
+SA6679;SAVE ON FOODS 6679 - SUMMERWOOD;#10 - 4005 CLOVER BAR RD.;;SHERWOOD PARK;AB;T8H OM4    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+#10 - 4005 CLOVER BAR RD.;;SHERWOOD PARK;AB;T8H OM4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^14;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;57.40;0.00;0.00;;Y;;;;999003
+;                                                                                
+^2;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;10.20;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354384
+^N;0.00;;
+^C;338.00;;      
+70.98
+16.00;0.00;16
+2;16.00
+@
+^071510;354386;071510;6670-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;780-465-1216;ARP
+;;;37.90;0.00;0.00;37.90;0.00;5.00;
+6670;0
+SA6670;SAVE ON FOODS 6670;2390 - 24TH STREET NW;MILLWOOD;EDMONTON;AB;T6T 6G9    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+2390 - 24TH STREET NW;MILLWOOD;EDMONTON;AB;T6T 6G9    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^8;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;32.80;0.00;0.00;;Y;;;;999003
+;                                                                                
+^1;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;5.10;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354386
+^N;0.00;;
+^C;189.50;;      
+39.80
+9.00;0.00;9
+2;9.00
+@
+^071510;354387;071510;6663-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;780-467-7503;ARP
+;;;46.10;0.00;0.00;46.10;0.00;5.00;
+6663;0
+SA6663;SAVE ON FOODS 6663 - WYE ROAD;81 FIR STREET;;SHERWOOD PARK;AB;T8A 6H8    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+81 FIR STREET;;SHERWOOD PARK;AB;T8A 6H8    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^10;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;41.00;0.00;0.00;;Y;;;;999003
+;                                                                                
+^1;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;5.10;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354387
+^N;0.00;;
+^C;230.50;;      
+48.41
+11.00;0.00;11
+2;11.00
+@
+^071510;354389;071510;351653A
+Eighteen Acres Ltd.;
+0;Dr Memo;071510;Posted;ALBERTA TRUCK;TERRI;(780) 483 - 3259;ARP
+;;;0.00;0.00;0.00;0.00;0.00;0.00;
+6615;0
+SA6615;SAVE ON FOODS 6615;6260 - 199TH STREET, N.W.;HAMPTON MARKET;EDMONTON;AB;T5T 2K4    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+6260 - 199TH STREET, N.W.;HAMPTON MARKET;EDMONTON;AB;T5T 2K4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^0;0.00;;;
+;;SALES - WHOLESALE,   MISC;0;;0;201.80;0.00;0.00;;N;;;;0
+;                                                                                
+^0;0.00;;;
+;;GST;0;;0;10.09;0.00;0.00;;N;;;;0
+;                                                                                
+Eighteen Acres Ltd.;354389
+^N;0.00;;
+211.89
+0.00;0.00;0
+2;0.00
+@
+^071510;354390;071510;6622-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;780-462-6670;ARP
+;;;77.80;0.00;0.00;77.80;0.00;5.00;
+6622;0
+SA6622;SAVE ON FOODS 6622;1120 - 91 STREET SW;SUMMERSIDE;EDMONTON;AB;T6X 0P2    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+1120 - 91 STREET SW;SUMMERSIDE;EDMONTON;AB;T6X 0P2    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^14;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;57.40;0.00;0.00;;Y;;;;999003
+;                                                                                
+^4;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;20.40;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354390
+^N;0.00;;
+^C;389.00;;      
+81.69
+18.00;0.00;18
+2;18.00
+@
+^071510;354392;071510;6614-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;(780) 437-3322;ARP
+;;;47.10;0.00;0.00;47.10;0.00;5.00;
+6614;0
+SA6614;SAVE ON FOODS 6614;3361 CALGARY TRAIL NW;CALGARY TRAIL;EDMONTON;AB;T6J 6V1    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+3361 CALGARY TRAIL NW;CALGARY TRAIL;EDMONTON;AB;T6J 6V1    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^9;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;36.90;0.00;0.00;;Y;;;;999003
+;                                                                                
+^2;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;10.20;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354392
+^N;0.00;;
+^C;235.50;;      
+49.46
+11.00;0.00;11
+2;11.00
+@
+^071510;354394;071510;6662-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;780-438-0385;ARP
+;;;50.10;0.00;0.00;50.10;0.00;5.00;
+6662;0
+SA6662;SAVE ON FOODS 6662;10368 78TH AVENUE NW;STRATHCONA;EDMONTON;AB;T6E 6J2    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+10368 78TH AVENUE NW;STRATHCONA;EDMONTON;AB;T6E 6J2    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^6;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;24.60;0.00;0.00;;Y;;;;999003
+;                                                                                
+^5;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;25.50;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354394
+^N;0.00;;
+^C;250.50;;      
+52.61
+11.00;0.00;11
+2;11.00
+@
+^071510;354399;071510;6667-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;780-476-3705;ARP
+;;;65.50;0.00;0.00;65.50;0.00;5.00;
+6667;0
+SA6667;SAVE ON FOODS 6667;12903 - 153 AVE NW;OXFORD;EDMONTON;AB;T6V 0C5    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+12903 - 153 AVE NW;OXFORD;EDMONTON;AB;T6V 0C5    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^11;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;45.10;0.00;0.00;;Y;;;;999003
+;                                                                                
+^4;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;20.40;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354399
+^N;0.00;;
+^C;327.50;;      
+68.78
+15.00;0.00;15
+2;15.00
+@
+^071510;354401;071510;6664-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;780-472-7400;ARP
+;;;89.10;0.00;0.00;89.10;0.00;5.00;
+6664;0
+SA6664;SAVE ON FOODS 6664 - NAMAO;9510 - 160 AVENUE N.W.;;EDMONTON;AB;T5Z 3R7    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+9510 - 160 AVENUE N.W.;;EDMONTON;AB;T5Z 3R7    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^18;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;73.80;0.00;0.00;;Y;;;;999003
+;                                                                                
+^3;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;15.30;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354401
+^N;0.00;;
+^C;445.50;;      
+93.56
+21.00;0.00;21
+2;21.00
+@
+^071510;354403;071510;6665-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;780-460-5430;ARP
+;;;71.60;0.00;0.00;71.60;0.00;5.00;
+6665;0
+SA6665;SAVE ON FOODS 6665;#500 - 140 ST. ALBERT ROAD;;ST. ALBERT;AB;T8N 7C8    ;0
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+#500 - 140 ST. ALBERT ROAD;;ST. ALBERT;AB;T8N 7C8    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^10;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;41.00;0.00;0.00;;Y;;;;999003
+;                                                                                
+^6;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;30.60;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354403
+^N;0.00;;
+^C;358.00;;      
+75.18
+16.00;0.00;16
+2;16.00
+@
+^071510;354404;071510;6609-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;(780) 484-1088;ARP
+;;;71.70;0.00;0.00;71.70;0.00;5.00;
+6609;0
+SA6609;SAVE ON FOODS 6609;360 MAYFIELD COMMON;;EDMONTON;AB;T5P4B3     ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+360 MAYFIELD COMMON;;EDMONTON;AB;T5P4B3     
+
+0.0;071510;071510;0;0;NET 7
+100715
+^15;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;61.50;0.00;0.00;;Y;;;;999003
+;                                                                                
+^2;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;10.20;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354404
+^N;0.00;;
+^C;358.50;;      
+75.29
+17.00;0.00;17
+2;17.00
+@
+^071510;354405;071510;6615-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;(780) 483 - 3259;ARP
+;;;121.90;0.00;0.00;121.90;0.00;5.00;
+6615;0
+SA6615;SAVE ON FOODS 6615;6260 - 199TH STREET, N.W.;HAMPTON MARKET;EDMONTON;AB;T5T 2K4    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+6260 - 199TH STREET, N.W.;HAMPTON MARKET;EDMONTON;AB;T5T 2K4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^26;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;106.60;0.00;0.00;;Y;;;;999003
+;                                                                                
+^3;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;15.30;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354405
+^N;0.00;;
+^C;609.50;;      
+128.00
+29.00;0.00;29
+2;29.00
+@
+^071510;354408;071510;6619-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;780 - 434 - 8526;ARP
+;;;70.60;0.00;0.00;70.60;0.00;5.00;
+6619;0
+SA6619;SAVE ON FOODS 6619;14161 - 23rd AVENUE,;;N.W. EDMONTON;AB;T6R 0G4    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+14161 - 23rd AVENUE,;;N.W. EDMONTON;AB;T6R 0G4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^11;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;45.10;0.00;0.00;;Y;;;;999003
+;                                                                                
+^5;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;25.50;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354408
+^N;0.00;;
+^C;353.00;;      
+74.13
+16.00;0.00;16
+2;16.00
+@
+^071510;354410;071510;6682-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;ALBERTA TRUCK;INVOICE;(403) 343-6611;ARP
+;;;60.40;0.00;0.00;60.40;0.00;5.00;
+6682;0
+SA6682;SAVE ON FOODS 6682;6720 52nd AVENUE;;RED DEER;AB;T4N 4K9    ;3
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+6720 52nd AVENUE;;RED DEER;AB;T4N 4K9    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^11;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;45.10;0.00;0.00;;Y;;;;999003
+;                                                                                
+^3;5.10;;;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;15.30;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;354410
+^N;0.00;;
+^C;302.00;;      
+63.42
+14.00;0.00;14
+2;14.00
+@
+^071510;354467;071510;2256-s-31
+Eighteen Acres Ltd.;
+0;Invoice;071510;Posted;LOCAL TRUCK;INVOICE;604-434-5038;TMK
+;;;12.30;0.00;0.00;12.30;12.00;0.00;
+2256;0
+PR2256;PRICESMART #2256 - VANCOUVER;2880 BENTALL STREET;;VANCOUVER;BC;V5M 4H4    ;1
+OVER03;OVERWAITEA FOOD GROUP 03;P.O. BOX 9600;Stores 6600-7000;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+2880 BENTALL STREET;;VANCOUVER;BC;V5M 4H4    
+
+0.0;071510;071510;0;0;NET 7
+100715
+^3;4.10;;;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;12.30;0.00;0.00;;Y;;;;999003
+;                                                                                
+Eighteen Acres Ltd.;354467
+^N;0.00;;
+13.78
+3.00;0.00;3
+1;3.00
+@
+|

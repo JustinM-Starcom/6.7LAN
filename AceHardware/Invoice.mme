@@ -1,0 +1,12 @@
+M200	WARNING:
+	Map: Invoice   Output: GroupCtrl# Element:GS Segment V4010:IE<>F4010<>Outbound Partner Funct'lGroup ANSI [1]:Invoice_out
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: Transaction   Output: TermsNetDays Element:ITD Segment [1]:#810<>TransactionOut
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: Invoice   Output: GroupCtrl# Element:GE Segment V4010:IE<>F4010<>Outbound Partner Funct'lGroup ANSI [1]:Invoice_out
+	Size of input item is greater than size of output item.
+

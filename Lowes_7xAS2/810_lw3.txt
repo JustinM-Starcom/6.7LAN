@@ -1,0 +1,38 @@
+^052206;168736;051606;26558524
+Dewar Nurseries, Inc.;
+0;Invoice;051606;Order;Dewar Truck;MARITSA;609-641-3233;GOJR
+;3 R;168736;2372.05;0.00;0.00;0.00;0.00;0.00;
+1034;0
+LO1034;Lowes Store #1034 (LH) c;6048 Black Horse Pike;;Egg Harbor Township,;NJ;08234      ;0
+LO;Lowes Companies, Inc;PO Box 1111;Dewar VN# 50996;N. Wilkesboro;NC;28656-0001 
+;;;;;;;;;
+625 W. Keene Rd.;Apopka;FL;32703      
+6048 Black Horse Pike;;Egg Harbor Township,;NJ;08234      
+50996
+0.0;070606;070606;45;45;NET 45
+060522
+^50;12.50;157214;095062000730;Rose  3 Gal
+;ROSHD3G;Rose  3 Gal;1;EA;1;625.00;0.00;0.00;;N;;
+;                                                                                
+^108;6.10;93204;095062000914;Rose 2 Gal
+;ROS2G;Rose 2 Gal;1;ROS;1;658.80;0.00;0.00;;N;;
+;                                                                                
+^25;10.50;103005;095062001102;Rose J&P
+;ROSJ&P;Rose J&P;1;EA;1;262.50;0.00;0.00;;N;;
+;                                                                                
+^25;10.90;54811;095062000822;Rose J&P
+;ROSJ&P;Rose J&P;1;EA;1;272.50;0.00;0.00;;N;;
+;                                                                                
+^48;3.25;94581;095062120995;Rose Mini 4"
+;ROSM04;Rose Mini 4";8;CA;1;156.00;0.00;0.00;;N;;
+;                                                                                
+^25;15.89;93350;095062000921;Rose Tree 3 Gal
+;ROST3G;Rose Tree 3 Gal;1;EA;1;397.25;0.00;0.00;;N;;
+;                                                                                
+Dewar Nurseries, Inc.;168736
+^N;0.00;;
+2372.05
+281.00;239.00;239
+6;281.00
+@
+|

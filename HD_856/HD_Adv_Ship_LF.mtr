@@ -1,0 +1,2055 @@
+
+(Level 3: Offset 0, len 1, comp 1 of 2, #1, DI 000000000001:)
+Data at offset 0 ('N') was found to be of TYPE
+   X'0007' (StatusCode Fields FlatFile).
+
+(Level 3: Offset 2, len 0, comp 2 of 2, #1, DI 000000000002:)
+COMPONENT number 2 of TYPE X'0005' (StatusRecord Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 2: Offset 0, len 2, comp 1 of 20, #1, DI 000000000002:)
+Data at offset 0 ('N;') was found to be of TYPE
+   X'0005' (StatusRecord Records FlatFile).
+
+(Level 2: Offset 0, len 2, comp 1 of 20, #1, DI 000000000003:)
+Data at offset 0 ('N;') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 4, len 7, comp 1 of 2, #1, DI 000000000003:)
+Data at offset 4 ('^092514') fails maximum size requirements
+TYPE X'0007' (StatusCode Fields FlatFile).
+
+(Level 2: Offset 4, len 0, comp 1 of 20, #2, DI 000000000003:)
+COMPONENT number 1 of TYPE X'0003' (Flat_File_810 FlatFile):
+occurrence 2 is optional and does not exist.
+
+(Level 3: Offset 5, len 6, comp 1 of 4, #1, DI 000000000003:)
+Data at offset 5 ('092514') was found to be of TYPE
+   X'000A' (Inv_Date Fields FlatFile).
+
+(Level 3: Offset 12, len 6, comp 2 of 4, #1, DI 000000000004:)
+Data at offset 12 ('816162') was found to be of TYPE
+   X'000B' (Inv_Number Fields FlatFile).
+
+(Level 3: Offset 19, len 6, comp 3 of 4, #1, DI 000000000005:)
+Data at offset 19 ('092114') was found to be of TYPE
+   X'000C' (PO_Date Fields FlatFile).
+
+(Level 3: Offset 26, len 8, comp 4 of 4, #1, DI 000000000006:)
+Data at offset 26 ('26075151') was found to be of TYPE
+   X'000D' (PO_Number Fields FlatFile).
+
+(Level 2: Offset 5, len 29, comp 2 of 20, #1, DI 000000000007:)
+Data at offset 5 ('092514;816162;09...') was found to be of TYPE
+   X'0009' (BIG_Beginning_Inv_Segment Records FlatFile).
+
+(Level 2: Offset 5, len 29, comp 2 of 20, #1, DI 000000000008:)
+Data at offset 5 ('092514;816162;09...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 36, len 26, comp 1 of 2, #1, DI 000000000008:)
+Data at offset 36 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'000F' (Company_Name Fields FlatFile).
+
+(Level 3: Offset 63, len 9, comp 2 of 2, #1, DI 000000000009:)
+Data at offset 63 ('148468275') was found to be of TYPE
+   X'0010' (ID_Code Fields FlatFile).
+
+(Level 2: Offset 36, len 36, comp 3 of 20, #1, DI 00000000000A:)
+Data at offset 36 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'000E' (N1_1 Records FlatFile).
+
+(Level 2: Offset 36, len 36, comp 3 of 20, #1, DI 00000000000B:)
+Data at offset 36 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 74, len 1, comp 1 of 8, #1, DI 00000000000B:)
+Data at offset 74 ('0') was found to be of TYPE
+   X'0012' (Inv_Memo_Number Fields FlatFile).
+
+(Level 3: Offset 76, len 7, comp 2 of 8, #1, DI 00000000000C:)
+Data at offset 76 ('Invoice') was found to be of TYPE
+   X'0013' (Inv_Type Fields FlatFile).
+
+(Level 3: Offset 84, len 6, comp 3 of 8, #1, DI 00000000000D:)
+Data at offset 84 ('092114') was found to be of TYPE
+   X'000A' (Inv_Date Fields FlatFile).
+
+(Level 3: Offset 91, len 5, comp 4 of 8, #1, DI 00000000000E:)
+Data at offset 91 ('Order') was found to be of TYPE
+   X'0014' (Inv_Status Fields FlatFile).
+
+(Level 3: Offset 97, len 9, comp 5 of 8, #1, DI 00000000000F:)
+Data at offset 97 ('Our Truck') was found to be of TYPE
+   X'0015' (Inv_Ship_Via Fields FlatFile).
+
+(Level 3: Offset 107, len 7, comp 6 of 8, #1, DI 000000000010:)
+Data at offset 107 ('EDI 850') was found to be of TYPE
+   X'0016' (Inv_Placed_By Fields FlatFile).
+
+(Level 3: Offset 115, len 14, comp 7 of 8, #1, DI 000000000011:)
+Data at offset 115 ('(760) 322-0424') was found to be of TYPE
+   X'0017' (Inv_Phone_Number Fields FlatFile).
+
+(Level 3: Offset 130, len 3, comp 8 of 8, #1, DI 000000000012:)
+Data at offset 130 ('JTR') was found to be of TYPE
+   X'0018' (Inv_Sales_Rep Fields FlatFile).
+
+(Level 2: Offset 74, len 59, comp 4 of 20, #1, DI 000000000013:)
+Data at offset 74 ('0;Invoice;092114...') was found to be of TYPE
+   X'0011' (INV_1 Records FlatFile).
+
+(Level 2: Offset 74, len 59, comp 4 of 20, #1, DI 000000000014:)
+Data at offset 74 ('0;Invoice;092114...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 135, len 0, comp 1 of 10, #1, DI 000000000014:)
+COMPONENT number 1 of TYPE X'0019' (INV_2 Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 136, len 0, comp 2 of 10, #1, DI 000000000014:)
+COMPONENT number 2 of TYPE X'0019' (INV_2 Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 137, len 0, comp 3 of 10, #1, DI 000000000014:)
+COMPONENT number 3 of TYPE X'0019' (INV_2 Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 138, len 6, comp 4 of 10, #1, DI 000000000014:)
+Data at offset 138 ('463.50') was found to be of TYPE
+   X'001D' (Inv_Discounted Fields FlatFile).
+
+(Level 3: Offset 145, len 4, comp 5 of 10, #1, DI 000000000015:)
+Data at offset 145 ('0.00') was found to be of TYPE
+   X'001E' (Inv_Delivery_Charges Fields FlatFile).
+
+(Level 3: Offset 150, len 4, comp 6 of 10, #1, DI 000000000016:)
+Data at offset 150 ('0.00') was found to be of TYPE
+   X'001F' (Inv_Miscellneous_Charges Fields FlatFile).
+
+(Level 3: Offset 155, len 4, comp 7 of 10, #1, DI 000000000017:)
+Data at offset 155 ('0.00') was found to be of TYPE
+   X'0020' (Inv_Taxable Fields FlatFile).
+
+(Level 3: Offset 160, len 4, comp 8 of 10, #1, DI 000000000018:)
+Data at offset 160 ('0.00') was found to be of TYPE
+   X'0021' (Inv_Tax_% Fields FlatFile).
+
+(Level 3: Offset 165, len 4, comp 9 of 10, #1, DI 000000000019:)
+Data at offset 165 ('0.00') was found to be of TYPE
+   X'0022' (Inv_GST_% Fields FlatFile).
+
+(Level 3: Offset 170, len 0, comp 10 of 10, #1, DI 00000000001A:)
+COMPONENT number 10 of TYPE X'0019' (INV_2 Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 2: Offset 135, len 35, comp 5 of 20, #1, DI 00000000001A:)
+Data at offset 135 (';;;463.50;0.00;0...') was found to be of TYPE
+   X'0019' (INV_2 Records FlatFile).
+
+(Level 2: Offset 135, len 35, comp 5 of 20, #1, DI 00000000001B:)
+Data at offset 135 (';;;463.50;0.00;0...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 172, len 4, comp 1 of 2, #1, DI 00000000001B:)
+Data at offset 172 ('8526') was found to be of TYPE
+   X'0025' (Store_Number Fields FlatFile).
+
+(Level 3: Offset 177, len 1, comp 2 of 2, #1, DI 00000000001C:)
+Data at offset 177 ('0') was found to be of TYPE
+   X'0026' (Profile_4 Fields FlatFile).
+
+(Level 2: Offset 172, len 6, comp 6 of 20, #1, DI 00000000001D:)
+Data at offset 172 ('8526;0') was found to be of TYPE
+   X'0024' (N1_Store_# Records FlatFile).
+
+(Level 2: Offset 172, len 6, comp 6 of 20, #1, DI 00000000001E:)
+Data at offset 172 ('8526;0') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 180, len 7, comp 1 of 8, #1, DI 00000000001E:)
+Data at offset 180 ('HD 8526') was found to be of TYPE
+   X'0028' (Ship_To_Ship_Id Fields FlatFile).
+
+(Level 3: Offset 188, len 31, comp 2 of 8, #1, DI 00000000001F:)
+Data at offset 188 ('Home Depot - #85...') was found to be of TYPE
+   X'0029' (Ship_To_Name Fields FlatFile).
+
+(Level 3: Offset 220, len 23, comp 3 of 8, #1, DI 000000000020:)
+Data at offset 220 ('5200 E RAMON RD,...') was found to be of TYPE
+   X'002A' (Ship_To_Address_L1 Fields FlatFile).
+
+(Level 3: Offset 244, len 0, comp 4 of 8, #1, DI 000000000021:)
+COMPONENT number 4 of TYPE X'0027' (SHIP_TO Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 245, len 12, comp 5 of 8, #1, DI 000000000021:)
+Data at offset 245 ('PALM SPRINGS') was found to be of TYPE
+   X'002C' (Ship_To_City Fields FlatFile).
+
+(Level 3: Offset 258, len 2, comp 6 of 8, #1, DI 000000000022:)
+Data at offset 258 ('CA') was found to be of TYPE
+   X'002D' (Ship_To_State Fields FlatFile).
+
+(Level 3: Offset 261, len 11, comp 7 of 8, #1, DI 000000000023:)
+Data at offset 261 ('92264      ') was found to be of TYPE
+   X'002E' (Ship_To_Zip Fields FlatFile).
+
+(Level 3: Offset 273, len 4, comp 8 of 8, #1, DI 000000000024:)
+Data at offset 273 ('8526') was found to be of TYPE
+   X'002F' (Ship_To_Store_# Fields FlatFile).
+
+(Level 2: Offset 180, len 97, comp 7 of 20, #1, DI 000000000025:)
+Data at offset 180 ('HD 8526;Home Dep...') was found to be of TYPE
+   X'0027' (SHIP_TO Records FlatFile).
+
+(Level 2: Offset 180, len 97, comp 7 of 20, #1, DI 000000000026:)
+Data at offset 180 ('HD 8526;Home Dep...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 279, len 8, comp 1 of 7, #1, DI 000000000026:)
+Data at offset 279 ('HOMEDEPO') was found to be of TYPE
+   X'0031' (Bill_To_Bill_Id Fields FlatFile).
+
+(Level 3: Offset 288, len 14, comp 2 of 7, #1, DI 000000000027:)
+Data at offset 288 ('The Home Depot') was found to be of TYPE
+   X'0032' (Bill_To_Name Fields FlatFile).
+
+(Level 3: Offset 303, len 23, comp 3 of 7, #1, DI 000000000028:)
+Data at offset 303 ('EDI Department-I...') was found to be of TYPE
+   X'0033' (Bill_To_Address_L1 Fields FlatFile).
+
+(Level 3: Offset 327, len 13, comp 4 of 7, #1, DI 000000000029:)
+Data at offset 327 ('PO Box 105581') was found to be of TYPE
+   X'0034' (Bill_To_Address_L2 Fields FlatFile).
+
+(Level 3: Offset 341, len 7, comp 5 of 7, #1, DI 00000000002A:)
+Data at offset 341 ('Atlanta') was found to be of TYPE
+   X'0035' (Bill_To_City Fields FlatFile).
+
+(Level 3: Offset 349, len 2, comp 6 of 7, #1, DI 00000000002B:)
+Data at offset 349 ('GA') was found to be of TYPE
+   X'0036' (Bill_To_State Fields FlatFile).
+
+(Level 3: Offset 352, len 11, comp 7 of 7, #1, DI 00000000002C:)
+Data at offset 352 ('30348-5581 ') was found to be of TYPE
+   X'0037' (Bill_To_Zip Fields FlatFile).
+
+(Level 2: Offset 279, len 84, comp 8 of 20, #1, DI 00000000002D:)
+Data at offset 279 ('HOMEDEPO;The Hom...') was found to be of TYPE
+   X'0030' (BILL_TO Records FlatFile).
+
+(Level 2: Offset 279, len 84, comp 8 of 20, #1, DI 00000000002E:)
+Data at offset 279 ('HOMEDEPO;The Hom...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 365, len 0, comp 1 of 10, #1, DI 00000000002E:)
+COMPONENT number 1 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 366, len 0, comp 2 of 10, #1, DI 00000000002E:)
+COMPONENT number 2 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 367, len 0, comp 3 of 10, #1, DI 00000000002E:)
+COMPONENT number 3 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 368, len 0, comp 4 of 10, #1, DI 00000000002E:)
+COMPONENT number 4 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 369, len 0, comp 5 of 10, #1, DI 00000000002E:)
+COMPONENT number 5 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 370, len 0, comp 6 of 10, #1, DI 00000000002E:)
+COMPONENT number 6 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 371, len 0, comp 7 of 10, #1, DI 00000000002E:)
+COMPONENT number 7 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 372, len 0, comp 8 of 10, #1, DI 00000000002E:)
+COMPONENT number 8 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 373, len 3, comp 9 of 10, #1, DI 00000000002E:)
+Data at offset 373 ('196') was found to be of TYPE
+   X'0040' (Profile_9 Fields FlatFile).
+
+(Level 3: Offset 377, len 0, comp 10 of 10, #1, DI 00000000002F:)
+COMPONENT number 10 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 2: Offset 365, len 12, comp 9 of 20, #1, DI 00000000002F:)
+Data at offset 365 (';;;;;;;;196;') was found to be of TYPE
+   X'0038' (PROFILE Records FlatFile).
+
+(Level 2: Offset 365, len 12, comp 9 of 20, #1, DI 000000000030:)
+Data at offset 365 (';;;;;;;;196;') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 379, len 22, comp 1 of 4, #1, DI 000000000030:)
+Data at offset 379 ('1025 North Todd ...') was found to be of TYPE
+   X'0043' (Company_Address_L1 Fields FlatFile).
+
+(Level 3: Offset 402, len 5, comp 2 of 4, #1, DI 000000000031:)
+Data at offset 402 ('Azusa') was found to be of TYPE
+   X'0044' (Company_City Fields FlatFile).
+
+(Level 3: Offset 408, len 2, comp 3 of 4, #1, DI 000000000032:)
+Data at offset 408 ('CA') was found to be of TYPE
+   X'0045' (Company_State Fields FlatFile).
+
+(Level 3: Offset 411, len 11, comp 4 of 4, #1, DI 000000000033:)
+Data at offset 411 ('91702      ') was found to be of TYPE
+   X'0046' (Company_Zip Fields FlatFile).
+
+(Level 2: Offset 379, len 43, comp 10 of 20, #1, DI 000000000034:)
+Data at offset 379 ('1025 North Todd ...') was found to be of TYPE
+   X'0042' (N3_Company_Address Records FlatFile).
+
+(Level 2: Offset 379, len 43, comp 10 of 20, #1, DI 000000000035:)
+Data at offset 379 ('1025 North Todd ...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 424, len 23, comp 1 of 5, #1, DI 000000000035:)
+Data at offset 424 ('5200 E RAMON RD,...') was found to be of TYPE
+   X'0048' (Inv_Ship_Address_L1 Fields FlatFile).
+
+(Level 3: Offset 448, len 0, comp 2 of 5, #1, DI 000000000036:)
+COMPONENT number 2 of TYPE X'0047' (N4_Inv_Ship_To_Address Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 449, len 12, comp 3 of 5, #1, DI 000000000036:)
+Data at offset 449 ('PALM SPRINGS') was found to be of TYPE
+   X'004A' (Inv_Ship_City Fields FlatFile).
+
+(Level 3: Offset 462, len 2, comp 4 of 5, #1, DI 000000000037:)
+Data at offset 462 ('CA') was found to be of TYPE
+   X'004B' (Inv_Ship_State Fields FlatFile).
+
+(Level 3: Offset 465, len 11, comp 5 of 5, #1, DI 000000000038:)
+Data at offset 465 ('92264      ') was found to be of TYPE
+   X'004C' (Inv_Ship_Zip Fields FlatFile).
+
+(Level 2: Offset 424, len 52, comp 11 of 20, #1, DI 000000000039:)
+Data at offset 424 ('5200 E RAMON RD,...') was found to be of TYPE
+   X'0047' (N4_Inv_Ship_To_Address Records FlatFile).
+
+(Level 2: Offset 424, len 52, comp 11 of 20, #1, DI 00000000003A:)
+Data at offset 424 ('5200 E RAMON RD,...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 478, len 9, comp 1 of 1, #1, DI 00000000003A:)
+Data at offset 478 ('000187714') was found to be of TYPE
+   X'004E' (Vendor_Number Fields FlatFile).
+
+(Level 2: Offset 478, len 9, comp 12 of 20, #1, DI 00000000003B:)
+Data at offset 478 ('000187714') was found to be of TYPE
+   X'004D' (REF_Vendors_# Records FlatFile).
+
+(Level 2: Offset 478, len 9, comp 12 of 20, #1, DI 00000000003C:)
+Data at offset 478 ('000187714') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 489, len 3, comp 1 of 7, #1, DI 00000000003C:)
+Data at offset 489 ('0.0') was found to be of TYPE
+   X'0050' (Terms_Discount% Fields FlatFile).
+
+(Level 3: Offset 493, len 6, comp 2 of 7, #1, DI 00000000003D:)
+Data at offset 493 ('102514') was found to be of TYPE
+   X'0051' (Terms_Due_Date Fields FlatFile).
+
+(Level 3: Offset 500, len 6, comp 3 of 7, #1, DI 00000000003E:)
+Data at offset 500 ('102514') was found to be of TYPE
+   X'0052' (Terms_Net_Due_Date Fields FlatFile).
+
+(Level 3: Offset 507, len 2, comp 4 of 7, #1, DI 00000000003F:)
+Data at offset 507 ('30') was found to be of TYPE
+   X'0053' (Terms_Discount_Day Fields FlatFile).
+
+(Level 3: Offset 510, len 2, comp 5 of 7, #1, DI 000000000040:)
+Data at offset 510 ('30') was found to be of TYPE
+   X'0054' (Terms_Net_Days Fields FlatFile).
+
+(Level 3: Offset 513, len 6, comp 6 of 7, #1, DI 000000000041:)
+Data at offset 513 ('NET 30') was found to be of TYPE
+   X'0055' (Inv_Terms Fields FlatFile).
+
+(Level 3: Offset 520, len 20, comp 7 of 7, #1, DI 000000000042:)
+Data at offset 520 ('0000732336000816...') was found to be of TYPE
+   X'0056' (UCC128 Fields FlatFile).
+
+(Level 2: Offset 489, len 51, comp 13 of 20, #1, DI 000000000043:)
+Data at offset 489 ('0.0;102514;10251...') was found to be of TYPE
+   X'004F' (ITD_Terms Records FlatFile).
+
+(Level 2: Offset 489, len 51, comp 13 of 20, #1, DI 000000000044:)
+Data at offset 489 ('0.0;102514;10251...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 542, len 6, comp 1 of 1, #1, DI 000000000044:)
+Data at offset 542 ('140925') was found to be of TYPE
+   X'0058' (Inv_Ship_Date Fields FlatFile).
+
+(Level 2: Offset 542, len 6, comp 14 of 20, #1, DI 000000000045:)
+Data at offset 542 ('140925') was found to be of TYPE
+   X'0057' (DTM_Date_Time Records FlatFile).
+
+(Level 2: Offset 542, len 6, comp 14 of 20, #1, DI 000000000046:)
+Data at offset 542 ('140925') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 551, len 6, comp 1 of 7, #1, DI 000000000046:)
+Data at offset 551 ('157138') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 558, len 12, comp 2 of 7, #1, DI 000000000047:)
+Data at offset 558 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 571, len 6, comp 3 of 7, #1, DI 000000000048:)
+Data at offset 571 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 578, len 1, comp 4 of 7, #1, DI 000000000049:)
+Data at offset 578 ('6') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 580, len 4, comp 5 of 7, #1, DI 00000000004A:)
+Data at offset 580 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 585, len 1, comp 6 of 7, #1, DI 00000000004B:)
+Data at offset 585 ('6') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 587, len 7, comp 7 of 7, #1, DI 00000000004C:)
+Data at offset 587 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 551, len 43, comp 15 of 20, #1, DI 00000000004D:)
+Data at offset 551 ('157138;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 551, len 43, comp 15 of 20, #1, DI 00000000004E:)
+Data at offset 551 ('157138;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 597, len 6, comp 1 of 7, #1, DI 00000000004E:)
+Data at offset 597 ('157169') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 604, len 12, comp 2 of 7, #1, DI 00000000004F:)
+Data at offset 604 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 617, len 6, comp 3 of 7, #1, DI 000000000050:)
+Data at offset 617 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 624, len 1, comp 4 of 7, #1, DI 000000000051:)
+Data at offset 624 ('6') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 626, len 4, comp 5 of 7, #1, DI 000000000052:)
+Data at offset 626 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 631, len 1, comp 6 of 7, #1, DI 000000000053:)
+Data at offset 631 ('6') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 633, len 7, comp 7 of 7, #1, DI 000000000054:)
+Data at offset 633 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 597, len 43, comp 15 of 20, #2, DI 000000000055:)
+Data at offset 597 ('157169;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 597, len 43, comp 15 of 20, #2, DI 000000000056:)
+Data at offset 597 ('157169;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 643, len 6, comp 1 of 7, #1, DI 000000000056:)
+Data at offset 643 ('157186') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 650, len 12, comp 2 of 7, #1, DI 000000000057:)
+Data at offset 650 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 663, len 6, comp 3 of 7, #1, DI 000000000058:)
+Data at offset 663 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 670, len 1, comp 4 of 7, #1, DI 000000000059:)
+Data at offset 670 ('6') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 672, len 4, comp 5 of 7, #1, DI 00000000005A:)
+Data at offset 672 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 677, len 1, comp 6 of 7, #1, DI 00000000005B:)
+Data at offset 677 ('6') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 679, len 7, comp 7 of 7, #1, DI 00000000005C:)
+Data at offset 679 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 643, len 43, comp 15 of 20, #3, DI 00000000005D:)
+Data at offset 643 ('157186;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 643, len 43, comp 15 of 20, #3, DI 00000000005E:)
+Data at offset 643 ('157186;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 689, len 6, comp 1 of 7, #1, DI 00000000005E:)
+Data at offset 689 ('243607') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 696, len 12, comp 2 of 7, #1, DI 00000000005F:)
+Data at offset 696 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 709, len 6, comp 3 of 7, #1, DI 000000000060:)
+Data at offset 709 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 716, len 1, comp 4 of 7, #1, DI 000000000061:)
+Data at offset 716 ('6') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 718, len 4, comp 5 of 7, #1, DI 000000000062:)
+Data at offset 718 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 723, len 1, comp 6 of 7, #1, DI 000000000063:)
+Data at offset 723 ('6') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 725, len 7, comp 7 of 7, #1, DI 000000000064:)
+Data at offset 725 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 689, len 43, comp 15 of 20, #4, DI 000000000065:)
+Data at offset 689 ('243607;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 689, len 43, comp 15 of 20, #4, DI 000000000066:)
+Data at offset 689 ('243607;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 735, len 6, comp 1 of 7, #1, DI 000000000066:)
+Data at offset 735 ('327652') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 742, len 12, comp 2 of 7, #1, DI 000000000067:)
+Data at offset 742 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 755, len 6, comp 3 of 7, #1, DI 000000000068:)
+Data at offset 755 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 762, len 1, comp 4 of 7, #1, DI 000000000069:)
+Data at offset 762 ('6') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 764, len 4, comp 5 of 7, #1, DI 00000000006A:)
+Data at offset 764 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 769, len 1, comp 6 of 7, #1, DI 00000000006B:)
+Data at offset 769 ('6') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 771, len 7, comp 7 of 7, #1, DI 00000000006C:)
+Data at offset 771 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 735, len 43, comp 15 of 20, #5, DI 00000000006D:)
+Data at offset 735 ('327652;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 735, len 43, comp 15 of 20, #5, DI 00000000006E:)
+Data at offset 735 ('327652;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 2: Offset 780, len 0, comp 15 of 20, #6, DI 00000000006E:)
+Data at offset 780 ('COLORAMA WH0LESA...') does not match INITIATOR '^'
+  of TYPE X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 780, len 0, comp 15 of 20, #6, DI 00000000006E:)
+COMPONENT number 15 of TYPE X'0003' (Flat_File_810 FlatFile):
+occurrence 6 is optional and does not exist.
+
+(Level 3: Offset 780, len 26, comp 1 of 2, #1, DI 00000000006E:)
+Data at offset 780 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'0062' (Routing_Name Fields FlatFile).
+
+(Level 3: Offset 807, len 6, comp 2 of 2, #1, DI 00000000006F:)
+Data at offset 807 ('816162') was found to be of TYPE
+   X'0063' (CAD_Inv_Number Fields FlatFile).
+
+(Level 2: Offset 780, len 33, comp 16 of 20, #1, DI 000000000070:)
+Data at offset 780 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'0061' (CAD_Carrier_Detail Records FlatFile).
+
+(Level 2: Offset 780, len 33, comp 16 of 20, #1, DI 000000000071:)
+Data at offset 780 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 816, len 1, comp 1 of 4, #1, DI 000000000071:)
+Data at offset 816 ('N') was found to be of TYPE
+   X'0065' (AC_Indictor Fields FlatFile).
+
+(Level 3: Offset 818, len 4, comp 2 of 4, #1, DI 000000000072:)
+Data at offset 818 ('0.00') was found to be of TYPE
+   X'0066' (AC_Dollar_Amount Fields FlatFile).
+
+(Level 3: Offset 823, len 0, comp 3 of 4, #1, DI 000000000073:)
+COMPONENT number 3 of TYPE X'0064' (SAC_Allowance Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 824, len 0, comp 4 of 4, #1, DI 000000000073:)
+COMPONENT number 4 of TYPE X'0064' (SAC_Allowance Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 2: Offset 816, len 8, comp 17 of 20, #1, DI 000000000073:)
+Data at offset 816 ('N;0.00;;') was found to be of TYPE
+   X'0064' (SAC_Allowance Records FlatFile).
+
+(Level 2: Offset 816, len 8, comp 17 of 20, #1, DI 000000000074:)
+Data at offset 816 ('N;0.00;;') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 2: Offset 826, len 0, comp 17 of 20, #2, DI 000000000074:)
+Data at offset 826 ('463.50<CR><LF>30.00;30...') does not match INITIATOR '^'
+  of TYPE X'0064' (SAC_Allowance Records FlatFile).
+
+(Level 2: Offset 826, len 0, comp 17 of 20, #2, DI 000000000074:)
+COMPONENT number 17 of TYPE X'0003' (Flat_File_810 FlatFile):
+occurrence 2 is optional and does not exist.
+
+(Level 3: Offset 826, len 6, comp 1 of 1, #1, DI 000000000074:)
+Data at offset 826 ('463.50') was found to be of TYPE
+   X'006A' (Inv_Total Fields FlatFile).
+
+(Level 2: Offset 826, len 6, comp 18 of 20, #1, DI 000000000075:)
+Data at offset 826 ('463.50') was found to be of TYPE
+   X'0069' (TDS_Inv_Total Records FlatFile).
+
+(Level 2: Offset 826, len 6, comp 18 of 20, #1, DI 000000000076:)
+Data at offset 826 ('463.50') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 834, len 5, comp 1 of 3, #1, DI 000000000076:)
+Data at offset 834 ('30.00') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 840, len 5, comp 2 of 3, #1, DI 000000000077:)
+Data at offset 840 ('30.00') was found to be of TYPE
+   X'006C' (Cases_Shipped Fields FlatFile).
+
+(Level 3: Offset 846, len 2, comp 3 of 3, #1, DI 000000000078:)
+Data at offset 846 ('30') was found to be of TYPE
+   X'006D' (Order_Qty Fields FlatFile).
+
+(Level 2: Offset 834, len 14, comp 19 of 20, #1, DI 000000000079:)
+Data at offset 834 ('30.00;30.00;30') was found to be of TYPE
+   X'006B' (ISS_Inv_Shipment_Summary Records FlatFile).
+
+(Level 2: Offset 834, len 14, comp 19 of 20, #1, DI 00000000007A:)
+Data at offset 834 ('30.00;30.00;30') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 850, len 1, comp 1 of 2, #1, DI 00000000007A:)
+Data at offset 850 ('5') was found to be of TYPE
+   X'006F' (LineItems_Total Fields FlatFile).
+
+(Level 3: Offset 852, len 5, comp 2 of 2, #1, DI 00000000007B:)
+Data at offset 852 ('30.00') was found to be of TYPE
+   X'0070' (Hash_Total Fields FlatFile).
+
+(Level 2: Offset 850, len 7, comp 20 of 20, #1, DI 00000000007C:)
+Data at offset 850 ('5;30.00') was found to be of TYPE
+   X'006E' (CTT_Transaction_Total Records FlatFile).
+
+(Level 2: Offset 850, len 7, comp 20 of 20, #1, DI 00000000007D:)
+Data at offset 850 ('5;30.00') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 1: Offset 0, len 859, comp 1 of 1, #1, DI 00000000007D:)
+Data at offset 0 ('N;<CR><LF>^092514;8161...') was found to be of TYPE
+   X'0003' (Flat_File_810 FlatFile).
+
+(Level 3: Offset 862, len 1, comp 1 of 2, #1, DI 00000000007E:)
+Data at offset 862 ('N') was found to be of TYPE
+   X'0007' (StatusCode Fields FlatFile).
+
+(Level 3: Offset 864, len 0, comp 2 of 2, #1, DI 00000000007F:)
+COMPONENT number 2 of TYPE X'0005' (StatusRecord Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 2: Offset 862, len 2, comp 1 of 20, #1, DI 00000000007F:)
+Data at offset 862 ('N;') was found to be of TYPE
+   X'0005' (StatusRecord Records FlatFile).
+
+(Level 2: Offset 862, len 2, comp 1 of 20, #1, DI 000000000080:)
+Data at offset 862 ('N;') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 866, len 7, comp 1 of 2, #1, DI 000000000080:)
+Data at offset 866 ('^092514') fails maximum size requirements
+TYPE X'0007' (StatusCode Fields FlatFile).
+
+(Level 2: Offset 866, len 0, comp 1 of 20, #2, DI 000000000080:)
+COMPONENT number 1 of TYPE X'0003' (Flat_File_810 FlatFile):
+occurrence 2 is optional and does not exist.
+
+(Level 3: Offset 867, len 6, comp 1 of 4, #1, DI 000000000080:)
+Data at offset 867 ('092514') was found to be of TYPE
+   X'000A' (Inv_Date Fields FlatFile).
+
+(Level 3: Offset 874, len 6, comp 2 of 4, #1, DI 000000000081:)
+Data at offset 874 ('816435') was found to be of TYPE
+   X'000B' (Inv_Number Fields FlatFile).
+
+(Level 3: Offset 881, len 6, comp 3 of 4, #1, DI 000000000082:)
+Data at offset 881 ('092314') was found to be of TYPE
+   X'000C' (PO_Date Fields FlatFile).
+
+(Level 3: Offset 888, len 8, comp 4 of 4, #1, DI 000000000083:)
+Data at offset 888 ('30026431') was found to be of TYPE
+   X'000D' (PO_Number Fields FlatFile).
+
+(Level 2: Offset 867, len 29, comp 2 of 20, #1, DI 000000000084:)
+Data at offset 867 ('092514;816435;09...') was found to be of TYPE
+   X'0009' (BIG_Beginning_Inv_Segment Records FlatFile).
+
+(Level 2: Offset 867, len 29, comp 2 of 20, #1, DI 000000000085:)
+Data at offset 867 ('092514;816435;09...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 898, len 26, comp 1 of 2, #1, DI 000000000085:)
+Data at offset 898 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'000F' (Company_Name Fields FlatFile).
+
+(Level 3: Offset 925, len 9, comp 2 of 2, #1, DI 000000000086:)
+Data at offset 925 ('148468275') was found to be of TYPE
+   X'0010' (ID_Code Fields FlatFile).
+
+(Level 2: Offset 898, len 36, comp 3 of 20, #1, DI 000000000087:)
+Data at offset 898 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'000E' (N1_1 Records FlatFile).
+
+(Level 2: Offset 898, len 36, comp 3 of 20, #1, DI 000000000088:)
+Data at offset 898 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 936, len 1, comp 1 of 8, #1, DI 000000000088:)
+Data at offset 936 ('0') was found to be of TYPE
+   X'0012' (Inv_Memo_Number Fields FlatFile).
+
+(Level 3: Offset 938, len 7, comp 2 of 8, #1, DI 000000000089:)
+Data at offset 938 ('Invoice') was found to be of TYPE
+   X'0013' (Inv_Type Fields FlatFile).
+
+(Level 3: Offset 946, len 6, comp 3 of 8, #1, DI 00000000008A:)
+Data at offset 946 ('092314') was found to be of TYPE
+   X'000A' (Inv_Date Fields FlatFile).
+
+(Level 3: Offset 953, len 5, comp 4 of 8, #1, DI 00000000008B:)
+Data at offset 953 ('Order') was found to be of TYPE
+   X'0014' (Inv_Status Fields FlatFile).
+
+(Level 3: Offset 959, len 9, comp 5 of 8, #1, DI 00000000008C:)
+Data at offset 959 ('Our Truck') was found to be of TYPE
+   X'0015' (Inv_Ship_Via Fields FlatFile).
+
+(Level 3: Offset 969, len 7, comp 6 of 8, #1, DI 00000000008D:)
+Data at offset 969 ('EDI 850') was found to be of TYPE
+   X'0016' (Inv_Placed_By Fields FlatFile).
+
+(Level 3: Offset 977, len 14, comp 7 of 8, #1, DI 00000000008E:)
+Data at offset 977 ('(760) 347-8722') was found to be of TYPE
+   X'0017' (Inv_Phone_Number Fields FlatFile).
+
+(Level 3: Offset 992, len 2, comp 8 of 8, #1, DI 00000000008F:)
+Data at offset 992 ('RO') was found to be of TYPE
+   X'0018' (Inv_Sales_Rep Fields FlatFile).
+
+(Level 2: Offset 936, len 58, comp 4 of 20, #1, DI 000000000090:)
+Data at offset 936 ('0;Invoice;092314...') was found to be of TYPE
+   X'0011' (INV_1 Records FlatFile).
+
+(Level 2: Offset 936, len 58, comp 4 of 20, #1, DI 000000000091:)
+Data at offset 936 ('0;Invoice;092314...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 996, len 0, comp 1 of 10, #1, DI 000000000091:)
+COMPONENT number 1 of TYPE X'0019' (INV_2 Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 997, len 0, comp 2 of 10, #1, DI 000000000091:)
+COMPONENT number 2 of TYPE X'0019' (INV_2 Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 998, len 0, comp 3 of 10, #1, DI 000000000091:)
+COMPONENT number 3 of TYPE X'0019' (INV_2 Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 999, len 6, comp 4 of 10, #1, DI 000000000091:)
+Data at offset 999 ('695.25') was found to be of TYPE
+   X'001D' (Inv_Discounted Fields FlatFile).
+
+(Level 3: Offset 1006, len 4, comp 5 of 10, #1, DI 000000000092:)
+Data at offset 1006 ('0.00') was found to be of TYPE
+   X'001E' (Inv_Delivery_Charges Fields FlatFile).
+
+(Level 3: Offset 1011, len 4, comp 6 of 10, #1, DI 000000000093:)
+Data at offset 1011 ('0.00') was found to be of TYPE
+   X'001F' (Inv_Miscellneous_Charges Fields FlatFile).
+
+(Level 3: Offset 1016, len 4, comp 7 of 10, #1, DI 000000000094:)
+Data at offset 1016 ('0.00') was found to be of TYPE
+   X'0020' (Inv_Taxable Fields FlatFile).
+
+(Level 3: Offset 1021, len 4, comp 8 of 10, #1, DI 000000000095:)
+Data at offset 1021 ('0.00') was found to be of TYPE
+   X'0021' (Inv_Tax_% Fields FlatFile).
+
+(Level 3: Offset 1026, len 4, comp 9 of 10, #1, DI 000000000096:)
+Data at offset 1026 ('0.00') was found to be of TYPE
+   X'0022' (Inv_GST_% Fields FlatFile).
+
+(Level 3: Offset 1031, len 0, comp 10 of 10, #1, DI 000000000097:)
+COMPONENT number 10 of TYPE X'0019' (INV_2 Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 2: Offset 996, len 35, comp 5 of 20, #1, DI 000000000097:)
+Data at offset 996 (';;;695.25;0.00;0...') was found to be of TYPE
+   X'0019' (INV_2 Records FlatFile).
+
+(Level 2: Offset 996, len 35, comp 5 of 20, #1, DI 000000000098:)
+Data at offset 996 (';;;695.25;0.00;0...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1033, len 4, comp 1 of 2, #1, DI 000000000098:)
+Data at offset 1033 ('6630') was found to be of TYPE
+   X'0025' (Store_Number Fields FlatFile).
+
+(Level 3: Offset 1038, len 1, comp 2 of 2, #1, DI 000000000099:)
+Data at offset 1038 ('0') was found to be of TYPE
+   X'0026' (Profile_4 Fields FlatFile).
+
+(Level 2: Offset 1033, len 6, comp 6 of 20, #1, DI 00000000009A:)
+Data at offset 1033 ('6630;0') was found to be of TYPE
+   X'0024' (N1_Store_# Records FlatFile).
+
+(Level 2: Offset 1033, len 6, comp 6 of 20, #1, DI 00000000009B:)
+Data at offset 1033 ('6630;0') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1041, len 7, comp 1 of 8, #1, DI 00000000009B:)
+Data at offset 1041 ('HD 6630') was found to be of TYPE
+   X'0028' (Ship_To_Ship_Id Fields FlatFile).
+
+(Level 3: Offset 1049, len 28, comp 2 of 8, #1, DI 00000000009C:)
+Data at offset 1049 ('Home Depot - #66...') was found to be of TYPE
+   X'0029' (Ship_To_Name Fields FlatFile).
+
+(Level 3: Offset 1078, len 17, comp 3 of 8, #1, DI 00000000009D:)
+Data at offset 1078 ('79900 HIGHWAY 11...') was found to be of TYPE
+   X'002A' (Ship_To_Address_L1 Fields FlatFile).
+
+(Level 3: Offset 1096, len 0, comp 4 of 8, #1, DI 00000000009E:)
+COMPONENT number 4 of TYPE X'0027' (SHIP_TO Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1097, len 9, comp 5 of 8, #1, DI 00000000009E:)
+Data at offset 1097 ('LA QUINTA') was found to be of TYPE
+   X'002C' (Ship_To_City Fields FlatFile).
+
+(Level 3: Offset 1107, len 2, comp 6 of 8, #1, DI 00000000009F:)
+Data at offset 1107 ('CA') was found to be of TYPE
+   X'002D' (Ship_To_State Fields FlatFile).
+
+(Level 3: Offset 1110, len 11, comp 7 of 8, #1, DI 0000000000A0:)
+Data at offset 1110 ('92253      ') was found to be of TYPE
+   X'002E' (Ship_To_Zip Fields FlatFile).
+
+(Level 3: Offset 1122, len 4, comp 8 of 8, #1, DI 0000000000A1:)
+Data at offset 1122 ('6630') was found to be of TYPE
+   X'002F' (Ship_To_Store_# Fields FlatFile).
+
+(Level 2: Offset 1041, len 85, comp 7 of 20, #1, DI 0000000000A2:)
+Data at offset 1041 ('HD 6630;Home Dep...') was found to be of TYPE
+   X'0027' (SHIP_TO Records FlatFile).
+
+(Level 2: Offset 1041, len 85, comp 7 of 20, #1, DI 0000000000A3:)
+Data at offset 1041 ('HD 6630;Home Dep...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1128, len 8, comp 1 of 7, #1, DI 0000000000A3:)
+Data at offset 1128 ('HOMEDEPO') was found to be of TYPE
+   X'0031' (Bill_To_Bill_Id Fields FlatFile).
+
+(Level 3: Offset 1137, len 14, comp 2 of 7, #1, DI 0000000000A4:)
+Data at offset 1137 ('The Home Depot') was found to be of TYPE
+   X'0032' (Bill_To_Name Fields FlatFile).
+
+(Level 3: Offset 1152, len 23, comp 3 of 7, #1, DI 0000000000A5:)
+Data at offset 1152 ('EDI Department-I...') was found to be of TYPE
+   X'0033' (Bill_To_Address_L1 Fields FlatFile).
+
+(Level 3: Offset 1176, len 13, comp 4 of 7, #1, DI 0000000000A6:)
+Data at offset 1176 ('PO Box 105581') was found to be of TYPE
+   X'0034' (Bill_To_Address_L2 Fields FlatFile).
+
+(Level 3: Offset 1190, len 7, comp 5 of 7, #1, DI 0000000000A7:)
+Data at offset 1190 ('Atlanta') was found to be of TYPE
+   X'0035' (Bill_To_City Fields FlatFile).
+
+(Level 3: Offset 1198, len 2, comp 6 of 7, #1, DI 0000000000A8:)
+Data at offset 1198 ('GA') was found to be of TYPE
+   X'0036' (Bill_To_State Fields FlatFile).
+
+(Level 3: Offset 1201, len 11, comp 7 of 7, #1, DI 0000000000A9:)
+Data at offset 1201 ('30348-5581 ') was found to be of TYPE
+   X'0037' (Bill_To_Zip Fields FlatFile).
+
+(Level 2: Offset 1128, len 84, comp 8 of 20, #1, DI 0000000000AA:)
+Data at offset 1128 ('HOMEDEPO;The Hom...') was found to be of TYPE
+   X'0030' (BILL_TO Records FlatFile).
+
+(Level 2: Offset 1128, len 84, comp 8 of 20, #1, DI 0000000000AB:)
+Data at offset 1128 ('HOMEDEPO;The Hom...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1214, len 0, comp 1 of 10, #1, DI 0000000000AB:)
+COMPONENT number 1 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1215, len 0, comp 2 of 10, #1, DI 0000000000AB:)
+COMPONENT number 2 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1216, len 0, comp 3 of 10, #1, DI 0000000000AB:)
+COMPONENT number 3 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1217, len 1, comp 4 of 10, #1, DI 0000000000AB:)
+Data at offset 1217 ('0') was found to be of TYPE
+   X'0026' (Profile_4 Fields FlatFile).
+
+(Level 3: Offset 1219, len 0, comp 5 of 10, #1, DI 0000000000AC:)
+COMPONENT number 5 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1220, len 0, comp 6 of 10, #1, DI 0000000000AC:)
+COMPONENT number 6 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1221, len 0, comp 7 of 10, #1, DI 0000000000AC:)
+COMPONENT number 7 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1222, len 0, comp 8 of 10, #1, DI 0000000000AC:)
+COMPONENT number 8 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1223, len 3, comp 9 of 10, #1, DI 0000000000AC:)
+Data at offset 1223 ('196') was found to be of TYPE
+   X'0040' (Profile_9 Fields FlatFile).
+
+(Level 3: Offset 1227, len 0, comp 10 of 10, #1, DI 0000000000AD:)
+COMPONENT number 10 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 2: Offset 1214, len 13, comp 9 of 20, #1, DI 0000000000AD:)
+Data at offset 1214 (';;;0;;;;;196;') was found to be of TYPE
+   X'0038' (PROFILE Records FlatFile).
+
+(Level 2: Offset 1214, len 13, comp 9 of 20, #1, DI 0000000000AE:)
+Data at offset 1214 (';;;0;;;;;196;') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1229, len 22, comp 1 of 4, #1, DI 0000000000AE:)
+Data at offset 1229 ('1025 North Todd ...') was found to be of TYPE
+   X'0043' (Company_Address_L1 Fields FlatFile).
+
+(Level 3: Offset 1252, len 5, comp 2 of 4, #1, DI 0000000000AF:)
+Data at offset 1252 ('Azusa') was found to be of TYPE
+   X'0044' (Company_City Fields FlatFile).
+
+(Level 3: Offset 1258, len 2, comp 3 of 4, #1, DI 0000000000B0:)
+Data at offset 1258 ('CA') was found to be of TYPE
+   X'0045' (Company_State Fields FlatFile).
+
+(Level 3: Offset 1261, len 11, comp 4 of 4, #1, DI 0000000000B1:)
+Data at offset 1261 ('91702      ') was found to be of TYPE
+   X'0046' (Company_Zip Fields FlatFile).
+
+(Level 2: Offset 1229, len 43, comp 10 of 20, #1, DI 0000000000B2:)
+Data at offset 1229 ('1025 North Todd ...') was found to be of TYPE
+   X'0042' (N3_Company_Address Records FlatFile).
+
+(Level 2: Offset 1229, len 43, comp 10 of 20, #1, DI 0000000000B3:)
+Data at offset 1229 ('1025 North Todd ...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1274, len 17, comp 1 of 5, #1, DI 0000000000B3:)
+Data at offset 1274 ('79900 HIGHWAY 11...') was found to be of TYPE
+   X'0048' (Inv_Ship_Address_L1 Fields FlatFile).
+
+(Level 3: Offset 1292, len 0, comp 2 of 5, #1, DI 0000000000B4:)
+COMPONENT number 2 of TYPE X'0047' (N4_Inv_Ship_To_Address Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1293, len 9, comp 3 of 5, #1, DI 0000000000B4:)
+Data at offset 1293 ('LA QUINTA') was found to be of TYPE
+   X'004A' (Inv_Ship_City Fields FlatFile).
+
+(Level 3: Offset 1303, len 2, comp 4 of 5, #1, DI 0000000000B5:)
+Data at offset 1303 ('CA') was found to be of TYPE
+   X'004B' (Inv_Ship_State Fields FlatFile).
+
+(Level 3: Offset 1306, len 11, comp 5 of 5, #1, DI 0000000000B6:)
+Data at offset 1306 ('92253      ') was found to be of TYPE
+   X'004C' (Inv_Ship_Zip Fields FlatFile).
+
+(Level 2: Offset 1274, len 43, comp 11 of 20, #1, DI 0000000000B7:)
+Data at offset 1274 ('79900 HIGHWAY 11...') was found to be of TYPE
+   X'0047' (N4_Inv_Ship_To_Address Records FlatFile).
+
+(Level 2: Offset 1274, len 43, comp 11 of 20, #1, DI 0000000000B8:)
+Data at offset 1274 ('79900 HIGHWAY 11...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1319, len 9, comp 1 of 1, #1, DI 0000000000B8:)
+Data at offset 1319 ('000187714') was found to be of TYPE
+   X'004E' (Vendor_Number Fields FlatFile).
+
+(Level 2: Offset 1319, len 9, comp 12 of 20, #1, DI 0000000000B9:)
+Data at offset 1319 ('000187714') was found to be of TYPE
+   X'004D' (REF_Vendors_# Records FlatFile).
+
+(Level 2: Offset 1319, len 9, comp 12 of 20, #1, DI 0000000000BA:)
+Data at offset 1319 ('000187714') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1330, len 3, comp 1 of 7, #1, DI 0000000000BA:)
+Data at offset 1330 ('0.0') was found to be of TYPE
+   X'0050' (Terms_Discount% Fields FlatFile).
+
+(Level 3: Offset 1334, len 6, comp 2 of 7, #1, DI 0000000000BB:)
+Data at offset 1334 ('102514') was found to be of TYPE
+   X'0051' (Terms_Due_Date Fields FlatFile).
+
+(Level 3: Offset 1341, len 6, comp 3 of 7, #1, DI 0000000000BC:)
+Data at offset 1341 ('102514') was found to be of TYPE
+   X'0052' (Terms_Net_Due_Date Fields FlatFile).
+
+(Level 3: Offset 1348, len 2, comp 4 of 7, #1, DI 0000000000BD:)
+Data at offset 1348 ('30') was found to be of TYPE
+   X'0053' (Terms_Discount_Day Fields FlatFile).
+
+(Level 3: Offset 1351, len 2, comp 5 of 7, #1, DI 0000000000BE:)
+Data at offset 1351 ('30') was found to be of TYPE
+   X'0054' (Terms_Net_Days Fields FlatFile).
+
+(Level 3: Offset 1354, len 6, comp 6 of 7, #1, DI 0000000000BF:)
+Data at offset 1354 ('NET 30') was found to be of TYPE
+   X'0055' (Inv_Terms Fields FlatFile).
+
+(Level 3: Offset 1361, len 20, comp 7 of 7, #1, DI 0000000000C0:)
+Data at offset 1361 ('0000732336000816...') was found to be of TYPE
+   X'0056' (UCC128 Fields FlatFile).
+
+(Level 2: Offset 1330, len 51, comp 13 of 20, #1, DI 0000000000C1:)
+Data at offset 1330 ('0.0;102514;10251...') was found to be of TYPE
+   X'004F' (ITD_Terms Records FlatFile).
+
+(Level 2: Offset 1330, len 51, comp 13 of 20, #1, DI 0000000000C2:)
+Data at offset 1330 ('0.0;102514;10251...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1383, len 6, comp 1 of 1, #1, DI 0000000000C2:)
+Data at offset 1383 ('140925') was found to be of TYPE
+   X'0058' (Inv_Ship_Date Fields FlatFile).
+
+(Level 2: Offset 1383, len 6, comp 14 of 20, #1, DI 0000000000C3:)
+Data at offset 1383 ('140925') was found to be of TYPE
+   X'0057' (DTM_Date_Time Records FlatFile).
+
+(Level 2: Offset 1383, len 6, comp 14 of 20, #1, DI 0000000000C4:)
+Data at offset 1383 ('140925') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1392, len 6, comp 1 of 7, #1, DI 0000000000C4:)
+Data at offset 1392 ('157138') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 1399, len 12, comp 2 of 7, #1, DI 0000000000C5:)
+Data at offset 1399 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 1412, len 6, comp 3 of 7, #1, DI 0000000000C6:)
+Data at offset 1412 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 1419, len 2, comp 4 of 7, #1, DI 0000000000C7:)
+Data at offset 1419 ('10') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 1422, len 4, comp 5 of 7, #1, DI 0000000000C8:)
+Data at offset 1422 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 1427, len 2, comp 6 of 7, #1, DI 0000000000C9:)
+Data at offset 1427 ('10') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 1430, len 7, comp 7 of 7, #1, DI 0000000000CA:)
+Data at offset 1430 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 1392, len 45, comp 15 of 20, #1, DI 0000000000CB:)
+Data at offset 1392 ('157138;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 1392, len 45, comp 15 of 20, #1, DI 0000000000CC:)
+Data at offset 1392 ('157138;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1440, len 6, comp 1 of 7, #1, DI 0000000000CC:)
+Data at offset 1440 ('157169') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 1447, len 12, comp 2 of 7, #1, DI 0000000000CD:)
+Data at offset 1447 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 1460, len 6, comp 3 of 7, #1, DI 0000000000CE:)
+Data at offset 1460 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 1467, len 2, comp 4 of 7, #1, DI 0000000000CF:)
+Data at offset 1467 ('15') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 1470, len 4, comp 5 of 7, #1, DI 0000000000D0:)
+Data at offset 1470 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 1475, len 2, comp 6 of 7, #1, DI 0000000000D1:)
+Data at offset 1475 ('15') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 1478, len 7, comp 7 of 7, #1, DI 0000000000D2:)
+Data at offset 1478 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 1440, len 45, comp 15 of 20, #2, DI 0000000000D3:)
+Data at offset 1440 ('157169;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 1440, len 45, comp 15 of 20, #2, DI 0000000000D4:)
+Data at offset 1440 ('157169;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1488, len 6, comp 1 of 7, #1, DI 0000000000D4:)
+Data at offset 1488 ('157186') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 1495, len 12, comp 2 of 7, #1, DI 0000000000D5:)
+Data at offset 1495 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 1508, len 6, comp 3 of 7, #1, DI 0000000000D6:)
+Data at offset 1508 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 1515, len 2, comp 4 of 7, #1, DI 0000000000D7:)
+Data at offset 1515 ('15') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 1518, len 4, comp 5 of 7, #1, DI 0000000000D8:)
+Data at offset 1518 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 1523, len 2, comp 6 of 7, #1, DI 0000000000D9:)
+Data at offset 1523 ('15') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 1526, len 7, comp 7 of 7, #1, DI 0000000000DA:)
+Data at offset 1526 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 1488, len 45, comp 15 of 20, #3, DI 0000000000DB:)
+Data at offset 1488 ('157186;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 1488, len 45, comp 15 of 20, #3, DI 0000000000DC:)
+Data at offset 1488 ('157186;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1536, len 6, comp 1 of 7, #1, DI 0000000000DC:)
+Data at offset 1536 ('157205') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 1543, len 12, comp 2 of 7, #1, DI 0000000000DD:)
+Data at offset 1543 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 1556, len 6, comp 3 of 7, #1, DI 0000000000DE:)
+Data at offset 1556 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 1563, len 1, comp 4 of 7, #1, DI 0000000000DF:)
+Data at offset 1563 ('5') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 1565, len 4, comp 5 of 7, #1, DI 0000000000E0:)
+Data at offset 1565 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 1570, len 1, comp 6 of 7, #1, DI 0000000000E1:)
+Data at offset 1570 ('5') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 1572, len 7, comp 7 of 7, #1, DI 0000000000E2:)
+Data at offset 1572 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 1536, len 43, comp 15 of 20, #4, DI 0000000000E3:)
+Data at offset 1536 ('157205;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 1536, len 43, comp 15 of 20, #4, DI 0000000000E4:)
+Data at offset 1536 ('157205;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 2: Offset 1581, len 0, comp 15 of 20, #5, DI 0000000000E4:)
+Data at offset 1581 ('COLORAMA WH0LESA...') does not match INITIATOR '^'
+  of TYPE X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 1581, len 0, comp 15 of 20, #5, DI 0000000000E4:)
+COMPONENT number 15 of TYPE X'0003' (Flat_File_810 FlatFile):
+occurrence 5 is optional and does not exist.
+
+(Level 3: Offset 1581, len 26, comp 1 of 2, #1, DI 0000000000E4:)
+Data at offset 1581 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'0062' (Routing_Name Fields FlatFile).
+
+(Level 3: Offset 1608, len 6, comp 2 of 2, #1, DI 0000000000E5:)
+Data at offset 1608 ('816435') was found to be of TYPE
+   X'0063' (CAD_Inv_Number Fields FlatFile).
+
+(Level 2: Offset 1581, len 33, comp 16 of 20, #1, DI 0000000000E6:)
+Data at offset 1581 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'0061' (CAD_Carrier_Detail Records FlatFile).
+
+(Level 2: Offset 1581, len 33, comp 16 of 20, #1, DI 0000000000E7:)
+Data at offset 1581 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1617, len 1, comp 1 of 4, #1, DI 0000000000E7:)
+Data at offset 1617 ('N') was found to be of TYPE
+   X'0065' (AC_Indictor Fields FlatFile).
+
+(Level 3: Offset 1619, len 4, comp 2 of 4, #1, DI 0000000000E8:)
+Data at offset 1619 ('0.00') was found to be of TYPE
+   X'0066' (AC_Dollar_Amount Fields FlatFile).
+
+(Level 3: Offset 1624, len 0, comp 3 of 4, #1, DI 0000000000E9:)
+COMPONENT number 3 of TYPE X'0064' (SAC_Allowance Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1625, len 0, comp 4 of 4, #1, DI 0000000000E9:)
+COMPONENT number 4 of TYPE X'0064' (SAC_Allowance Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 2: Offset 1617, len 8, comp 17 of 20, #1, DI 0000000000E9:)
+Data at offset 1617 ('N;0.00;;') was found to be of TYPE
+   X'0064' (SAC_Allowance Records FlatFile).
+
+(Level 2: Offset 1617, len 8, comp 17 of 20, #1, DI 0000000000EA:)
+Data at offset 1617 ('N;0.00;;') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 2: Offset 1627, len 0, comp 17 of 20, #2, DI 0000000000EA:)
+Data at offset 1627 ('695.25<CR><LF>45.00;45...') does not match INITIATOR '^'
+  of TYPE X'0064' (SAC_Allowance Records FlatFile).
+
+(Level 2: Offset 1627, len 0, comp 17 of 20, #2, DI 0000000000EA:)
+COMPONENT number 17 of TYPE X'0003' (Flat_File_810 FlatFile):
+occurrence 2 is optional and does not exist.
+
+(Level 3: Offset 1627, len 6, comp 1 of 1, #1, DI 0000000000EA:)
+Data at offset 1627 ('695.25') was found to be of TYPE
+   X'006A' (Inv_Total Fields FlatFile).
+
+(Level 2: Offset 1627, len 6, comp 18 of 20, #1, DI 0000000000EB:)
+Data at offset 1627 ('695.25') was found to be of TYPE
+   X'0069' (TDS_Inv_Total Records FlatFile).
+
+(Level 2: Offset 1627, len 6, comp 18 of 20, #1, DI 0000000000EC:)
+Data at offset 1627 ('695.25') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1635, len 5, comp 1 of 3, #1, DI 0000000000EC:)
+Data at offset 1635 ('45.00') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 1641, len 5, comp 2 of 3, #1, DI 0000000000ED:)
+Data at offset 1641 ('45.00') was found to be of TYPE
+   X'006C' (Cases_Shipped Fields FlatFile).
+
+(Level 3: Offset 1647, len 2, comp 3 of 3, #1, DI 0000000000EE:)
+Data at offset 1647 ('45') was found to be of TYPE
+   X'006D' (Order_Qty Fields FlatFile).
+
+(Level 2: Offset 1635, len 14, comp 19 of 20, #1, DI 0000000000EF:)
+Data at offset 1635 ('45.00;45.00;45') was found to be of TYPE
+   X'006B' (ISS_Inv_Shipment_Summary Records FlatFile).
+
+(Level 2: Offset 1635, len 14, comp 19 of 20, #1, DI 0000000000F0:)
+Data at offset 1635 ('45.00;45.00;45') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1651, len 1, comp 1 of 2, #1, DI 0000000000F0:)
+Data at offset 1651 ('4') was found to be of TYPE
+   X'006F' (LineItems_Total Fields FlatFile).
+
+(Level 3: Offset 1653, len 5, comp 2 of 2, #1, DI 0000000000F1:)
+Data at offset 1653 ('45.00') was found to be of TYPE
+   X'0070' (Hash_Total Fields FlatFile).
+
+(Level 2: Offset 1651, len 7, comp 20 of 20, #1, DI 0000000000F2:)
+Data at offset 1651 ('4;45.00') was found to be of TYPE
+   X'006E' (CTT_Transaction_Total Records FlatFile).
+
+(Level 2: Offset 1651, len 7, comp 20 of 20, #1, DI 0000000000F3:)
+Data at offset 1651 ('4;45.00') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 1: Offset 862, len 798, comp 1 of 1, #2, DI 0000000000F3:)
+Data at offset 862 ('N;<CR><LF>^092514;8164...') was found to be of TYPE
+   X'0003' (Flat_File_810 FlatFile).
+
+(Level 3: Offset 1663, len 1, comp 1 of 2, #1, DI 0000000000F4:)
+Data at offset 1663 ('N') was found to be of TYPE
+   X'0007' (StatusCode Fields FlatFile).
+
+(Level 3: Offset 1665, len 0, comp 2 of 2, #1, DI 0000000000F5:)
+COMPONENT number 2 of TYPE X'0005' (StatusRecord Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 2: Offset 1663, len 2, comp 1 of 20, #1, DI 0000000000F5:)
+Data at offset 1663 ('N;') was found to be of TYPE
+   X'0005' (StatusRecord Records FlatFile).
+
+(Level 2: Offset 1663, len 2, comp 1 of 20, #1, DI 0000000000F6:)
+Data at offset 1663 ('N;') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1667, len 7, comp 1 of 2, #1, DI 0000000000F6:)
+Data at offset 1667 ('^092514') fails maximum size requirements
+TYPE X'0007' (StatusCode Fields FlatFile).
+
+(Level 2: Offset 1667, len 0, comp 1 of 20, #2, DI 0000000000F6:)
+COMPONENT number 1 of TYPE X'0003' (Flat_File_810 FlatFile):
+occurrence 2 is optional and does not exist.
+
+(Level 3: Offset 1668, len 6, comp 1 of 4, #1, DI 0000000000F6:)
+Data at offset 1668 ('092514') was found to be of TYPE
+   X'000A' (Inv_Date Fields FlatFile).
+
+(Level 3: Offset 1675, len 6, comp 2 of 4, #1, DI 0000000000F7:)
+Data at offset 1675 ('816436') was found to be of TYPE
+   X'000B' (Inv_Number Fields FlatFile).
+
+(Level 3: Offset 1682, len 6, comp 3 of 4, #1, DI 0000000000F8:)
+Data at offset 1682 ('092314') was found to be of TYPE
+   X'000C' (PO_Date Fields FlatFile).
+
+(Level 3: Offset 1689, len 8, comp 4 of 4, #1, DI 0000000000F9:)
+Data at offset 1689 ('74086851') was found to be of TYPE
+   X'000D' (PO_Number Fields FlatFile).
+
+(Level 2: Offset 1668, len 29, comp 2 of 20, #1, DI 0000000000FA:)
+Data at offset 1668 ('092514;816436;09...') was found to be of TYPE
+   X'0009' (BIG_Beginning_Inv_Segment Records FlatFile).
+
+(Level 2: Offset 1668, len 29, comp 2 of 20, #1, DI 0000000000FB:)
+Data at offset 1668 ('092514;816436;09...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1699, len 26, comp 1 of 2, #1, DI 0000000000FB:)
+Data at offset 1699 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'000F' (Company_Name Fields FlatFile).
+
+(Level 3: Offset 1726, len 9, comp 2 of 2, #1, DI 0000000000FC:)
+Data at offset 1726 ('148468275') was found to be of TYPE
+   X'0010' (ID_Code Fields FlatFile).
+
+(Level 2: Offset 1699, len 36, comp 3 of 20, #1, DI 0000000000FD:)
+Data at offset 1699 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'000E' (N1_1 Records FlatFile).
+
+(Level 2: Offset 1699, len 36, comp 3 of 20, #1, DI 0000000000FE:)
+Data at offset 1699 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1737, len 1, comp 1 of 8, #1, DI 0000000000FE:)
+Data at offset 1737 ('0') was found to be of TYPE
+   X'0012' (Inv_Memo_Number Fields FlatFile).
+
+(Level 3: Offset 1739, len 7, comp 2 of 8, #1, DI 0000000000FF:)
+Data at offset 1739 ('Invoice') was found to be of TYPE
+   X'0013' (Inv_Type Fields FlatFile).
+
+(Level 3: Offset 1747, len 6, comp 3 of 8, #1, DI 000000000100:)
+Data at offset 1747 ('092314') was found to be of TYPE
+   X'000A' (Inv_Date Fields FlatFile).
+
+(Level 3: Offset 1754, len 5, comp 4 of 8, #1, DI 000000000101:)
+Data at offset 1754 ('Order') was found to be of TYPE
+   X'0014' (Inv_Status Fields FlatFile).
+
+(Level 3: Offset 1760, len 9, comp 5 of 8, #1, DI 000000000102:)
+Data at offset 1760 ('Our Truck') was found to be of TYPE
+   X'0015' (Inv_Ship_Via Fields FlatFile).
+
+(Level 3: Offset 1770, len 7, comp 6 of 8, #1, DI 000000000103:)
+Data at offset 1770 ('EDI 850') was found to be of TYPE
+   X'0016' (Inv_Placed_By Fields FlatFile).
+
+(Level 3: Offset 1778, len 14, comp 7 of 8, #1, DI 000000000104:)
+Data at offset 1778 ('(760) 347-7410') was found to be of TYPE
+   X'0017' (Inv_Phone_Number Fields FlatFile).
+
+(Level 3: Offset 1793, len 2, comp 8 of 8, #1, DI 000000000105:)
+Data at offset 1793 ('RO') was found to be of TYPE
+   X'0018' (Inv_Sales_Rep Fields FlatFile).
+
+(Level 2: Offset 1737, len 58, comp 4 of 20, #1, DI 000000000106:)
+Data at offset 1737 ('0;Invoice;092314...') was found to be of TYPE
+   X'0011' (INV_1 Records FlatFile).
+
+(Level 2: Offset 1737, len 58, comp 4 of 20, #1, DI 000000000107:)
+Data at offset 1737 ('0;Invoice;092314...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1797, len 0, comp 1 of 10, #1, DI 000000000107:)
+COMPONENT number 1 of TYPE X'0019' (INV_2 Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1798, len 0, comp 2 of 10, #1, DI 000000000107:)
+COMPONENT number 2 of TYPE X'0019' (INV_2 Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1799, len 0, comp 3 of 10, #1, DI 000000000107:)
+COMPONENT number 3 of TYPE X'0019' (INV_2 Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1800, len 6, comp 4 of 10, #1, DI 000000000107:)
+Data at offset 1800 ('772.50') was found to be of TYPE
+   X'001D' (Inv_Discounted Fields FlatFile).
+
+(Level 3: Offset 1807, len 4, comp 5 of 10, #1, DI 000000000108:)
+Data at offset 1807 ('0.00') was found to be of TYPE
+   X'001E' (Inv_Delivery_Charges Fields FlatFile).
+
+(Level 3: Offset 1812, len 4, comp 6 of 10, #1, DI 000000000109:)
+Data at offset 1812 ('0.00') was found to be of TYPE
+   X'001F' (Inv_Miscellneous_Charges Fields FlatFile).
+
+(Level 3: Offset 1817, len 4, comp 7 of 10, #1, DI 00000000010A:)
+Data at offset 1817 ('0.00') was found to be of TYPE
+   X'0020' (Inv_Taxable Fields FlatFile).
+
+(Level 3: Offset 1822, len 4, comp 8 of 10, #1, DI 00000000010B:)
+Data at offset 1822 ('0.00') was found to be of TYPE
+   X'0021' (Inv_Tax_% Fields FlatFile).
+
+(Level 3: Offset 1827, len 4, comp 9 of 10, #1, DI 00000000010C:)
+Data at offset 1827 ('0.00') was found to be of TYPE
+   X'0022' (Inv_GST_% Fields FlatFile).
+
+(Level 3: Offset 1832, len 0, comp 10 of 10, #1, DI 00000000010D:)
+COMPONENT number 10 of TYPE X'0019' (INV_2 Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 2: Offset 1797, len 35, comp 5 of 20, #1, DI 00000000010D:)
+Data at offset 1797 (';;;772.50;0.00;0...') was found to be of TYPE
+   X'0019' (INV_2 Records FlatFile).
+
+(Level 2: Offset 1797, len 35, comp 5 of 20, #1, DI 00000000010E:)
+Data at offset 1797 (';;;772.50;0.00;0...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1834, len 4, comp 1 of 2, #1, DI 00000000010E:)
+Data at offset 1834 ('6874') was found to be of TYPE
+   X'0025' (Store_Number Fields FlatFile).
+
+(Level 3: Offset 1839, len 1, comp 2 of 2, #1, DI 00000000010F:)
+Data at offset 1839 ('0') was found to be of TYPE
+   X'0026' (Profile_4 Fields FlatFile).
+
+(Level 2: Offset 1834, len 6, comp 6 of 20, #1, DI 000000000110:)
+Data at offset 1834 ('6874;0') was found to be of TYPE
+   X'0024' (N1_Store_# Records FlatFile).
+
+(Level 2: Offset 1834, len 6, comp 6 of 20, #1, DI 000000000111:)
+Data at offset 1834 ('6874;0') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1842, len 7, comp 1 of 8, #1, DI 000000000111:)
+Data at offset 1842 ('HD 6874') was found to be of TYPE
+   X'0028' (Ship_To_Ship_Id Fields FlatFile).
+
+(Level 3: Offset 1850, len 24, comp 2 of 8, #1, DI 000000000112:)
+Data at offset 1850 ('Home Depot - #68...') was found to be of TYPE
+   X'0029' (Ship_To_Name Fields FlatFile).
+
+(Level 3: Offset 1875, len 20, comp 3 of 8, #1, DI 000000000113:)
+Data at offset 1875 ('42100 JACKSON ST...') was found to be of TYPE
+   X'002A' (Ship_To_Address_L1 Fields FlatFile).
+
+(Level 3: Offset 1896, len 0, comp 4 of 8, #1, DI 000000000114:)
+COMPONENT number 4 of TYPE X'0027' (SHIP_TO Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 1897, len 5, comp 5 of 8, #1, DI 000000000114:)
+Data at offset 1897 ('INDIO') was found to be of TYPE
+   X'002C' (Ship_To_City Fields FlatFile).
+
+(Level 3: Offset 1903, len 2, comp 6 of 8, #1, DI 000000000115:)
+Data at offset 1903 ('CA') was found to be of TYPE
+   X'002D' (Ship_To_State Fields FlatFile).
+
+(Level 3: Offset 1906, len 11, comp 7 of 8, #1, DI 000000000116:)
+Data at offset 1906 ('92203      ') was found to be of TYPE
+   X'002E' (Ship_To_Zip Fields FlatFile).
+
+(Level 3: Offset 1918, len 4, comp 8 of 8, #1, DI 000000000117:)
+Data at offset 1918 ('6874') was found to be of TYPE
+   X'002F' (Ship_To_Store_# Fields FlatFile).
+
+(Level 2: Offset 1842, len 80, comp 7 of 20, #1, DI 000000000118:)
+Data at offset 1842 ('HD 6874;Home Dep...') was found to be of TYPE
+   X'0027' (SHIP_TO Records FlatFile).
+
+(Level 2: Offset 1842, len 80, comp 7 of 20, #1, DI 000000000119:)
+Data at offset 1842 ('HD 6874;Home Dep...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 1924, len 8, comp 1 of 7, #1, DI 000000000119:)
+Data at offset 1924 ('HOMEDEPO') was found to be of TYPE
+   X'0031' (Bill_To_Bill_Id Fields FlatFile).
+
+(Level 3: Offset 1933, len 14, comp 2 of 7, #1, DI 00000000011A:)
+Data at offset 1933 ('The Home Depot') was found to be of TYPE
+   X'0032' (Bill_To_Name Fields FlatFile).
+
+(Level 3: Offset 1948, len 23, comp 3 of 7, #1, DI 00000000011B:)
+Data at offset 1948 ('EDI Department-I...') was found to be of TYPE
+   X'0033' (Bill_To_Address_L1 Fields FlatFile).
+
+(Level 3: Offset 1972, len 13, comp 4 of 7, #1, DI 00000000011C:)
+Data at offset 1972 ('PO Box 105581') was found to be of TYPE
+   X'0034' (Bill_To_Address_L2 Fields FlatFile).
+
+(Level 3: Offset 1986, len 7, comp 5 of 7, #1, DI 00000000011D:)
+Data at offset 1986 ('Atlanta') was found to be of TYPE
+   X'0035' (Bill_To_City Fields FlatFile).
+
+(Level 3: Offset 1994, len 2, comp 6 of 7, #1, DI 00000000011E:)
+Data at offset 1994 ('GA') was found to be of TYPE
+   X'0036' (Bill_To_State Fields FlatFile).
+
+(Level 3: Offset 1997, len 11, comp 7 of 7, #1, DI 00000000011F:)
+Data at offset 1997 ('30348-5581 ') was found to be of TYPE
+   X'0037' (Bill_To_Zip Fields FlatFile).
+
+(Level 2: Offset 1924, len 84, comp 8 of 20, #1, DI 000000000120:)
+Data at offset 1924 ('HOMEDEPO;The Hom...') was found to be of TYPE
+   X'0030' (BILL_TO Records FlatFile).
+
+(Level 2: Offset 1924, len 84, comp 8 of 20, #1, DI 000000000121:)
+Data at offset 1924 ('HOMEDEPO;The Hom...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2010, len 0, comp 1 of 10, #1, DI 000000000121:)
+COMPONENT number 1 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 2011, len 0, comp 2 of 10, #1, DI 000000000121:)
+COMPONENT number 2 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 2012, len 0, comp 3 of 10, #1, DI 000000000121:)
+COMPONENT number 3 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 2013, len 0, comp 4 of 10, #1, DI 000000000121:)
+COMPONENT number 4 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 2014, len 0, comp 5 of 10, #1, DI 000000000121:)
+COMPONENT number 5 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 2015, len 0, comp 6 of 10, #1, DI 000000000121:)
+COMPONENT number 6 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 2016, len 0, comp 7 of 10, #1, DI 000000000121:)
+COMPONENT number 7 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 2017, len 0, comp 8 of 10, #1, DI 000000000121:)
+COMPONENT number 8 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 2018, len 0, comp 9 of 10, #1, DI 000000000121:)
+COMPONENT number 9 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 2019, len 0, comp 10 of 10, #1, DI 000000000121:)
+COMPONENT number 10 of TYPE X'0038' (PROFILE Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 2: Offset 2010, len 9, comp 9 of 20, #1, DI 000000000121:)
+Data at offset 2010 (';;;;;;;;;') was found to be of TYPE
+   X'0038' (PROFILE Records FlatFile).
+
+(Level 2: Offset 2010, len 9, comp 9 of 20, #1, DI 000000000122:)
+Data at offset 2010 (';;;;;;;;;') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2021, len 22, comp 1 of 4, #1, DI 000000000122:)
+Data at offset 2021 ('1025 North Todd ...') was found to be of TYPE
+   X'0043' (Company_Address_L1 Fields FlatFile).
+
+(Level 3: Offset 2044, len 5, comp 2 of 4, #1, DI 000000000123:)
+Data at offset 2044 ('Azusa') was found to be of TYPE
+   X'0044' (Company_City Fields FlatFile).
+
+(Level 3: Offset 2050, len 2, comp 3 of 4, #1, DI 000000000124:)
+Data at offset 2050 ('CA') was found to be of TYPE
+   X'0045' (Company_State Fields FlatFile).
+
+(Level 3: Offset 2053, len 11, comp 4 of 4, #1, DI 000000000125:)
+Data at offset 2053 ('91702      ') was found to be of TYPE
+   X'0046' (Company_Zip Fields FlatFile).
+
+(Level 2: Offset 2021, len 43, comp 10 of 20, #1, DI 000000000126:)
+Data at offset 2021 ('1025 North Todd ...') was found to be of TYPE
+   X'0042' (N3_Company_Address Records FlatFile).
+
+(Level 2: Offset 2021, len 43, comp 10 of 20, #1, DI 000000000127:)
+Data at offset 2021 ('1025 North Todd ...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2066, len 20, comp 1 of 5, #1, DI 000000000127:)
+Data at offset 2066 ('42100 JACKSON ST...') was found to be of TYPE
+   X'0048' (Inv_Ship_Address_L1 Fields FlatFile).
+
+(Level 3: Offset 2087, len 0, comp 2 of 5, #1, DI 000000000128:)
+COMPONENT number 2 of TYPE X'0047' (N4_Inv_Ship_To_Address Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 2088, len 5, comp 3 of 5, #1, DI 000000000128:)
+Data at offset 2088 ('INDIO') was found to be of TYPE
+   X'004A' (Inv_Ship_City Fields FlatFile).
+
+(Level 3: Offset 2094, len 2, comp 4 of 5, #1, DI 000000000129:)
+Data at offset 2094 ('CA') was found to be of TYPE
+   X'004B' (Inv_Ship_State Fields FlatFile).
+
+(Level 3: Offset 2097, len 11, comp 5 of 5, #1, DI 00000000012A:)
+Data at offset 2097 ('92203      ') was found to be of TYPE
+   X'004C' (Inv_Ship_Zip Fields FlatFile).
+
+(Level 2: Offset 2066, len 42, comp 11 of 20, #1, DI 00000000012B:)
+Data at offset 2066 ('42100 JACKSON ST...') was found to be of TYPE
+   X'0047' (N4_Inv_Ship_To_Address Records FlatFile).
+
+(Level 2: Offset 2066, len 42, comp 11 of 20, #1, DI 00000000012C:)
+Data at offset 2066 ('42100 JACKSON ST...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2110, len 9, comp 1 of 1, #1, DI 00000000012C:)
+Data at offset 2110 ('000187714') was found to be of TYPE
+   X'004E' (Vendor_Number Fields FlatFile).
+
+(Level 2: Offset 2110, len 9, comp 12 of 20, #1, DI 00000000012D:)
+Data at offset 2110 ('000187714') was found to be of TYPE
+   X'004D' (REF_Vendors_# Records FlatFile).
+
+(Level 2: Offset 2110, len 9, comp 12 of 20, #1, DI 00000000012E:)
+Data at offset 2110 ('000187714') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2121, len 3, comp 1 of 7, #1, DI 00000000012E:)
+Data at offset 2121 ('0.0') was found to be of TYPE
+   X'0050' (Terms_Discount% Fields FlatFile).
+
+(Level 3: Offset 2125, len 6, comp 2 of 7, #1, DI 00000000012F:)
+Data at offset 2125 ('102514') was found to be of TYPE
+   X'0051' (Terms_Due_Date Fields FlatFile).
+
+(Level 3: Offset 2132, len 6, comp 3 of 7, #1, DI 000000000130:)
+Data at offset 2132 ('102514') was found to be of TYPE
+   X'0052' (Terms_Net_Due_Date Fields FlatFile).
+
+(Level 3: Offset 2139, len 2, comp 4 of 7, #1, DI 000000000131:)
+Data at offset 2139 ('30') was found to be of TYPE
+   X'0053' (Terms_Discount_Day Fields FlatFile).
+
+(Level 3: Offset 2142, len 2, comp 5 of 7, #1, DI 000000000132:)
+Data at offset 2142 ('30') was found to be of TYPE
+   X'0054' (Terms_Net_Days Fields FlatFile).
+
+(Level 3: Offset 2145, len 6, comp 6 of 7, #1, DI 000000000133:)
+Data at offset 2145 ('NET 30') was found to be of TYPE
+   X'0055' (Inv_Terms Fields FlatFile).
+
+(Level 3: Offset 2152, len 20, comp 7 of 7, #1, DI 000000000134:)
+Data at offset 2152 ('0000732336000816...') was found to be of TYPE
+   X'0056' (UCC128 Fields FlatFile).
+
+(Level 2: Offset 2121, len 51, comp 13 of 20, #1, DI 000000000135:)
+Data at offset 2121 ('0.0;102514;10251...') was found to be of TYPE
+   X'004F' (ITD_Terms Records FlatFile).
+
+(Level 2: Offset 2121, len 51, comp 13 of 20, #1, DI 000000000136:)
+Data at offset 2121 ('0.0;102514;10251...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2174, len 6, comp 1 of 1, #1, DI 000000000136:)
+Data at offset 2174 ('140925') was found to be of TYPE
+   X'0058' (Inv_Ship_Date Fields FlatFile).
+
+(Level 2: Offset 2174, len 6, comp 14 of 20, #1, DI 000000000137:)
+Data at offset 2174 ('140925') was found to be of TYPE
+   X'0057' (DTM_Date_Time Records FlatFile).
+
+(Level 2: Offset 2174, len 6, comp 14 of 20, #1, DI 000000000138:)
+Data at offset 2174 ('140925') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2183, len 6, comp 1 of 7, #1, DI 000000000138:)
+Data at offset 2183 ('157138') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 2190, len 12, comp 2 of 7, #1, DI 000000000139:)
+Data at offset 2190 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 2203, len 6, comp 3 of 7, #1, DI 00000000013A:)
+Data at offset 2203 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 2210, len 2, comp 4 of 7, #1, DI 00000000013B:)
+Data at offset 2210 ('10') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 2213, len 4, comp 5 of 7, #1, DI 00000000013C:)
+Data at offset 2213 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 2218, len 2, comp 6 of 7, #1, DI 00000000013D:)
+Data at offset 2218 ('10') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 2221, len 7, comp 7 of 7, #1, DI 00000000013E:)
+Data at offset 2221 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 2183, len 45, comp 15 of 20, #1, DI 00000000013F:)
+Data at offset 2183 ('157138;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 2183, len 45, comp 15 of 20, #1, DI 000000000140:)
+Data at offset 2183 ('157138;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2231, len 6, comp 1 of 7, #1, DI 000000000140:)
+Data at offset 2231 ('157169') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 2238, len 12, comp 2 of 7, #1, DI 000000000141:)
+Data at offset 2238 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 2251, len 6, comp 3 of 7, #1, DI 000000000142:)
+Data at offset 2251 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 2258, len 2, comp 4 of 7, #1, DI 000000000143:)
+Data at offset 2258 ('15') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 2261, len 4, comp 5 of 7, #1, DI 000000000144:)
+Data at offset 2261 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 2266, len 2, comp 6 of 7, #1, DI 000000000145:)
+Data at offset 2266 ('15') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 2269, len 7, comp 7 of 7, #1, DI 000000000146:)
+Data at offset 2269 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 2231, len 45, comp 15 of 20, #2, DI 000000000147:)
+Data at offset 2231 ('157169;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 2231, len 45, comp 15 of 20, #2, DI 000000000148:)
+Data at offset 2231 ('157169;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2279, len 6, comp 1 of 7, #1, DI 000000000148:)
+Data at offset 2279 ('157186') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 2286, len 12, comp 2 of 7, #1, DI 000000000149:)
+Data at offset 2286 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 2299, len 6, comp 3 of 7, #1, DI 00000000014A:)
+Data at offset 2299 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 2306, len 2, comp 4 of 7, #1, DI 00000000014B:)
+Data at offset 2306 ('15') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 2309, len 4, comp 5 of 7, #1, DI 00000000014C:)
+Data at offset 2309 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 2314, len 2, comp 6 of 7, #1, DI 00000000014D:)
+Data at offset 2314 ('15') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 2317, len 7, comp 7 of 7, #1, DI 00000000014E:)
+Data at offset 2317 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 2279, len 45, comp 15 of 20, #3, DI 00000000014F:)
+Data at offset 2279 ('157186;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 2279, len 45, comp 15 of 20, #3, DI 000000000150:)
+Data at offset 2279 ('157186;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2327, len 6, comp 1 of 7, #1, DI 000000000150:)
+Data at offset 2327 ('157205') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 2334, len 12, comp 2 of 7, #1, DI 000000000151:)
+Data at offset 2334 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 2347, len 6, comp 3 of 7, #1, DI 000000000152:)
+Data at offset 2347 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 2354, len 1, comp 4 of 7, #1, DI 000000000153:)
+Data at offset 2354 ('5') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 2356, len 4, comp 5 of 7, #1, DI 000000000154:)
+Data at offset 2356 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 2361, len 1, comp 6 of 7, #1, DI 000000000155:)
+Data at offset 2361 ('5') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 2363, len 7, comp 7 of 7, #1, DI 000000000156:)
+Data at offset 2363 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 2327, len 43, comp 15 of 20, #4, DI 000000000157:)
+Data at offset 2327 ('157205;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 2327, len 43, comp 15 of 20, #4, DI 000000000158:)
+Data at offset 2327 ('157205;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2373, len 6, comp 1 of 7, #1, DI 000000000158:)
+Data at offset 2373 ('327652') was found to be of TYPE
+   X'005A' (Sku_Number Fields FlatFile).
+
+(Level 3: Offset 2380, len 12, comp 2 of 7, #1, DI 000000000159:)
+Data at offset 2380 ('732336750600') was found to be of TYPE
+   X'005B' (UPC_Number Fields FlatFile).
+
+(Level 3: Offset 2393, len 6, comp 3 of 7, #1, DI 00000000015A:)
+Data at offset 2393 ('CITRUS') was found to be of TYPE
+   X'005C' (Category_Desc Fields FlatFile).
+
+(Level 3: Offset 2400, len 1, comp 4 of 7, #1, DI 00000000015B:)
+Data at offset 2400 ('5') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 2402, len 4, comp 5 of 7, #1, DI 00000000015C:)
+Data at offset 2402 ('0000') was found to be of TYPE
+   X'005E' (Val_Code Fields FlatFile).
+
+(Level 3: Offset 2407, len 1, comp 6 of 7, #1, DI 00000000015D:)
+Data at offset 2407 ('5') was found to be of TYPE
+   X'005F' (PackSize Fields FlatFile).
+
+(Level 3: Offset 2409, len 7, comp 7 of 7, #1, DI 00000000015E:)
+Data at offset 2409 ('15.4500') was found to be of TYPE
+   X'0060' (Unit_Price Fields FlatFile).
+
+(Level 2: Offset 2373, len 43, comp 15 of 20, #5, DI 00000000015F:)
+Data at offset 2373 ('327652;732336750...') was found to be of TYPE
+   X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 2373, len 43, comp 15 of 20, #5, DI 000000000160:)
+Data at offset 2373 ('327652;732336750...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 2: Offset 2418, len 0, comp 15 of 20, #6, DI 000000000160:)
+Data at offset 2418 ('COLORAMA WH0LESA...') does not match INITIATOR '^'
+  of TYPE X'0059' (LIN Records FlatFile).
+
+(Level 2: Offset 2418, len 0, comp 15 of 20, #6, DI 000000000160:)
+COMPONENT number 15 of TYPE X'0003' (Flat_File_810 FlatFile):
+occurrence 6 is optional and does not exist.
+
+(Level 3: Offset 2418, len 26, comp 1 of 2, #1, DI 000000000160:)
+Data at offset 2418 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'0062' (Routing_Name Fields FlatFile).
+
+(Level 3: Offset 2445, len 6, comp 2 of 2, #1, DI 000000000161:)
+Data at offset 2445 ('816436') was found to be of TYPE
+   X'0063' (CAD_Inv_Number Fields FlatFile).
+
+(Level 2: Offset 2418, len 33, comp 16 of 20, #1, DI 000000000162:)
+Data at offset 2418 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'0061' (CAD_Carrier_Detail Records FlatFile).
+
+(Level 2: Offset 2418, len 33, comp 16 of 20, #1, DI 000000000163:)
+Data at offset 2418 ('COLORAMA WH0LESA...') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2454, len 1, comp 1 of 4, #1, DI 000000000163:)
+Data at offset 2454 ('N') was found to be of TYPE
+   X'0065' (AC_Indictor Fields FlatFile).
+
+(Level 3: Offset 2456, len 4, comp 2 of 4, #1, DI 000000000164:)
+Data at offset 2456 ('0.00') was found to be of TYPE
+   X'0066' (AC_Dollar_Amount Fields FlatFile).
+
+(Level 3: Offset 2461, len 0, comp 3 of 4, #1, DI 000000000165:)
+COMPONENT number 3 of TYPE X'0064' (SAC_Allowance Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 3: Offset 2462, len 0, comp 4 of 4, #1, DI 000000000165:)
+COMPONENT number 4 of TYPE X'0064' (SAC_Allowance Records FlatFile):
+occurrence 1 is optional and has no content.
+
+(Level 2: Offset 2454, len 8, comp 17 of 20, #1, DI 000000000165:)
+Data at offset 2454 ('N;0.00;;') was found to be of TYPE
+   X'0064' (SAC_Allowance Records FlatFile).
+
+(Level 2: Offset 2454, len 8, comp 17 of 20, #1, DI 000000000166:)
+Data at offset 2454 ('N;0.00;;') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 2: Offset 2464, len 0, comp 17 of 20, #2, DI 000000000166:)
+Data at offset 2464 ('772.50<CR><LF>50.00;50...') does not match INITIATOR '^'
+  of TYPE X'0064' (SAC_Allowance Records FlatFile).
+
+(Level 2: Offset 2464, len 0, comp 17 of 20, #2, DI 000000000166:)
+COMPONENT number 17 of TYPE X'0003' (Flat_File_810 FlatFile):
+occurrence 2 is optional and does not exist.
+
+(Level 3: Offset 2464, len 6, comp 1 of 1, #1, DI 000000000166:)
+Data at offset 2464 ('772.50') was found to be of TYPE
+   X'006A' (Inv_Total Fields FlatFile).
+
+(Level 2: Offset 2464, len 6, comp 18 of 20, #1, DI 000000000167:)
+Data at offset 2464 ('772.50') was found to be of TYPE
+   X'0069' (TDS_Inv_Total Records FlatFile).
+
+(Level 2: Offset 2464, len 6, comp 18 of 20, #1, DI 000000000168:)
+Data at offset 2464 ('772.50') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2472, len 5, comp 1 of 3, #1, DI 000000000168:)
+Data at offset 2472 ('50.00') was found to be of TYPE
+   X'005D' (Units_Shipped Fields FlatFile).
+
+(Level 3: Offset 2478, len 5, comp 2 of 3, #1, DI 000000000169:)
+Data at offset 2478 ('50.00') was found to be of TYPE
+   X'006C' (Cases_Shipped Fields FlatFile).
+
+(Level 3: Offset 2484, len 2, comp 3 of 3, #1, DI 00000000016A:)
+Data at offset 2484 ('50') was found to be of TYPE
+   X'006D' (Order_Qty Fields FlatFile).
+
+(Level 2: Offset 2472, len 14, comp 19 of 20, #1, DI 00000000016B:)
+Data at offset 2472 ('50.00;50.00;50') was found to be of TYPE
+   X'006B' (ISS_Inv_Shipment_Summary Records FlatFile).
+
+(Level 2: Offset 2472, len 14, comp 19 of 20, #1, DI 00000000016C:)
+Data at offset 2472 ('50.00;50.00;50') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 3: Offset 2488, len 1, comp 1 of 2, #1, DI 00000000016C:)
+Data at offset 2488 ('5') was found to be of TYPE
+   X'006F' (LineItems_Total Fields FlatFile).
+
+(Level 3: Offset 2490, len 5, comp 2 of 2, #1, DI 00000000016D:)
+Data at offset 2490 ('50.00') was found to be of TYPE
+   X'0070' (Hash_Total Fields FlatFile).
+
+(Level 2: Offset 2488, len 7, comp 20 of 20, #1, DI 00000000016E:)
+Data at offset 2488 ('5;50.00') was found to be of TYPE
+   X'006E' (CTT_Transaction_Total Records FlatFile).
+
+(Level 2: Offset 2488, len 7, comp 20 of 20, #1, DI 00000000016F:)
+Data at offset 2488 ('5;50.00') was found to be of TYPE
+   X'0004' (Records FlatFile).
+
+(Level 1: Offset 1663, len 834, comp 1 of 1, #3, DI 00000000016F:)
+Data at offset 1663 ('N;<CR><LF>^092514;8164...') was found to be of TYPE
+   X'0003' (Flat_File_810 FlatFile).
+
+(Level 1: Offset 2500, len 0, comp 1 of 1, #4, DI 000000000170:)
+COMPONENT number 1 of TYPE X'0002' (File_810 FlatFile):
+occurrence 4 is optional and has no content.
+
+(Level 0: Offset 0, len 2500, comp 1 of 0, #1, DI 000000000170:)
+Data at offset 0 ('N;<CR><LF>^092514;8161...') was found to be of TYPE
+   X'0002' (File_810 FlatFile).
+
+   INPUT 1 was valid.
+
+   End of Validation messages for INPUT CARD 1.
+
+
+   End of Execution messages.

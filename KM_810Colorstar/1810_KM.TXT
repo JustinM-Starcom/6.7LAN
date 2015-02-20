@@ -1,0 +1,52 @@
+^100203;111736;093003;0514901229
+Garden State Growers;056021462
+0;Invoice;093003;Posted;GSG Truck;Dave Sandt;(610)865-6660;RBF
+;;;589.00;0.00;0.00;589.00;0.00;0.00;
+4446;056021462
+KM#4446;K Mart #4446;3843 Linden Street;;Bethlehem;PA;18017      ;0
+Kmart;K-Mart Stores;(Bill to "SHIP TO:"  address);DUNS #05-602-1462;;;           
+2;0;0;056021462;Discount Cha;Discount Cha;;;;
+99 Locust Grove Road;Pittstown;NJ;08867      
+3843 Linden Street;;Bethlehem;PA;18017      
+56021462
+0.0;110103;110103;30;30;NET 30
+031002
+^96;4.00;(76) 0-205633-118;008914010092;10" Patio Planters
+;10" Pot;10" Patio Planters;1;EA;1;384.00;0.00;0.00;;Y;00000000000001117363;
+;                                                                                
+^100;2.05;(94) 0-523049-112;008914009607;8" Pots
+;8" Pot;8" Pots;1;EA;1;205.00;0.00;0.00;;Y;00000000000001117363;
+;                                                                                
+Garden State Growers;111736
+^N;0.00;;
+589.00
+196.00;3.00;196
+2;196.00
+@
+^100203;111739;093003;0514901230
+Garden State Growers;056021462
+0;Invoice;093003;Posted;GSG Truck;Tom Hollingcamp;(610)353-6262;RBF
+;;;792.00;0.00;0.00;792.00;0.00;0.00;
+3149;056021462
+KM#3149;K Mart #3149;700 Reed Road;;Broomall;PA;19008      ;0
+Kmart;K-Mart Stores;(Bill to "SHIP TO:"  address);DUNS #05-602-1462;;;           
+2;0;0;056021462;Discount Cha;Discount Cha;;;;
+99 Locust Grove Road;Pittstown;NJ;08867      
+700 Reed Road;;Broomall;PA;19008      
+56021462
+0.0;110103;110103;30;30;NET 30
+031002
+^48;4.00;(76) 0-205633-118;008914010092;10" Patio Planters
+;10" Pot;10" Patio Planters;1;EA;1;192.00;0.00;0.00;;Y;00000000000001117394;
+;                                                                                
+^300;2.00;(94) 0-523049-112;008914009607;8" Pots
+;8" Pot;8" Pots;1;EA;1;600.00;0.00;0.00;;Y;00000000000001117394;
+;                                                                                
+Garden State Growers;111739
+^N;0.00;;
+792.00
+348.00;4.00;348
+2;348.00
+@
+|
+

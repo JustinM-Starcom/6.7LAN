@@ -1,0 +1,57 @@
+^082905;268332;082605;01938915
+Mid America Growers;030566780
+0;Invoice;082605;Order;1 Day Carts;bren/js/suds;(708)865-9900;JS
+;;;1035.00;0.00;0.00;1332.00;0.00;0.00;
+1901;0
+HD1901;Home Depot # 1901;700 BROADVIEW VILLAGE SQ;;BROADVIEW;IL;60153      ;1901
+HD;Home Depot;Dept 28 Payables;P.O. Box 105728;Atlanta;GA;30348-5728 
+0;0;0;0;;;;;;
+14240 Greenhouse Ave.;Granville;IL;61326      
+700 BROADVIEW VILLAGE SQ;;BROADVIEW;IL;60153      
+10621
+0.0;092805;092805;30;30;NET 30
+050829
+^90;3.30;239053;19518351832;HARDGOODS/ASSORTED
+;HARDGOOD;Straw Bales;1;Pallet;1;297.00;0.00;0.00;;Y;;
+;                                                                                
+^180;3.75;306274;04405408007;8" Foliage HB
+;FOLHB-8;8" Foliage HB;1;CART90;1;675.00;0.00;0.00;;Y;;
+;                                                                                
+^360;1.00;356123;044054040094;4" Foliage Display Box
+;FOL-4DB;4" Foliage HD;1;CART;1;360.00;0.00;0.00;;Y;;
+;Rolled Rim Cover                                                                
+Mid America Growers;268332
+^N;0.00;;
+1332.00
+630.00;5.00;630
+3;630.00
+@
+^082905;268337;082605;06938915
+Mid America Growers;030566780
+0;Invoice;082605;Order;CART;bren/js/suds;(708)614-9200;
+;;;0.00;0.00;0.00;1332.00;0.00;0.00;
+1906;0
+HD1906;Home Depot # 1906;7300 W 159TH STREET;;ORLAND PARK;IL;60462      ;1906
+HD;Home Depot;Dept 28 Payables;P.O. Box 105728;Atlanta;GA;30348-5728 
+0;0;0;0;;;;;;
+14240 Greenhouse Ave.;Granville;IL;61326      
+7300 W 159TH STREET;;ORLAND PARK;IL;60462      
+10621
+0.0;092805;092805;30;30;NET 30
+050829
+^90;3.30;239053;19518351832;HARDGOODS/ASSORTED
+;HARDGOOD;Straw Bales;1;Pallet;1;297.00;0.00;0.00;;Y;;
+;                                                                                
+^180;3.75;306274;04405408007;8" Foliage HB
+;FOLHB-8;8" Foliage HB;1;CART90;1;675.00;0.00;0.00;;Y;;
+;                                                                                
+^360;1.00;356123;044054040094;4" Foliage Display Box
+;FOL-4DB;4" Foliage HD;1;CART;1;360.00;0.00;0.00;;Y;;
+;Rolled Rim Cover                                                                
+Mid America Growers;268337
+^A;0.00;;I170
+1332.00
+630.00;5.00;630
+3;630.00
+@
+|

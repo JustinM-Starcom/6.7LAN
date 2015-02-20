@@ -1,0 +1,87 @@
+^083010;314230;082410;103167663
+Dewar Nurseries, Inc.;010814770
+0;Invoice;082410;Posted;Dewar Truck;RTR;386-719-6622;GOJR
+;;;2173.80;0.00;0.00;0.00;0.00;0.00;
+0179;20293
+LO0179;Lowes Store #0179 (FE) a-a-b;3463 NW Bascom Norris Drive;;Lake City123123123112312312311;FL;32055      ;179
+LO;Lowes Stores;PO Box 1111;Dewar VN# 50996;Lake City123123123112312312311;NC;28656-0001 
+;;;20293;;;;;;
+625 W Keene Rd;Apopka;FL;32703      
+3463 NW Bascom Norris Drive;;Lake City123123123112312312311;FL;32055      
+50996
+0.0;101410;101410;45;45;NET 45
+100830
+^36;3.51;91840;095062501374;FRUITS
+;FRUITS;FRUITS;1;CART;1;126.36;0.00;0.00;;N;;;;129
+;                                                                                
+^72;3.51;97577;095062501428;FRUITS
+;FRUITS;FRUITS;1;CART;1;252.72;0.00;0.00;;N;;;;135
+;                                                                                
+^36;3.51;99824;095062501442;FRUITS
+;FRUITS;FRUITS;1;CART;1;126.36;0.00;0.00;;N;;;;143
+;                                                                                
+^36;3.51;253919;095062501398;FRUITS
+;FRUITS;FRUITS;1;CART;1;126.36;0.00;0.00;;N;;;;133
+;                                                                                
+^144;4.00;99724;095062501381;FRUITS
+;FRUITS;FRUITS;1;CART;1;576.00;0.00;0.00;;N;;;;131
+;                                                                                
+^200;1.83;152886;095062200536;Tropicals 1G
+;TROP1G;Tropicals 1G;1;CART;1;366.00;0.00;0.00;;N;;;;137500
+;                                                                                
+^75;4.00;44038;095062111627;Tropicals 3G
+;TROP3G;Tropicals 3G;1;CART;1;300.00;0.00;0.00;;N;;;;107
+;                                                                                
+^75;4.00;85765;095062115960;Tropicals 3G
+;TROP3G;Tropicals 3G;1;CART;1;300.00;0.00;0.00;;N;;;;102026
+;                                                                                
+Dewar Nurseries, Inc.;314230
+^N;0.00;;
+2173.80
+674.00;6.00;674
+8;674.00
+@
+^083010;314231;082410;103167664
+Dewar Nurseries, Inc.;010814770
+0;Invoice;082410;Posted;Dewar Truck;RTR;352-376-9900;GOJR
+;;;2666.16;0.00;0.00;0.00;0.00;0.00;
+0418;20293
+LO0418;Lowes Store #0418 (FE) a-a-a;3500 Archer Road;;Gainesville;FL;32608      ;418
+LO;Lowes Stores;PO Box 1111;Dewar VN# 50996;N. Wilkesboro;NC;28656-0001 
+;;;20293;;;;;;
+625 W Keene Rd;Apopka;FL;32703      
+3500 Archer Road;;Gainesville;FL;32608      
+50996
+0.0;101410;101410;45;45;NET 45
+100830
+^36;3.51;91840;095062501374;FRUITS
+;FRUITS;FRUITS;1;CART;1;126.36;0.00;0.00;;N;;;;129
+;                                                                                
+^72;3.51;97577;095062501428;FRUITS
+;FRUITS;FRUITS;1;CART;1;252.72;0.00;0.00;;N;;;;135
+;                                                                                
+^36;3.51;99824;095062501442;FRUITS
+;FRUITS;FRUITS;1;CART;1;126.36;0.00;0.00;;N;;;;143
+;                                                                                
+^72;3.51;253919;095062501398;FRUITS
+;FRUITS;FRUITS;1;CART;1;252.72;0.00;0.00;;N;;;;133
+;                                                                                
+^144;4.00;99724;095062501381;FRUITS
+;FRUITS;FRUITS;1;CART;1;576.00;0.00;0.00;;N;;;;131
+;                                                                                
+^400;1.83;152886;095062200536;Tropicals 1G
+;TROP1G;Tropicals 1G;1;CART;1;732.00;0.00;0.00;;N;;;;137500
+;                                                                                
+^75;4.00;44038;095062111627;Tropicals 3G
+;TROP3G;Tropicals 3G;1;CART;1;300.00;0.00;0.00;;N;;;;107
+;                                                                                
+^75;4.00;85765;095062115960;Tropicals 3G
+;TROP3G;Tropicals 3G;1;CART;1;300.00;0.00;0.00;;N;;;;102026
+;                                                                                
+Dewar Nurseries, Inc.;314231
+^N;0.00;;
+2666.16
+910.00;7.00;910
+8;910.00
+@
+|

@@ -1,0 +1,249 @@
+^051506;36167;032906;01944773
+Seacliff Farms;
+0;Invoice;032906;Posted;SEACLIFF;EDI 850;1-416-609-2871;LB
+;9:00am;;833.00;0.00;0.00;833.00;0.00;7.00;
+7001;104761051RT
+HD7001;H.D. #7001 Scarborough;428 ELLESMERE ROAD;;SCARBOROUGH;ON;M1R 4E7    ;7001
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;104761051RT;072271711;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+428 ELLESMERE ROAD;;SCARBOROUGH;ON;M1R 4E7    
+10175
+0.0;051506;061406;0;30;NET 30
+060515
+^196;4.25;176408;773502012900;2402 Assorted Annual
+;2402;2402 Assorted Annual;1;EA;1;833.00;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36167
+^N;0.00;;
+^C;5831.00;;      
+891.31
+196.00;2.00;196
+1;196.00
+@
+^051606;36174;032906;01944835
+Seacliff Farms;
+0;Invoice;032906;Posted;SEACLIFF;EDI 850;1-416-609-2871;LB
+;4:30am;;759.00;0.00;0.00;759.00;0.00;7.00;
+7001;104761051RT
+HD7001;H.D. #7001 Scarborough;428 ELLESMERE ROAD;;SCARBOROUGH;ON;M1R 4E7    ;7001
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;104761051RT;072271711;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+428 ELLESMERE ROAD;;SCARBOROUGH;ON;M1R 4E7    
+10175
+0.0;051606;061506;0;30;NET 30
+060516
+^420;0.95;118764;;1004 Viva Veggies
+;Viva4Pak;1004 Viva Veggies;1;EA;1;399.00;0.00;0.00;;Y;;
+;                                                                                
+^120;3.00;403532;;Viva 2.6 Qt Vegetable
+;2.6Veg;Viva 2.6 Qt Vegetable;1;EA;1;360.00;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36174
+^N;0.00;;
+^C;5313.00;;      
+812.13
+540.00;2.00;540
+2;540.00
+@
+^052006;36179;032906;01944861
+Seacliff Farms;
+0;Invoice;032906;Posted;SEACLIFF;EDI 850;1-416-609-2871;LB
+;4:00am;;2528.40;0.00;0.00;2528.40;0.00;7.00;
+7001;104761051RT
+HD7001;H.D. #7001 Scarborough;428 ELLESMERE ROAD;;SCARBOROUGH;ON;M1R 4E7    ;7001
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;104761051RT;072271711;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+428 ELLESMERE ROAD;;SCARBOROUGH;ON;M1R 4E7    
+10175
+0.0;052006;061906;0;30;NET 30
+060520
+^392;4.25;176408;773502012900;2402 Assorted Annual
+;2402;2402 Assorted Annual;1;EA;1;1666.00;0.00;0.00;;Y;;
+;                                                                                
+^392;2.20;176666;773502012856;4012 Assorted Annual
+;4012;4012 Assorted Annual;1;EA;1;862.40;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36179
+^N;0.00;;
+^C;17698.80;;      
+2705.39
+784.00;6.00;784
+2;784.00
+@
+^052006;36181;032906;01944863
+Seacliff Farms;
+0;Invoice;032906;Posted;SEACLIFF;EDI 850;1-416-609-2871;LB
+;4:00am;;812.00;0.00;0.00;812.00;0.00;7.00;
+7001;104761051RT
+HD7001;H.D. #7001 Scarborough;428 ELLESMERE ROAD;;SCARBOROUGH;ON;M1R 4E7    ;7001
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;104761051RT;072271711;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+428 ELLESMERE ROAD;;SCARBOROUGH;ON;M1R 4E7    
+10175
+0.0;052006;061906;0;30;NET 30
+060520
+^48;7.75;;;10" Hanging Basket
+;SP10HB;10" Hanging Basket;1;EA;1;372.00;0.00;0.00;;Y;;
+;                                                                                
+^32;13.75;102605;;12" Regal Georgian
+;SP12Regal;12" Regal Georgian;1;EA;1;440.00;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36181
+^N;0.00;;
+^C;5684.00;;      
+868.84
+80.00;2.00;80
+2;80.00
+@
+^052006;36182;032906;01944864
+Seacliff Farms;
+0;Invoice;032906;Posted;SEACLIFF;EDI 850;1-416-609-2871;LB
+;4:00am;;609.75;0.00;0.00;609.75;0.00;7.00;
+7001;104761051RT
+HD7001;H.D. #7001 Scarborough;428 ELLESMERE ROAD;;SCARBOROUGH;ON;M1R 4E7    ;7001
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;104761051RT;072271711;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+428 ELLESMERE ROAD;;SCARBOROUGH;ON;M1R 4E7    
+10175
+0.0;052006;061906;0;30;NET 30
+060520
+^18;19.50;116765;;14" Optimum Hanging Basket
+;SP14HB;14" Optimum Hanging Basket;1;EA;1;351.00;0.00;0.00;;Y;;
+;                                                                                
+^9;28.75;117192;;18" Coco Garden Basket
+;COCO18;18" Coco Garden Basket;1;EA;1;258.75;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36182
+^N;0.00;;
+^C;4268.25;;      
+652.43
+27.00;2.00;27
+2;27.00
+@
+^052006;35405;032806;02944705
+Seacliff Farms;
+0;Invoice;032806;Posted;SEACLIFF;EDI 850;1-905-851-3641;LB
+;6:00am;;1622.40;0.00;0.00;1622.40;0.00;7.00;
+7002;10476105RT
+HD7002;H.D. #7002 Woodbridge;140 NORTHVIEW BLVD;;WOODBRIDGE;ON;L4L 8T2    ;7002
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+140 NORTHVIEW BLVD;;WOODBRIDGE;ON;L4L 8T2    
+10175
+0.0;052006;061906;0;30;NET 30
+060520
+^192;8.45;126148;;10" Hanging Basket
+;SP10HB;10" Hanging Basket;1;EA;1;1622.40;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;35405
+^N;0.00;;
+^C;11356.80;;      
+1735.97
+192.00;4.00;192
+1;192.00
+@
+^051806;35414;032806;02944731
+Seacliff Farms;
+0;Invoice;032806;Posted;SEACLIFF;EDI 850;1-905-851-3641;LB
+;5:00am;;880.00;0.00;0.00;880.00;0.00;7.00;
+7002;10476105RT
+HD7002;H.D. #7002 Woodbridge;140 NORTHVIEW BLVD;;WOODBRIDGE;ON;L4L 8T2    ;7002
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+140 NORTHVIEW BLVD;;WOODBRIDGE;ON;L4L 8T2    
+10175
+0.0;051806;061706;0;30;NET 30
+060518
+^64;13.75;102605;;12" Regal Georgian
+;SP12Regal;12" Regal Georgian;1;EA;1;880.00;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;35414
+^N;0.00;;
+^C;6160.00;;      
+941.60
+64.00;2.00;64
+1;64.00
+@
+^052006;35415;032806;02944735
+Seacliff Farms;
+0;Invoice;032806;Posted;SEACLIFF;EDI 850;1-905-851-3641;LB
+;6:00am;;820.50;0.00;0.00;820.50;0.00;7.00;
+7002;10476105RT
+HD7002;H.D. #7002 Woodbridge;140 NORTHVIEW BLVD;;WOODBRIDGE;ON;L4L 8T2    ;7002
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+140 NORTHVIEW BLVD;;WOODBRIDGE;ON;L4L 8T2    
+10175
+0.0;052006;061906;0;30;NET 30
+060520
+^30;14.75;102488;;14" Angelica Bowl
+;SP14Bowl;14" Angelica Bowl;1;EA;1;442.50;0.00;0.00;;Y;;
+;                                                                                
+^24;15.75;471774;;23" Angelica Balcony Box
+;ANGEL23;23" Angelica Balcony Box;1;EA;1;378.00;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;35415
+^N;0.00;;
+^C;5743.50;;      
+877.94
+54.00;2.00;54
+2;54.00
+@
+^052006;36185;032906;02944773
+Seacliff Farms;
+0;Invoice;032906;Posted;SEACLIFF;EDI 850;1-905-851-3641;LB
+;6:00am;;833.00;0.00;0.00;833.00;0.00;7.00;
+7002;10476105RT
+HD7002;H.D. #7002 Woodbridge;140 NORTHVIEW BLVD;;WOODBRIDGE;ON;L4L 8T2    ;7002
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+140 NORTHVIEW BLVD;;WOODBRIDGE;ON;L4L 8T2    
+10175
+0.0;052006;061906;0;30;NET 30
+060520
+^196;4.25;176408;773502012900;2402 Assorted Annual
+;2402;2402 Assorted Annual;1;EA;1;833.00;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36185
+^N;0.00;;
+^C;5831.00;;      
+891.31
+196.00;2.00;196
+1;196.00
+@
+^051506;36192;032906;02944835
+Seacliff Farms;
+0;Invoice;032906;Posted;SEACLIFF;EDI 850;1-905-851-3641;LB
+;11:30am;;759.00;0.00;0.00;759.00;0.00;7.00;
+7002;10476105RT
+HD7002;H.D. #7002 Woodbridge;140 NORTHVIEW BLVD;;WOODBRIDGE;ON;L4L 8T2    ;7002
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+140 NORTHVIEW BLVD;;WOODBRIDGE;ON;L4L 8T2    
+10175
+0.0;051506;061406;0;30;NET 30
+060515
+^420;0.95;118764;;1004 Viva Veggies
+;Viva4Pak;1004 Viva Veggies;1;EA;1;399.00;0.00;0.00;;Y;;
+;                                                                                
+^120;3.00;403532;;Viva 2.6 Qt Vegetable
+;2.6Veg;Viva 2.6 Qt Vegetable;1;EA;1;360.00;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36192
+^N;0.00;;
+^C;5313.00;;      
+812.13
+540.00;2.00;540
+2;540.00
+@
+|

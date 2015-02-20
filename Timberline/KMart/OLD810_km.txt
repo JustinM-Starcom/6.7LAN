@@ -1,0 +1,26 @@
+^022310;210702;021910;0510201551
+Timberline Nursery;021791103
+0;Invoice;021910;Order;truck;;956-546-0264;COO
+;;;24.23;0.00;0.00;24.23;0.00;0.00;
+9329;0
+KM9329;Big Kmart #9329;2440 Pablo Kisel Blvd.;;Brownsville;TX;78520      ;9329
+KMART;Sears Holding Corporation;Accounting Services Cntr 9767;PO Box 660200;Dallas;TX;75266-0200 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+2440 Pablo Kisel Blvd.;;Brownsville;TX;78520      
+369280
+0.0;030210;030210;7;7;NET 7
+100223
+^12;1.54;02139356;830340003535;606 Jumbo Ann - 6/Fl - 96/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 96/Rk;1;EA;6;18.48;0.00;0.00;;Y;00008303400002107026;;;1005
+;                                                                                
+^1;5.75;02139369;830340003054;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;5.75;0.00;0.00;;Y;00008303400002107026;;;70180
+;                                                                                
+Timberline Nursery;210702
+^N;0.00;;
+24.23
+13.00;0.03;3
+2;13.00
+@
+|

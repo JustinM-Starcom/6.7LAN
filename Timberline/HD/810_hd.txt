@@ -1,0 +1,33 @@
+^010305;14401;010305;23097819
+Timberline Nursery;021791103
+0;Invoice;010305;Order;truck;;281-577-9151;COO
+;;;1022.10;0.00;0.00;1022.10;0.00;0.00;
+6523;0
+HD6523;Home Depot #6523;23575 US Hwy. 59;;Porter;TX;77365      ;6523
+HDEPOT;Home Depot;Vendor# 54151;Attn: Dept. 28 - Payables;Atlanta;GA;30339      
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+23575 US Hwy. 59;;Porter;TX;77365      
+54151
+1.0;020205;020305;30;31;1/30N31
+050103
+^240;1.15;136-948;830340001272;606 Jumbo Annual-6 per Flat
+;01ANN606;606 Jumbo Annual-6 per Flat;1;FLATS;6;276.00;0.00;0.00;;Y;00000000000000144018;
+;                                                                                
+^828;0.55;356-131;830340004105;4in Annual-18 per Flat
+;20ANN04;4in Annual-18 per Flat;1;FLATS;18;455.40;0.00;0.00;;Y;00000000000000144018;
+;                                                                                
+^80;1.44;600-008;830340006017;6in Annual-8 per Flat
+;40ANN06;6in Annual-8 per Flat;1;FLATS;8;115.20;0.00;0.00;;Y;00000000000000144018;
+;                                                                                
+^90;1.95;603-929;830340008240;Gal. Annual-6 per Flat
+;50ANNGAL;Gal. Annual-6 per Flat;1;FLATS;6;175.50;0.00;0.00;;Y;00000000000000144018;
+;                                                                                
+Timberline Nursery;14401
+^N;0.00;;
+1022.10
+1238.00;3.00;111
+4;1238.00
+@
+|
+

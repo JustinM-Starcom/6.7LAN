@@ -1,0 +1,48 @@
+^020209;415862;020109;18075554
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;020109;Posted;Our Truck;SC;(310)325-9600;BL
+;;;224.40;0.00;0.00;224.40;0.00;0.00;
+0618;0
+HD 0618;Home Depot - #618 Torrance;24451 CRENSHAW BLVD;;TORRANCE;CA;90505      ;618
+HOMEDEPO;The Home Depot;EDI Department-Invoices;PO Box 105581;Atlanta;GA;30348-5581 
+0;0;0;0;;;;;48;
+1025 North Todd Avenue;Azusa;CA;91702      
+24451 CRENSHAW BLVD;;TORRANCE;CA;90505      
+187714
+0.0;030409;030409;30;30;NET 30
+090202
+^24;9.35;396759;732336650009;Other Miscellaneous Items
+;OTHER;2 gal Natures Nectar;1;EACH;1;224.40;0.00;0.00;;Y;;;;38030
+;                                                                                
+COLORAMA WH0LESALE NURSERY;415862
+^N;0.00;;
+224.40
+24.00;24.00;24
+1;24.00
+@
+^020209;415868;020109;55024532
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;020109;Posted;Our Truck;SC;(661) 702-9925;RE
+;;;391.00;0.00;0.00;391.00;0.00;0.00;
+1055;0
+HD 1055;Home Depot - #1055 Newhall;28033 NEWHALL RANCH RD;;SANTA CLARITA;CA;91355      ;1055
+HOMEDEPO;The Home Depot;EDI Department-Invoices;PO Box 105581;Atlanta;GA;30348-5581 
+;;;;;;;;48;
+1025 North Todd Avenue;Azusa;CA;91702      
+28033 NEWHALL RANCH RD;;SANTA CLARITA;CA;91355      
+187714
+0.0;030409;030409;30;30;NET 30
+090202
+^20;9.35;396759;732336650009;Other Miscellaneous Items
+;OTHER;2 gal Natures Nectar;1;Each;1;187.00;0.00;0.00;;Y;;;;38030
+;                                                                                
+^50;4.08;690396;732336374516;Premium Gallons
+;GALLONP;Calla Lily White;1;Each;1;204.00;0.00;0.00;;Y;;;;30200
+;                                                                                
+COLORAMA WH0LESALE NURSERY;415868
+^N;0.00;;
+391.00
+70.00;70.00;70
+2;70.00
+@
+|

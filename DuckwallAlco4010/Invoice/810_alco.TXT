@@ -1,0 +1,41 @@
+^113006;362706;112806;14305-100
+Floral Plant Growers, L.L.C.;036972045
+0;Invoice;112806;Posted;TRUCK;KATHY PANTZLAFF;605-886-2375;EE
+;;XK5717437;636.30;0.00;0.00;636.30;0.00;0.00;
+4305;0
+AC14305;WATERTOWN ACE HARDWARE;12 19TH ST NE;;WATERTOWN;SD;57201      ;0
+AC;ACE HARDWARE CORP;2200 KENSINGTON COURT;;OAK BROOK;IL;60523      
+;;;;;;;;;
+PO BOX 790 N781 CURRAN ROAD;DENMARK;WI;54208      
+12 19TH ST NE;;WATERTOWN;SD;57201      
+35972
+0.0;113006;123006;0;30;NET 30
+061130
+^60;1.75;;733539604004;4" POINSETTIA
+;POIN4.0;4" POINSETTIA;1;CARTIA;1;105.00;0.00;0.00;;Y;;
+;                                                                                
+^18;1.75;;733539604004;4" POINSETTIA
+;POIN4.0;4" POINSETTIA;1;CARTIA;1;31.50;0.00;0.00;;Y;;
+;                                                                                
+^12;1.75;;733539604004;4" POINSETTIA
+;POIN4.0;4" POINSETTIA;1;CARTIA;1;21.00;0.00;0.00;;Y;;
+;                                                                                
+^12;3.99;;733539650100;6.5" POINSETTIA
+;POIN6.5;6.5" POINSETTIA;1;CARTIA;1;47.88;0.00;0.00;;Y;;
+;                                                                                
+^12;3.99;;733539650100;6.5" POINSETTIA
+;POIN6.5;6.5" POINSETTIA;1;CARTIA;1;47.88;0.00;0.00;;Y;;
+;                                                                                
+^12;3.99;;733539650100;6.5" POINSETTIA
+;POIN6.5;6.5" POINSETTIA;1;CARTIA;1;47.88;0.00;0.00;;Y;;
+;                                                                                
+^84;3.99;;733539650100;6.5" POINSETTIA
+;POIN6.5;6.5" POINSETTIA;1;CARTIA;1;335.16;0.00;0.00;;Y;;
+;                                                                                
+Floral Plant Growers, L.L.C.;362706
+^N;0.00;;
+636.30
+210.00;0.89;210
+7;210.00
+@
+|

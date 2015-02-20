@@ -1,0 +1,29 @@
+^052604;294871;052404;05262004
+Metrolina Greenhouses, Inc.;071058929
+0;Invoice;052404;Posted;METROLINA TRUCK;AMANDA;(703) 803-0200;JB
+;;;1730.40;0.00;0.00;1730.40;0.00;0.00;
+0033;0
+BJ0033;BJ'S #33;13053 FAIRLAKES SHOPPING CTR;;FAIRFAX;VA;22033      ;0106514441033
+BJS;BJ'S WHOLESALE CLUB INC.;PO BOX 9601;ONE MERCER ROAD;NATICK;MA;01760-9601 
+;;;;;;;;;
+16400 Huntersville-Concord Road;Huntersville;NC;28078      
+13053 FAIRLAKES SHOPPING CTR;;FAIRFAX;VA;22033      
+075798556
+0.0;052604;062504;0;30;NET 30
+040526
+^72;7.35;014028;024719305911;10" HANGING BASKET
+;HB-10";10" FLOWERING BASKET;1;CART-3;1;529.20;0.00;0.00;;Y;;
+;                                                                                
+^72;7.35;014029;024719300282;10" TERRA COTTA
+;TC-10";10" TERRA COTTA;1;CART-6;1;529.20;0.00;0.00;;Y;;
+;                                                                                
+^48;14.00;014030;024719305966;12" HANGING BASKET
+;HB-12";12" HANGING BASKET;1;CART-6;1;672.00;0.00;0.00;;Y;;
+;                                                                                
+Metrolina Greenhouses, Inc.;294871
+^N;0.00;;
+1730.40
+192.00;3.00;192
+3;192.00
+@
+|

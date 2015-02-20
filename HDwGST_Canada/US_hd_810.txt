@@ -1,0 +1,27 @@
+N;
+^113010;118387;112510;86961156
+Jeffery's Greenhouses Inc.;##########
+0;Invoice;112510;Posted;JEFFERY'S TRUCK;EDI 850;716-825-0872;DAVID
+;;;625.60;0.00;0.00;625.60;0.00;0.00;
+1286;0
+HD#1286;HOME DEPOT#1286 -HAMBURG;4405 MILESTRIP RD;;BLASDELL;NY;14219      ;1286
+HD-USA;HOME DEPOT;Vendor Support Department;P.O. Box 723016;Atlanta;GA;31139-0016 
+;;;;;;;;;
+R. R. #3 - 1036 Lakeshore Rd.W;St. Catharines;ON;L2R 6P9    
+4405 MILESTRIP RD;;BUFFALO;NY;14219      
+000036754
+2.0;123010;123110;30;31;2.0/30 N/31
+101130
+^8;7.82;251736;6-23390-89012-1;POINSETTIA 8"
+;POINT8";POINSETTIA 8";8;CART;1;62.56;0.00;0.00;;Y;0602.90.6020;;;9501
+;                                                                                
+^72;7.82;251736;6-23390-89012-1;POINSETTIA 8"
+;POINT8";POINSETTIA 8";36;RACK;1;563.04;0.00;0.00;;Y;0602.90.6020;;;9501
+;                                                                                
+Jeffery's Greenhouses Inc.;118387
+^A;3.13;;I170
+622.47
+80.00;3.00;3
+2;80.00
+@
+|

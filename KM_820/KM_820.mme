@@ -1,0 +1,36 @@
+M200	WARNING:
+	Map: KM_820   Output: EffectGoodFundsChkDate Title:HeaderTitle Record:Worksheet
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: KM_820   Output: TotalCreditAmount Title:HeaderTitle Record:Worksheet
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: KM_820   Output: TotalCreditAmt Field:Header Record:Worksheet
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: KM_820   Output: NetAmountPaid Title:DetailTitle Record:Worksheet
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: KM_820   Output: AdjustmentAmount Title:DetailTitle Record:Worksheet
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: F_EachAdjustment   Output: AdjustmentAmount Field:AdjustmentDetail
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: F_EachDetail   Output: NetAmtPaid Field:DetailRecord
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: F_EachDetail   Output: GrossAmount Field:DetailRecord
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: F_EachDetail   Output: OtherDiscountAmt Field:DetailRecord
+	Size of input item is greater than size of output item.
+

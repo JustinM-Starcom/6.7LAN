@@ -1,0 +1,4 @@
+M200	WARNING:
+	Map: Transaction   Output: TermsNetDays Element:ITD Segment [1]:#810<>TransactionOut
+	Size of input item is greater than size of output item.
+

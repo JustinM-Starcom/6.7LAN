@@ -1,0 +1,32 @@
+^030205;51469;030205;941704785
+Bergen's Greenhouses, Inc.;022757892
+0;Invoice;030205;Order;DELIVERY;;;**
+;;;590.10;0.00;0.00;590.10;0.00;0.00;
+0040;5263
+0040;BENTON IL;62 REND LAKE PLAZA;;BENTON;IL;62812      ;0089658734170
+MATT;MATTOON RURAL KING;;4216 DEWITT,MATTOON;MATTOON;IL;61938      
+;;;5263;;;;;;
+801 West Willow Street;Detroit Lakes;MN;56501      
+1111  EAST  NORTH  STREET;;RAPID  CITY;SD;57701      
+022757892
+0.0;030205;040105;0;30;NET 30
+050302
+^180;1.25;0-432589-117;725209200517;4" Green Plant
+;FOL4;4" Green Plant;1;each;1;225.00;0.00;0.00;;Y;;
+;                                                                                
+^24;4.00;0-505899-112;725209112599;6" FLORIST CHRYSANTHEMUM
+;MUMVALU6;6" FLORIST CHRYSANTHEMUM;1;each;1;96.00;0.00;0.00;;Y;;
+;                                                                                
+^30;4.25;0-432592-111;725209200623;6" FOLIAGE HB
+;FOLHB6;6" FOLIAGE HB;1;each;1;127.50;0.00;0.00;;Y;;
+;                                                                                
+^24;5.90;0-977387-117;725209116559;6" HYDRANGEA
+;HYDRA6;6" HYDRANGEA;1;each;1;141.60;0.00;0.00;;Y;;
+;                                                                                
+Bergen's Greenhouses, Inc.;51469
+^N;0.00;;
+590.10
+258.00;258.00;258
+4;258.00
+@
+|

@@ -1,0 +1,27 @@
+N;
+^092410;363295;092410;
+Eighteen Acres Ltd.;
+0;Cr Memo;092410;Posted;LOCAL TRUCK;TERRI;(604) 433-2774;TMK
+;;112422;0.00;0.00;0.00;-140.00;12.00;0.00;
+V912;0
+SAV912;SAVE ON FOODS 912;6100 MCKAY AVENUE;;BURNABY;BC;V5H 2W7    ;1
+OVFOGR;OVERWAITEA FOOD GROUP;P.O. BOX 9600;;VANCOUVER;BC;V6B 5J4    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+6100 MCKAY AVENUE;;BURNABY;BC;V5H 2W7    
+
+0.0;092410;100810;0;14;NET 14
+100924
+^-30;4.00;;774755000034;BUCKETS
+;9990-BUCK;BUCKETS 003;1;EACH;1;-120.00;0.00;0.00;;Y;;;;999003
+;                                                                                
+^-4;5.00;;774755000065;BUCKETS
+;9990-BUCK;BUCKETS 006;1;EACH;1;-20.00;0.00;0.00;;Y;;;;999006
+;                                                                                
+Eighteen Acres Ltd.;363295
+^N;0.00;;
+-156.80
+-34.00;0.00;-34
+2;-34.00
+@
+|

@@ -1,0 +1,1664 @@
+N;
+^082610;161068;082310;0052464384
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082310;Posted;VENDOR TRUCK;MARYLYNN;641-472-6858;
+;;;604.80;0.00;0.00;0.00;0.00;0.00;
+0985;test
+W0985;WALMART     #0985  FAIRFIELD;1800 WEST BURLINGTON AVENUE;;FAIRFIELD;IA;52556      ;0078742009612
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+1800 WEST BURLINGTON AVENUE;;FAIRFIELD;IA;52556      
+919183560
+0.0;082610;101010;0;45;NET 45
+100826
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^128;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;172.80;0.00;0.00;;N;;;;9966
+;                                                                                
+^192;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;259.20;0.00;0.00;;N;;;;9965
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161068
+^N;0.00;;
+604.80
+448.00;1.00;448
+3;448.00
+@
+N;
+^082610;161070;082310;0052464384
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082310;Posted;VENDOR TRUCK;MARYLYNN;712-246-4044;
+;;;1569.60;0.00;0.00;0.00;0.00;0.00;
+1683;test
+W1683;WALMART     #1683  SHENANDOAH;HIGHWAY 59 SOUTH;;SHENANDOAH;IA;51601      ;0078742016504
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+HIGHWAY 59 SOUTH;;SHENANDOAH;IA;51601      
+919183560
+0.0;082610;101010;0;45;NET 45
+100826
+^90;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;216.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^192;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;259.20;0.00;0.00;;N;;;;9967
+;                                                                                
+^256;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;345.60;0.00;0.00;;N;;;;9966
+;                                                                                
+^448;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;604.80;0.00;0.00;;N;;;;9965
+;                                                                                
+^30;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;72.00;0.00;0.00;;N;;;;9974
+;                                                                                
+^30;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;72.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161070
+^N;0.00;;
+1569.60
+1046.00;3.00;1046
+6;1046.00
+@
+N;
+^082610;161071;082310;0052464384
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082310;Posted;VENDOR TRUCK;MARYLYNN;641-828-7584;
+;;;964.80;0.00;0.00;0.00;0.00;0.00;
+2935;test
+W2935;WALMART     #2935  KNOXVILLE;814 WEST BELL AVENUE;;KNOXVILLE;IA;50138      ;0078742027470
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+814 WEST BELL AVENUE;;KNOXVILLE;IA;50138      
+919183560
+0.0;082610;101010;0;45;NET 45
+100826
+^60;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;144.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^192;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;259.20;0.00;0.00;;N;;;;9967
+;                                                                                
+^128;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;172.80;0.00;0.00;;N;;;;9966
+;                                                                                
+^128;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;172.80;0.00;0.00;;N;;;;9965
+;                                                                                
+^30;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;72.00;0.00;0.00;;N;;;;9974
+;                                                                                
+^30;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;72.00;0.00;0.00;;N;;;;9973
+;                                                                                
+^30;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;72.00;0.00;0.00;;N;;;;9972
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161071
+^N;0.00;;
+964.80
+598.00;2.00;598
+7;598.00
+@
+N;
+^082610;161072;082310;0052464384
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082310;Posted;VENDOR TRUCK;MARYLYNN;641-342-1650;
+;;;604.80;0.00;0.00;0.00;0.00;0.00;
+4606;test
+W4606;WALMART     #4606    OSCEOLA;2400 COLLEGE RD;;OSCEOLA;IA;50213      ;0078742060170
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+2400 COLLEGE RD;;OSCEOLA;IA;50213      
+919183560
+0.0;082610;101010;0;45;NET 45
+100826
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^128;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;172.80;0.00;0.00;;N;;;;9966
+;                                                                                
+^192;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;259.20;0.00;0.00;;N;;;;9965
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161072
+^N;0.00;;
+604.80
+448.00;1.00;448
+3;448.00
+@
+N;
+^082610;161084;082310;0052464384
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082310;Posted;VENDOR TRUCK;MARYLYNN;641-628-9881;
+;;;360.00;0.00;0.00;0.00;0.00;0.00;
+0751;test
+W0751;WALMART     #0751  PELLA;1650 WASHINGTON ST;;PELLA;IA;50219      ;0078742007304
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+1650 WASHINGTON ST;;PELLA;IA;50219      
+919183560
+0.0;082610;101010;0;45;NET 45
+100826
+^90;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;216.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^60;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;144.00;0.00;0.00;;N;;;;9973
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161084
+^N;0.00;;
+360.00
+150.00;1.00;150
+2;150.00
+@
+N;
+^082610;161085;082310;0052464384
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082310;Posted;VENDOR TRUCK;MARYLYNN;641-682-1715;
+;;;360.00;0.00;0.00;0.00;0.00;0.00;
+1285;test
+W1285;WALMART     #1285  OTTUMWA;1940 VENTURE DRIVE;;OTTUMWA;IA;52501      ;0078742012544
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+1940 VENTURE DRIVE;;OTTUMWA;IA;52501      
+919183560
+0.0;082610;101010;0;45;NET 45
+100826
+^60;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;144.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^30;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;72.00;0.00;0.00;;N;;;;9974
+;                                                                                
+^30;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;72.00;0.00;0.00;;N;;;;9973
+;                                                                                
+^30;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;72.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161085
+^N;0.00;;
+360.00
+150.00;1.00;150
+4;150.00
+@
+N;
+^082610;161086;082310;0052464384
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082310;Posted;VENDOR TRUCK;MARYLYNN;641-782-6954;
+;;;768.00;0.00;0.00;408.00;0.00;0.00;
+1435;test
+W1435;WALMART     #1435  CRESTON;806 LAUREL ST.;;CRESTON;IA;50801      ;0078742014029
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+806 LAUREL ST.;;CRESTON;IA;50801      
+919183560
+0.0;082610;101010;0;45;NET 45
+100826
+^4;8.50;005690908;735946000714;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" PURPLE;1;EA;1;34.00;0.00;0.00;;Y;;;;9995
+;                                                                                
+^36;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;306.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^8;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;68.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^90;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;216.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^30;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;72.00;0.00;0.00;;N;;;;9974
+;                                                                                
+^30;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;72.00;0.00;0.00;;N;;;;9973
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161086
+^N;0.00;;
+768.00
+198.00;2.07;198
+6;198.00
+@
+N;
+^082610;161087;082310;0052464384
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082310;Posted;VENDOR TRUCK;MARYLYNN;515-961-8955;
+;;;360.00;0.00;0.00;0.00;0.00;0.00;
+1491;test
+W1491;WALMART     #1491  INDIANOLA;1500 NORTH JEFFERSON;;INDIANOLA;IA;50125      ;0078742014586
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+1500 NORTH JEFFERSON;;INDIANOLA;IA;50125      
+919183560
+0.0;082610;101010;0;45;NET 45
+100826
+^90;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;216.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^30;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;72.00;0.00;0.00;;N;;;;9973
+;                                                                                
+^30;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;72.00;0.00;0.00;;N;;;;9972
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161087
+^N;0.00;;
+360.00
+150.00;1.00;150
+3;150.00
+@
+N;
+^082610;161090;082310;0052464384
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082310;Posted;VENDOR TRUCK;MARYLYNN;501-273-6199;
+;;;720.00;0.00;0.00;0.00;0.00;0.00;
+5748;test
+W5748;WALMART     #5748 GRIMES;2150 EAST 1ST STREET;;GRIMES;IA;50111      ;0078742064710
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+2150 EAST 1ST STREET;;GRIMES;IA;50111      
+919183560
+0.0;082610;101010;0;45;NET 45
+100826
+^150;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;360.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^30;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;72.00;0.00;0.00;;N;;;;9974
+;                                                                                
+^30;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;72.00;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;216.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161090
+^N;0.00;;
+720.00
+300.00;2.00;300
+4;300.00
+@
+N;
+^082710;161089;082310;0052464384
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082310;Posted;;MARYLYNN;712-243-5214;
+;;;360.00;0.00;0.00;0.00;0.00;0.00;
+3394;test
+W3394;WALMART     #3394  ATLANTIC;1905 EAST 7TH STREET;;ATLANTIC;IA;50022      ;0078742049717
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+1905 EAST 7TH STREET;;ATLANTIC;IA;50022      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^60;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;144.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^30;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;72.00;0.00;0.00;;N;;;;9974
+;                                                                                
+^30;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;72.00;0.00;0.00;;N;;;;9973
+;                                                                                
+^30;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;72.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161089
+^N;0.00;;
+360.00
+150.00;1.00;150
+4;150.00
+@
+N;
+^082710;161251;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;712-366-3326;DE
+;;;964.80;0.00;0.00;0.00;0.00;0.00;
+1965;test
+W1965;WALMART     #1965  CB,IA Manawa;3201 MANAWA DRIVE;;COUNCIL BLUFFS;IA;51503      ;0078742019291
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+3201 MANAWA DRIVE;;COUNCIL BLUFFS;IA;51503      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^60;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;144.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^128;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;172.80;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^128;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;172.80;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^30;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;72.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^30;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;72.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161251
+^N;0.00;;
+964.80
+598.00;2.00;598
+9;598.00
+@
+N;
+^082710;161252;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;;MARYLYNN;712-243-5214;
+;;;1386.80;0.00;0.00;246.00;0.00;0.00;
+3394;test
+W3394;WALMART     #3394  ATLANTIC;1905 EAST 7TH STREET;;ATLANTIC;IA;50022      ;0078742049717
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+1905 EAST 7TH STREET;;ATLANTIC;IA;50022      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;102.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^12;12.00;005690966;735946000455;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" YELLOW;1;EA;1;144.00;0.00;0.00;;Y;;;;9997
+;                                                                                
+^60;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;144.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^128;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;172.80;0.00;0.00;;N;;;;9968
+;                                                                                
+^64;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;86.40;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^192;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;259.20;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^30;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;72.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^30;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;72.00;0.00;0.00;;N;;;;9971
+;                                                                                
+^32;5.50;005691132;735946000622;FALL TRI COLOR MUM
+;FALL TRICO;FALL TRI COLOR MUM CHERYL #5;1;EA;1;176.00;0.00;0.00;;N;;;;9985
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161252
+^N;0.00;;
+1386.80
+654.00;3.00;654
+12;654.00
+@
+N;
+^082710;161253;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;501-273-6199;
+;;;1324.80;0.00;0.00;0.00;0.00;0.00;
+5748;test
+W5748;WALMART     #5748 GRIMES;2150 EAST 1ST STREET;;GRIMES;IA;50111      ;0078742064710
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+2150 EAST 1ST STREET;;GRIMES;IA;50111      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^128;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;172.80;0.00;0.00;;N;;;;9968
+;                                                                                
+^64;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;86.40;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^192;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;259.20;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161253
+^N;0.00;;
+1324.80
+748.00;3.00;748
+9;748.00
+@
+N;
+^082710;161254;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-729-3394;DE
+;;;604.80;0.00;0.00;0.00;0.00;0.00;
+0418;test
+W0418;WALMART     #0418  FAIRBURY;2831 HWY 15;;FAIRBURY;NE;68352      ;0078742004082
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+2831 HWY 15;;FAIRBURY;NE;68352      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^128;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;172.80;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^128;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;172.80;0.00;0.00;;N;;;;9965
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161254
+^N;0.00;;
+604.80
+448.00;1.00;448
+4;448.00
+@
+N;
+^082710;161255;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;308-234-8448;DE
+;;;1732.80;0.00;0.00;408.00;0.00;0.00;
+0598;test
+W0598;WALMART     #0598  KEARNEY;5411 SECOND AVENUE;;KEARNEY;NE;68847      ;0078742005829
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+5411 SECOND AVENUE;;KEARNEY;NE;68847      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690908;735946000714;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" PURPLE;1;EA;1;102.00;0.00;0.00;;Y;;;;9995
+;                                                                                
+^12;8.50;005690929;735946000707;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" RED;1;EA;1;102.00;0.00;0.00;;Y;;;;9994
+;                                                                                
+^12;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;102.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^12;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;102.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^128;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;172.80;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^128;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;172.80;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161255
+^N;0.00;;
+1732.80
+796.00;4.07;796
+13;796.00
+@
+N;
+^082710;161256;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-564-1668;DE
+;;;1617.60;0.00;0.00;408.00;0.00;0.00;
+0774;test
+W0774;WALMART     #0774  COLUMBUS;818 EAST 23RD ST.;;COLUMBUS;NE;68601      ;0078742007533
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+818 EAST 23RD ST.;;COLUMBUS;NE;68601      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690908;735946000714;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" PURPLE;1;EA;1;102.00;0.00;0.00;;Y;;;;9995
+;                                                                                
+^12;8.50;005690929;735946000707;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" RED;1;EA;1;102.00;0.00;0.00;;Y;;;;9994
+;                                                                                
+^12;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;102.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^12;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;102.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^192;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;259.20;0.00;0.00;;N;;;;9968
+;                                                                                
+^256;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;345.60;0.00;0.00;;N;;;;9967
+;                                                                                
+^128;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;172.80;0.00;0.00;;N;;;;9966
+;                                                                                
+^320;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;432.00;0.00;0.00;;N;;;;9965
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161256
+^N;0.00;;
+1617.60
+944.00;3.07;944
+8;944.00
+@
+N;
+^082710;161257;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-727-0414;DE
+;;;2955.60;0.00;0.00;942.00;0.00;0.00;
+0776;test
+W0776;WALMART     #0776  FREMONT;3010 EAST 23RD AVENUE N.;;FREMONT;NE;68025      ;0078742007557
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+3010 EAST 23RD AVENUE N.;;FREMONT;NE;68025      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690908;735946000714;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" PURPLE;1;EA;1;102.00;0.00;0.00;;Y;;;;9995
+;                                                                                
+^12;8.50;005690929;735946000707;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" RED;1;EA;1;102.00;0.00;0.00;;Y;;;;9994
+;                                                                                
+^12;12.00;005690936;735946000738;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" BRONZE;1;EA;1;144.00;0.00;0.00;;Y;;;;9998
+;                                                                                
+^24;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;204.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^12;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;102.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^24;12.00;005690966;735946000455;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" YELLOW;1;EA;1;288.00;0.00;0.00;;Y;;;;9997
+;                                                                                
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^192;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;259.20;0.00;0.00;;N;;;;9968
+;                                                                                
+^256;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;345.60;0.00;0.00;;N;;;;9967
+;                                                                                
+^128;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;172.80;0.00;0.00;;N;;;;9966
+;                                                                                
+^384;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;518.40;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^89;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;213.60;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161257
+^N;0.00;;
+2955.60
+1355.00;6.47;1355
+15;1355.00
+@
+N;
+^082710;161258;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;308-345-1800;DE
+;;;964.80;0.00;0.00;0.00;0.00;0.00;
+0790;test
+W0790;WALMART     #0790  MC COOK;1902 WEST "B";;MC COOK;NE;69001      ;0078742007694
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+1902 WEST "B";;MC COOK;NE;69001      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^60;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;144.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^128;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;172.80;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^128;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;172.80;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^30;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;72.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^30;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;72.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161258
+^N;0.00;;
+964.80
+598.00;2.00;598
+9;598.00
+@
+N;
+^082710;161259;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;308-632-2666;
+;;;1324.80;0.00;0.00;0.00;0.00;0.00;
+0867;test
+W0867;WALMART     #0867 SCOTTSBLUFF;3322 AVENUE I;;SCOTTSBLUFF;NE;69361      ;0078742008448
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+3322 AVENUE I;;SCOTTSBLUFF;NE;69361      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^128;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;172.80;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^128;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;172.80;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161259
+^N;0.00;;
+1324.80
+748.00;3.00;748
+9;748.00
+@
+N;
+^082710;161260;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-643-6631;DE
+;;;964.80;0.00;0.00;0.00;0.00;0.00;
+0885;test
+W0885;WALMART     #0885  SEWARD;HIGHWAY 15,ROUTE 2;;SEWARD;NE;68434      ;0078742008622
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+HIGHWAY 15,ROUTE 2;;SEWARD;NE;68434      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^60;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;144.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^128;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;172.80;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^128;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;172.80;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^30;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;72.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^30;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;72.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161260
+^N;0.00;;
+964.80
+598.00;2.00;598
+9;598.00
+@
+N;
+^082710;161261;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;308-381-0333;DE
+;;;2011.10;0.00;0.00;441.50;0.00;0.00;
+1326;test
+W1326;WALMART     #1326  GRAND ISLAND;2250 N DIERS AVE;;GRAND ISLAND;NE;68803      ;0078742012957
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+2250 N DIERS AVE;;GRAND ISLAND;NE;68803      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690908;735946000714;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" PURPLE;1;EA;1;102.00;0.00;0.00;;Y;;;;9995
+;                                                                                
+^12;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;102.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^11;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;93.50;0.00;0.00;;Y;;;;9993
+;                                                                                
+^12;12.00;005690966;735946000455;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" YELLOW;1;EA;1;144.00;0.00;0.00;;Y;;;;9997
+;                                                                                
+^60;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;144.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^192;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;259.20;0.00;0.00;;N;;;;9968
+;                                                                                
+^256;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;345.60;0.00;0.00;;N;;;;9967
+;                                                                                
+^128;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;172.80;0.00;0.00;;N;;;;9966
+;                                                                                
+^320;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;432.00;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^30;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;72.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^30;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;72.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161261
+^N;0.00;;
+2011.10
+1093.00;4.11;1093
+13;1093.00
+@
+N;
+^082710;161262;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-462-6000;DE
+;;;1774.80;0.00;0.00;450.00;0.00;0.00;
+1460;test
+W1460;WALMART     #1460  HASTINGS;3803 OSBORNE DRIVE WEST;;HASTINGS;NE;68901      ;0078742014272
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+3803 OSBORNE DRIVE WEST;;HASTINGS;NE;68901      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690908;735946000714;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" PURPLE;1;EA;1;102.00;0.00;0.00;;Y;;;;9995
+;                                                                                
+^12;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;102.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^12;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;102.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^12;12.00;005690966;735946000455;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" YELLOW;1;EA;1;144.00;0.00;0.00;;Y;;;;9997
+;                                                                                
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^64;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;86.40;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^192;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;259.20;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161262
+^N;0.00;;
+1774.80
+796.00;4.13;796
+13;796.00
+@
+N;
+^082710;161263;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;308-532-5529;DE
+;;;964.80;0.00;0.00;0.00;0.00;0.00;
+1585;test
+W1585;WALMART     #1585  NORTH PLATTE;1401 SOUTH DEWEY;;NORTH PLATTE;NE;69101      ;0078742015521
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+1401 SOUTH DEWEY;;NORTH PLATTE;NE;69101      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^60;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;144.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^64;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;86.40;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^192;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;259.20;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^30;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;72.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^30;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;72.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161263
+^N;0.00;;
+964.80
+598.00;2.00;598
+9;598.00
+@
+N;
+^082710;161264;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-492-9344;DE
+;;;1732.80;0.00;0.00;408.00;0.00;0.00;
+1637;test
+W1637;WALMART     #1637  OMAHA 99th St;6304 NORTH 99TH STREET;;OMAHA;NE;68122      ;0078742016047
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+6304 NORTH 99TH STREET;;OMAHA;NE;68122      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690908;735946000714;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" PURPLE;1;EA;1;102.00;0.00;0.00;;Y;;;;9995
+;                                                                                
+^24;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;204.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^12;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;102.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^64;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;86.40;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^192;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;259.20;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161264
+^N;0.00;;
+1732.80
+796.00;4.07;796
+12;796.00
+@
+N;
+^082710;161265;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-597-8977;DE
+;;;2266.80;0.00;0.00;942.00;0.00;0.00;
+1671;test
+W1671;WALMART     #1671  PAPILLION;8525 S. 71ST. PLAZA;;PAPILLION;NE;68133      ;0078742016382
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+8525 S. 71ST. PLAZA;;PAPILLION;NE;68133      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690908;735946000714;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" PURPLE;1;EA;1;102.00;0.00;0.00;;Y;;;;9995
+;                                                                                
+^12;8.50;005690929;735946000707;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" RED;1;EA;1;102.00;0.00;0.00;;Y;;;;9994
+;                                                                                
+^12;12.00;005690936;735946000738;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" BRONZE;1;EA;1;144.00;0.00;0.00;;Y;;;;9998
+;                                                                                
+^24;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;204.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^12;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;102.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^24;12.00;005690966;735946000455;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" YELLOW;1;EA;1;288.00;0.00;0.00;;Y;;;;9997
+;                                                                                
+^210;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;504.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^64;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;86.40;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^192;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;259.20;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161265
+^N;0.00;;
+2266.80
+844.00;5.33;844
+14;844.00
+@
+N;
+^082710;161266;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-228-1244;DE
+;;;1324.80;0.00;0.00;0.00;0.00;0.00;
+2784;test
+W2784;WALMART     #2784  BEATRICE;3620 NORTH 6TH STREET;WAL-MART SUPER CENTER;BEATRICE;NE;68310      ;0078742026336
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+3620 NORTH 6TH STREET;WAL-MART SUPER CENTER;BEATRICE;NE;68310      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^64;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;86.40;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^192;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;259.20;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161266
+^N;0.00;;
+1324.80
+748.00;3.00;748
+9;748.00
+@
+N;
+^082710;161267;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-292-0156;DE
+;;;2958.00;0.00;0.00;942.00;0.00;0.00;
+2847;test
+W2847;WALMART     #2847  BELLEVUE;10504 SOUTH 15TH STREET;;BELLEVUE;NE;68123      ;0078742026831
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+10504 SOUTH 15TH STREET;;BELLEVUE;NE;68123      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690908;735946000714;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" PURPLE;1;EA;1;102.00;0.00;0.00;;Y;;;;9995
+;                                                                                
+^12;8.50;005690929;735946000707;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" RED;1;EA;1;102.00;0.00;0.00;;Y;;;;9994
+;                                                                                
+^12;12.00;005690936;735946000738;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" BRONZE;1;EA;1;144.00;0.00;0.00;;Y;;;;9998
+;                                                                                
+^24;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;204.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^12;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;102.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^24;12.00;005690966;735946000455;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" YELLOW;1;EA;1;288.00;0.00;0.00;;Y;;;;9997
+;                                                                                
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^192;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;259.20;0.00;0.00;;N;;;;9968
+;                                                                                
+^256;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;345.60;0.00;0.00;;N;;;;9967
+;                                                                                
+^128;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;172.80;0.00;0.00;;N;;;;9966
+;                                                                                
+^384;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;518.40;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161267
+^N;0.00;;
+2958.00
+1356.00;6.48;1356
+15;1356.00
+@
+N;
+^082710;161268;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-330-4400;DE
+;;;3321.60;0.00;0.00;1392.00;0.00;0.00;
+3267;test
+W3267;WALMART     #3267  OMAHA Wright St;18201 WRIGHT STREET;;OMAHA;NE;68130      ;0078742032948
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+18201 WRIGHT STREET;;OMAHA;NE;68130      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^24;8.50;005690908;735946000714;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" PURPLE;1;EA;1;204.00;0.00;0.00;;Y;;;;9995
+;                                                                                
+^12;8.50;005690929;735946000707;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" RED;1;EA;1;102.00;0.00;0.00;;Y;;;;9994
+;                                                                                
+^12;12.00;005690936;735946000738;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" BRONZE;1;EA;1;144.00;0.00;0.00;;Y;;;;9998
+;                                                                                
+^36;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;306.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^24;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;204.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^12;12.00;005690959;735946000752;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" PUPRLE;1;EA;1;144.00;0.00;0.00;;Y;;;;10000
+;                                                                                
+^24;12.00;005690966;735946000455;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" YELLOW;1;EA;1;288.00;0.00;0.00;;Y;;;;9997
+;                                                                                
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^192;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;259.20;0.00;0.00;;N;;;;9968
+;                                                                                
+^256;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;345.60;0.00;0.00;;N;;;;9967
+;                                                                                
+^128;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;172.80;0.00;0.00;;N;;;;9966
+;                                                                                
+^320;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;432.00;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161268
+^N;0.00;;
+3321.60
+1340.00;7.47;1340
+16;1340.00
+@
+N;
+^082710;161269;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-484-6166;DE
+;;;1732.80;0.00;0.00;408.00;0.00;0.00;
+3278;test
+W3278;WALMART     #3278  LINCOLN Andermat;8700 ANDERMATT DRIVE;;LINCOLN;NE;68516      ;0078742041247
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+8700 ANDERMATT DRIVE;;LINCOLN;NE;68516      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690908;735946000714;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" PURPLE;1;EA;1;102.00;0.00;0.00;;Y;;;;9995
+;                                                                                
+^24;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;204.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^12;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;102.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^64;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;86.40;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^192;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;259.20;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161269
+^N;0.00;;
+1732.80
+796.00;4.07;796
+12;796.00
+@
+N;
+^082710;161270;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-874-9080;DE
+;;;1324.80;0.00;0.00;0.00;0.00;0.00;
+4209;test
+W4209;WALMART     #4209 NEBRASKA CITY;2410 SOUTH 11TH STREET;;NEBRASKA CITY;NE;68410      ;0078742056661
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+2410 SOUTH 11TH STREET;;NEBRASKA CITY;NE;68410      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^64;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;86.40;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^192;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;259.20;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161270
+^N;0.00;;
+1324.80
+748.00;3.00;748
+9;748.00
+@
+N;
+^082710;161271;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-393-9560;
+;;;1732.80;0.00;0.00;408.00;0.00;0.00;
+4358;test
+W4358;WALMART     #4358  OMAHA 72ND ST;1606 S 72ND ST;;OMAHA;NE;68124      ;0078742060095
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+1606 S 72ND ST;;OMAHA;NE;68124      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690929;735946000707;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" RED;1;EA;1;102.00;0.00;0.00;;Y;;;;9994
+;                                                                                
+^24;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;204.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^12;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;102.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^64;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;86.40;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^192;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;259.20;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161271
+^N;0.00;;
+1732.80
+796.00;4.07;796
+12;796.00
+@
+N;
+^082710;161272;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-289-9238;DE
+;;;1732.80;0.00;0.00;408.00;0.00;0.00;
+5141;test
+W5141;WALMART     #5141   W. MAPLE RD;16960 WEST MAPLE ROAD;;OMAHA;NE;68116      ;0078742051857
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+16960 WEST MAPLE ROAD;;OMAHA;NE;68116      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690929;735946000707;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" RED;1;EA;1;102.00;0.00;0.00;;Y;;;;9994
+;                                                                                
+^24;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;204.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^12;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;102.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^128;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;172.80;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^128;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;172.80;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161272
+^N;0.00;;
+1732.80
+796.00;4.07;796
+12;796.00
+@
+N;
+^082710;161273;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;308-254-9138;
+;;;2016.00;0.00;0.00;0.00;0.00;0.00;
+5170;test
+W5170;WALMART     #5170 SIDNEY NE;3001 SILVERBERG DRIVE;;SIDNEY;NE;69162      ;0078742044040
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+3001 SILVERBERG DRIVE;;SIDNEY;NE;69162      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^128;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;172.80;0.00;0.00;;N;;;;9968
+;                                                                                
+^256;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;345.60;0.00;0.00;;N;;;;9967
+;                                                                                
+^128;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;172.80;0.00;0.00;;N;;;;9966
+;                                                                                
+^448;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;604.80;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161273
+^N;0.00;;
+2016.00
+1260.00;4.14;1260
+9;1260.00
+@
+N;
+^082710;161274;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-697-1054;DE
+;;;2266.80;0.00;0.00;942.00;0.00;0.00;
+5361;test
+W5361;WALMART     #5361    "L" ST;12850 L STREET;;OMAHA;NE;68137      ;0078742047225
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+12850 L STREET;;OMAHA;NE;68137      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;8.50;005690908;735946000714;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" PURPLE;1;EA;1;102.00;0.00;0.00;;Y;;;;9995
+;                                                                                
+^12;8.50;005690929;735946000707;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" RED;1;EA;1;102.00;0.00;0.00;;Y;;;;9994
+;                                                                                
+^12;12.00;005690936;735946000738;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" BRONZE;1;EA;1;144.00;0.00;0.00;;Y;;;;9998
+;                                                                                
+^24;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;204.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^12;8.50;005690951;735946000691;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" BRONZE;1;EA;1;102.00;0.00;0.00;;Y;;;;9993
+;                                                                                
+^24;12.00;005690966;735946000455;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" YELLOW;1;EA;1;288.00;0.00;0.00;;Y;;;;9997
+;                                                                                
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^128;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;172.80;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^128;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;172.80;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161274
+^N;0.00;;
+2266.80
+844.00;5.33;844
+15;844.00
+@
+N;
+^082710;161275;082610;0052464488
+DALLAS JOHNSON GREENHOUSES;022083117
+0;Invoice;082610;Posted;VENDOR TRUCK;MARYLYNN;402-362-3366;DE
+;;;1816.80;0.00;0.00;492.00;0.00;0.00;
+0350;test
+W0350;WALMART     #0350  YORK;101 EAST DAVID DRIVE;;YORK;NE;68467      ;0078742003429
+WMB;WAL-MART STORES, INC.;CORPORATE OFFICES;1108 S E 10TH STREET;BENTONVILLE;AR;72716      
+;;;test;;;;;;
+2802 TWIN CITY DRIVE;COUNCIL BLUFFS;IA;51501      
+101 EAST DAVID DRIVE;;YORK;NE;68467      
+919183560
+0.0;082710;101110;0;45;NET 45
+100827
+^12;12.00;005690936;735946000738;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" BRONZE;1;EA;1;144.00;0.00;0.00;;Y;;;;9998
+;                                                                                
+^24;8.50;005690943;735946000684;FALL MUM 12"
+;FALL MU 12;FALL MUM 12" YELLOW;1;EA;1;204.00;0.00;0.00;;Y;;;;9992
+;                                                                                
+^12;12.00;005690966;735946000455;FALL HARVEST MUM 12"
+;FALL HARV;FALL HARVEST MUM 12" YELLOW;1;EA;1;144.00;0.00;0.00;;Y;;;;9997
+;                                                                                
+^120;2.40;005690988;735946000400;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" YELLOW;1;EA;1;288.00;0.00;0.00;;N;;;;9970
+;                                                                                
+^128;1.35;005691004;735946000387;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" PURPLE;1;EA;1;172.80;0.00;0.00;;N;;;;9968
+;                                                                                
+^128;1.35;005691011;735946000370;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" BRONZE;1;EA;1;172.80;0.00;0.00;;N;;;;9967
+;                                                                                
+^64;1.35;005691018;735946000363;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" RED;1;EA;1;86.40;0.00;0.00;;N;;;;9966
+;                                                                                
+^128;1.35;005691026;735946000356;FALL MUM 6"
+;FALL MUM 6;FALL MUM 6" YELLOW;1;EA;1;172.80;0.00;0.00;;N;;;;9965
+;                                                                                
+^6;2.40;005691050;735946000448;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" WHITE;1;EA;1;14.40;0.00;0.00;;N;;;;9974
+;                                                                                
+^24;2.40;005691059;735946000431;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" PURPLE;1;EA;1;57.60;0.00;0.00;;N;;;;9973
+;                                                                                
+^90;2.40;005691066;735946000424;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" BRONZE;1;EA;1;216.00;0.00;0.00;;N;;;;9972
+;                                                                                
+^60;2.40;005691073;735946000417;FALL MUM 8"
+;FALL MUM 8;FALL MUM 8" RED;1;EA;1;144.00;0.00;0.00;;N;;;;9971
+;                                                                                
+DALLAS JOHNSON GREENHOUSES;161275
+^N;0.00;;
+1816.80
+796.00;4.20;796
+12;796.00
+@
+|

@@ -1,0 +1,27 @@
+N;
+^031411;140909;030411;23689942
+T&L Nursery, Inc.;195965934
+0;Invoice;030411;Posted;delivery;Russ;509-489-3750;RZ
+;;;565.88;0.00;0.00;565.88;0.00;0.00;
+m332;0
+fm332;Fred Meyer - Spokane Francis  332;525 E. Francis Ave;;Spokane;WA;99207-1089 ;0
+fm1;Fred Meyer Headquarters;PO Box 305248;;Nashville;TN;37230      
+;;;;;;;;;R
+13245 Woodinville Redmond Rd.;Redmond;WA;98052      
+525 E. Francis Ave;;Spokane;WA;99207-1089 
+45490000
+0.0;041311;041311;30;30;NET 30
+110314
+^231;1.48;1;797106111500;4"Heather
+;4inHeath;4"Heather;1;4;1;341.88;0.00;0.00;;Y;;;;25800
+;                                                                                
+^64;3.50;5.99;797106121004;1Gal Heather
+;1GalHeath;1Gal Heather;1;1gal;1;224.00;0.00;0.00;;Y;5.99;;;5685
+;                                                                                
+T&L Nursery, Inc.;140909
+^N;0.00;;
+565.88
+295.00;0.64;295
+2;295.00
+@
+|

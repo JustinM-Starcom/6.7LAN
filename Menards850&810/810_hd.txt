@@ -1,0 +1,23 @@
+^010408;146553;010408;
+Timberline Nursery;021791103
+0;Invoice;010408;Order;truck;;;COO
+;;;147.60;0.00;0.00;147.60;0.00;0.00;
+0348;0
+HD0348;Home Depot #0348;4700 Gentilly Rd;;New Orleans;LA;70126      ;348
+HDEPOT;Home Depot;Vendor# 54151;Attn: Dept. 28 - Payables;Atlanta;GA;30339      
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+4700 Gentilly Rd;;New Orleans;LA;70126      
+000054151
+1.0;020308;020408;30;31;1/30N31
+080104
+^120;1.23;354856;830340001272;606 Jumbo Ann - 6/Fl - 80/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 80/Rk;1;EA;6;147.60;0.00;0.00;;Y;;;abcdef    
+;                                                                                
+Timberline Nursery;146553
+^A;0.74;;I170
+146.86
+120.00;0.25;20
+1;120.00
+@
+|

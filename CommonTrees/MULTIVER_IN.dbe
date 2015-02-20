@@ -1,0 +1,15 @@
+
+L185 - RESTRICTION used in an earlier partition - RESTRICTION 50 of TYPE:
+   'Repetition ISA11 Delimiter Control ANSI EDI' (error)
+
+L199 - COMPONENT 2 may not be distinguishable from COMPONENT 4 that may
+ follow in TYPE 'Inbound Transmission EDI' (warning)
+
+L199 - COMPONENT 2 may not be distinguishable from COMPONENT 4 that may
+ follow in TYPE 'X12 Inbound Transmission EDI' (warning)
+
+L199 - COMPONENT 2 may not be distinguishable from COMPONENT 4 that may
+ follow in TYPE 'Partner X12 Inbound Transmission EDI' (warning)
+
+
+   End of Analysis Messages.

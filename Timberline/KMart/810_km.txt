@@ -1,0 +1,207 @@
+N;
+^041611;249870;041411;237952496
+Timberline Nursery;021791103
+0;Invoice;041411;Order;truck;;361-643-8571;COO
+2;;;2896.80;0.00;0.00;2614.30;0.00;0.00;
+7296;0
+KM7296;Big Kmart #7296;1400 Wildcat Drive;;Portland;TX;78374      ;7296
+KMART;Sears Holding Corporation;Accounting Services Cntr 9767;PO Box 660200;Dallas;TX;75266-0200 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+1400 Wildcat Drive;;Portland;TX;78374      
+979294
+0.0;041611;053111;0;45;N45
+110416
+^360;1.38;002139356;830340003535;606 Jumbo Ann - 6/Fl - 96/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 96/Rk;1;EA;6;496.80;0.00;0.00;;Y;;;;1130
+;                                                                                
+^560;1.00;002139361;830340002248;4.50in Rnd Ann - 10/Fl - 60/Rk
+;21ANN425R;4.50in Rnd Ann - 10/Fl - 60/Rk;1;EA;10;560.00;0.00;0.00;;Y;;;;21763
+;                                                                                
+^64;2.80;002139363;830340002590;6in Premium - 8/Fl - 40/Rk
+;40PRM06;6in Premium - 8/Fl - 40/Rk;1;EA;8;179.20;0.00;0.00;;Y;;;;44005
+;                                                                                
+^90;3.38;002139366;830340003283;Gal. Premium - 6/Fl - 24/Rk
+;50PRMGAL;Gal. Premium - 6/Fl - 24/Rk;1;EA;6;304.20;0.00;0.00;;Y;;;;52346
+;                                                                                
+^10;3.25;002139368;830340003870;8in Annual - 100/Rk
+;60ANN08POT;8in Annual - 100/Rk;1;EA;1;32.50;0.00;0.00;;N;;;;60350
+;                                                                                
+^30;3.25;002139368;830340003870;8in Annual - 100/Rk
+;60ANN08POT;8in Annual - 100/Rk;1;EA;1;97.50;0.00;0.00;;Y;;;;60260
+;                                                                                
+^80;5.18;002139369;830340003054;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;414.40;0.00;0.00;;Y;;;;70567
+;                                                                                
+^40;6.25;002146477;830340002231;8in  Wicker Veggie-100/rk
+;66VEG08WIC;8in  Wicker Veggie-100/rk;1;EA;1;250.00;0.00;0.00;;N;;;;66205
+;                                                                                
+^144;2.30;003344007;830340003290;QT Perennial-12 /FL -36/Rk
+;36PRMQTPER;QT Perennial-12 /FL -36/Rk;1;EA;12;331.20;0.00;0.00;;Y;;;;36578
+;                                                                                
+^60;3.85;003344008;830340002712;Gal. Perennial- 6/Fl - 24/Rk
+;50PERGAL;Gal. Perennial- 6/Fl - 24/Rk;1;EA;6;231.00;0.00;0.00;;Y;;;;51720
+;                                                                                
+Timberline Nursery;249870
+^N;0.00;;
+2896.80
+1438.00;4.71;321
+10;1438.00
+@
+N;
+^041611;249871;041411;237952495
+Timberline Nursery;021791103
+0;Invoice;041411;Order;truck;;956-729-1199;COO
+2;;;2896.80;0.00;0.00;2614.30;0.00;0.00;
+4809;0
+KM4809;Big Kmart #4809;5000 San Dario;;Laredo;TX;78041      ;4809
+KMART;Sears Holding Corporation;Accounting Services Cntr 9767;PO Box 660200;Dallas;TX;75266-0200 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+5000 San Dario;;Laredo;TX;78041      
+979294
+0.0;041611;053111;0;45;N45
+110416
+^360;1.38;002139356;830340003535;606 Jumbo Ann - 6/Fl - 96/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 96/Rk;1;EA;6;496.80;0.00;0.00;;Y;;;;1130
+;                                                                                
+^560;1.00;002139361;830340002248;4.50in Rnd Ann - 10/Fl - 60/Rk
+;21ANN425R;4.50in Rnd Ann - 10/Fl - 60/Rk;1;EA;10;560.00;0.00;0.00;;Y;;;;21763
+;                                                                                
+^64;2.80;002139363;830340002590;6in Premium - 8/Fl - 40/Rk
+;40PRM06;6in Premium - 8/Fl - 40/Rk;1;EA;8;179.20;0.00;0.00;;Y;;;;44005
+;                                                                                
+^90;3.38;002139366;830340003283;Gal. Premium - 6/Fl - 24/Rk
+;50PRMGAL;Gal. Premium - 6/Fl - 24/Rk;1;EA;6;304.20;0.00;0.00;;Y;;;;52346
+;                                                                                
+^10;3.25;002139368;830340003870;8in Annual - 100/Rk
+;60ANN08POT;8in Annual - 100/Rk;1;EA;1;32.50;0.00;0.00;;N;;;;60350
+;                                                                                
+^30;3.25;002139368;830340003870;8in Annual - 100/Rk
+;60ANN08POT;8in Annual - 100/Rk;1;EA;1;97.50;0.00;0.00;;Y;;;;60260
+;                                                                                
+^80;5.18;002139369;830340003054;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;414.40;0.00;0.00;;Y;;;;70567
+;                                                                                
+^40;6.25;002146477;830340002231;8in  Wicker Veggie-100/rk
+;66VEG08WIC;8in  Wicker Veggie-100/rk;1;EA;1;250.00;0.00;0.00;;N;;;;66205
+;                                                                                
+^144;2.30;003344007;830340003290;QT Perennial-12 /FL -36/Rk
+;36PRMQTPER;QT Perennial-12 /FL -36/Rk;1;EA;12;331.20;0.00;0.00;;Y;;;;36578
+;                                                                                
+^60;3.85;003344008;830340002712;Gal. Perennial- 6/Fl - 24/Rk
+;50PERGAL;Gal. Perennial- 6/Fl - 24/Rk;1;EA;6;231.00;0.00;0.00;;Y;;;;51720
+;                                                                                
+Timberline Nursery;249871
+^N;0.00;;
+2896.80
+1438.00;4.71;321
+10;1438.00
+@
+N;
+^041611;249872;041411;237952494
+Timberline Nursery;021791103
+0;Invoice;041411;Order;truck;;956-682-6166;COO
+2;;;2870.56;0.00;0.00;2588.06;0.00;0.00;
+4389;0
+KM4389;Big Kmart #4389;1801 South 10th Street;;McAllen;TX;78503      ;4389
+KMART;Sears Holding Corporation;Accounting Services Cntr 9767;PO Box 660200;Dallas;TX;75266-0200 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+1801 South 10th Street;;McAllen;TX;78503      
+979294
+0.0;041611;053111;0;45;N45
+110416
+^312;1.38;002139356;830340003535;606 Jumbo Ann - 6/Fl - 96/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 96/Rk;1;EA;6;430.56;0.00;0.00;;Y;;;;1130
+;                                                                                
+^600;1.00;002139361;830340002248;4.50in Rnd Ann - 10/Fl - 60/Rk
+;21ANN425R;4.50in Rnd Ann - 10/Fl - 60/Rk;1;EA;10;600.00;0.00;0.00;;Y;;;;21763
+;                                                                                
+^64;2.80;002139363;830340002590;6in Premium - 8/Fl - 40/Rk
+;40PRM06;6in Premium - 8/Fl - 40/Rk;1;EA;8;179.20;0.00;0.00;;Y;;;;44005
+;                                                                                
+^90;3.38;002139366;830340003283;Gal. Premium - 6/Fl - 24/Rk
+;50PRMGAL;Gal. Premium - 6/Fl - 24/Rk;1;EA;6;304.20;0.00;0.00;;Y;;;;52346
+;                                                                                
+^10;3.25;002139368;830340003870;8in Annual - 100/Rk
+;60ANN08POT;8in Annual - 100/Rk;1;EA;1;32.50;0.00;0.00;;N;;;;60350
+;                                                                                
+^30;3.25;002139368;830340003870;8in Annual - 100/Rk
+;60ANN08POT;8in Annual - 100/Rk;1;EA;1;97.50;0.00;0.00;;Y;;;;60260
+;                                                                                
+^80;5.18;002139369;830340003054;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;414.40;0.00;0.00;;Y;;;;70567
+;                                                                                
+^40;6.25;002146477;830340002231;8in  Wicker Veggie-100/rk
+;66VEG08WIC;8in  Wicker Veggie-100/rk;1;EA;1;250.00;0.00;0.00;;N;;;;66205
+;                                                                                
+^144;2.30;003344007;830340003290;QT Perennial-12 /FL -36/Rk
+;36PRMQTPER;QT Perennial-12 /FL -36/Rk;1;EA;12;331.20;0.00;0.00;;Y;;;;36578
+;                                                                                
+^60;3.85;003344008;830340002712;Gal. Perennial- 6/Fl - 24/Rk
+;50PERGAL;Gal. Perennial- 6/Fl - 24/Rk;1;EA;6;231.00;0.00;0.00;;Y;;;;51720
+;                                                                                
+Timberline Nursery;249872
+^N;0.00;;
+2870.56
+1430.00;4.69;317
+10;1430.00
+@
+N;
+^041611;249873;041411;237952493
+Timberline Nursery;021791103
+0;Invoice;041411;Order;truck;;254-526-9541;COO
+2;;;3341.04;0.00;0.00;3058.54;0.00;0.00;
+3475;0
+KM3475;Big Kmart #3475;1101 Fort Hood St;;Killeen;TX;76541      ;3475
+KMART;Sears Holding Corporation;Accounting Services Cntr 9767;PO Box 660200;Dallas;TX;75266-0200 
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+1101 Fort Hood St;;Killeen;TX;76541      
+979294
+0.0;041611;053111;0;45;N45
+110416
+^360;1.38;002139356;830340003535;606 Jumbo Ann - 6/Fl - 96/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 96/Rk;1;EA;6;496.80;0.00;0.00;;Y;;;;1130
+;                                                                                
+^36;7.00;002139357;830340003634;24 Pack Annual - 96/Rk
+;14ANN24PK;24 Pack Annual - 96/Rk;1;EA;1;252.00;0.00;0.00;;Y;;;;10060
+;                                                                                
+^560;1.00;002139361;830340002323;4.50in Rnd Ann - 10/Fl - 60/Rk
+;21ANN425R;4.50in Rnd Ann - 10/Fl - 60/Rk;1;EA;10;560.00;0.00;0.00;;Y;;;;21763
+;                                                                                
+^64;2.80;002139363;830340002590;6in Premium - 8/Fl - 40/Rk
+;40PRM06;6in Premium - 8/Fl - 40/Rk;1;EA;8;179.20;0.00;0.00;;Y;;;;44005
+;                                                                                
+^90;3.38;002139366;830340003283;Gal. Premium - 6/Fl - 24/Rk
+;50PRMGAL;Gal. Premium - 6/Fl - 24/Rk;1;EA;6;304.20;0.00;0.00;;Y;;;;52346
+;                                                                                
+^10;3.25;002139368;830340003870;8in Annual - 100/Rk
+;60ANN08POT;8in Annual - 100/Rk;1;EA;1;32.50;0.00;0.00;;N;;;;60350
+;                                                                                
+^30;3.25;002139368;830340003870;8in Annual - 100/Rk
+;60ANN08POT;8in Annual - 100/Rk;1;EA;1;97.50;0.00;0.00;;Y;;;;60260
+;                                                                                
+^80;5.18;002139369;830340003054;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;414.40;0.00;0.00;;Y;;;;70567
+;                                                                                
+^24;8.01;002139372;830340003375;10in Deco Annual - 64/Rk
+;80ANN10DEC;10in Deco Annual - 64/Rk;1;EA;1;192.24;0.00;0.00;;Y;;;;80600
+;                                                                                
+^40;6.25;002146477;830340002231;8in  Wicker Veggie-100/rk
+;66VEG08WIC;8in  Wicker Veggie-100/rk;1;EA;1;250.00;0.00;0.00;;N;;;;66205
+;                                                                                
+^144;2.30;003344007;830340003290;QT Perennial-12 /FL -36/Rk
+;36PRMQTPER;QT Perennial-12 /FL -36/Rk;1;EA;12;331.20;0.00;0.00;;Y;;;;36578
+;                                                                                
+^60;3.85;003344008;830340002712;Gal. Perennial- 6/Fl - 24/Rk
+;50PERGAL;Gal. Perennial- 6/Fl - 24/Rk;1;EA;6;231.00;0.00;0.00;;Y;;;;51720
+;                                                                                
+Timberline Nursery;249873
+^N;0.00;;
+3341.04
+1498.00;5.46;381
+12;1498.00
+@
+|

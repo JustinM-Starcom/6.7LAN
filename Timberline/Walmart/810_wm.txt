@@ -1,0 +1,35 @@
+^022107;107170;021907;8651742605
+Timberline Nursery;021791103
+0;Invoice;021907;Posted;truck;;713-977-2099;SIM
+;;;491.20;0.00;0.00;491.20;0.00;0.00;
+2066;0
+WM2066;Wal-Mart #2066;2727 Dunvale Road;;Houston;TX;77063      ;2066
+WM;Wal-Mart Corporate;702 SW 8th Street;;Bentonville;AR;72716      
+;;;;;;;;;
+6761 CR 4300 P.O. Box 96;Hillister;TX;77624      
+2727 Dunvale Road;;Houston;TX;77063      
+0740012-560
+0.0;022107;032307;0;30;N30
+070221
+^64;2.05;5648225;830340001777;QT Wal-Mart Prm- 8/Fl- 48/Rk
+;37PRMQTWM;QT Wal-Mart Prm- 8/Fl- 48/Rk;1;EA;8;131.20;0.00;0.00;;Y;;
+;                                                                                
+^19;4.12;5657095;830340001128;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;78.28;0.00;0.00;;Y;;
+;                                                                                
+^8;6.44;5664493;830340001111;10in Deco Annual - 64/Rk
+;80ANN10DEC;10in Deco Annual - 64/Rk;1;EA;1;51.52;0.00;0.00;;Y;;
+;                                                                                
+^10;4.12;5664717;830340001500;10in Bskt Annual - 80/Rk
+;70ANN10HB;10in Bskt Annual - 80/Rk;1;EA;1;41.20;0.00;0.00;;Y;;
+;                                                                                
+^180;1.05;5670392;830340001272;606 Jumbo Ann - 6/Fl - 80/Rk
+;01ANN606;606 Jumbo Ann - 6/Fl - 80/Rk;1;EA;6;189.00;0.00;0.00;;Y;;
+;                                                                                
+Timberline Nursery;107170
+^N;0.00;;
+491.20
+281.00;1.03;75
+5;281.00
+@
+|

@@ -1,0 +1,71 @@
+^040910;341636;040710;393556
+Eighteen Acres Ltd.;
+0;Invoice;040710;Posted;EIGHTEEN ACRES;AL-PRYSTUPA;(403)730-3500;LAH
+box;;;24238.40;0.00;0.00;24238.40;0.00;5.00;
+NSAF;0
+CANSAF;CANADA SAFEWAY;14040 YELLOWHEAD TRAIL;;EDMONTON;AB;T5L 3C2    ;2901
+CANSAF;CANADA SAFEWAY;PO BOX 864, STATION M;1020 - 64th AVENUE  N.E.;CALGARY;AB;T2P 2J6    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+14040 YELLOWHEAD TRAIL;;EDMONTON;AB;T5L 3C2    
+6046264344
+0.0;040910;040910;0;0;NET 7
+100409
+^156;6.50;50001397;7 74755 94913 5;CUTS/BU
+;.8100_CFBU;CUTS/BU;6;BUNCH;1;1014.00;0.00;0.00;;Y;;;;824852
+;                                                                                
+^2296;1.40;50000567;7-74755-94946-3;CUTS/BU
+;.8100_CFBU;GERMINI 5's BU;14;BUCKET;1;3214.40;0.00;0.00;;Y;;;;824844
+;                                                                                
+^662;0.00;11111;;PACKING CASES
+;9990-PACK;PACKING CASES;1;EACH;1;0.00;0.00;0.00;;Y;;;;999019
+;                                                                                
+^1230;3.50;50001070;7-74755-94019-4;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED CRAZY DAISY BU-;10;BUCKET;1;4305.00;0.00;0.00;;Y;;;;828542
+;                                                                                
+^2094;7.50;50001061;7-74755-10111-3;BOUQUETS
+;.8300;TULIPS IN A BAG BQT;6;BUCKET;1;15705.00;0.00;0.00;;Y;;;;838420
+;                                                                                
+Eighteen Acres Ltd.;341636
+^N;0.00;;
+^C;121192.00;;      
+25450.32
+6438.00;40.83;1324
+5;6438.00
+@
+^040910;341636;040710;393556
+Eighteen Acres Ltd.;
+0;Invoice;040710;Posted;EIGHTEEN ACRES;AL-PRYSTUPA;(403)730-3500;LAH
+box;;;24238.40;0.00;0.00;24238.40;0.00;5.00;
+NSAF;0
+CANSAF;CANADA SAFEWAY;14040 YELLOWHEAD TRAIL;;EDMONTON;AB;T5L 3C2    ;2901
+CANSAF;CANADA SAFEWAY;PO BOX 864, STATION M;1020 - 64th AVENUE  N.E.;CALGARY;AB;T2P 2J6    
+;;;;;;;;;
+P.O Box 18 5855 Mt. Lehman Road;Abbotsford;BC;V4X 2P7    
+14040 YELLOWHEAD TRAIL;;EDMONTON;AB;T5L 3C2    
+6046264344
+0.0;040910;040910;0;0;NET 7
+100409
+^156;6.50;50001397;7 74755 94913 5;CUTS/BU
+;.8100_CFBU;CUTS/BU;6;BUNCH;1;1014.00;0.00;0.00;;Y;;;;824852
+;                                                                                
+^2296;1.40;50000567;7-74755-94946-3;CUTS/BU
+;.8100_CFBU;GERMINI 5's BU;14;BUCKET;1;3214.40;0.00;0.00;;Y;;;;824844
+;                                                                                
+^662;0.00;11111;;PACKING CASES
+;9990-PACK;PACKING CASES;1;EACH;1;0.00;0.00;0.00;;Y;;;;999019
+;                                                                                
+^1230;3.50;50001070;7-74755-94019-4;CUTS/BU
+;.8100_CFBU;SPRAY MUM DYED CRAZY DAISY BU-;10;BUCKET;1;4305.00;0.00;0.00;;Y;;;;828542
+;                                                                                
+^2094;7.50;50001061;7-74755-10111-3;BOUQUETS
+;.8300;TULIPS IN A BAG BQT;6;BUCKET;1;15705.00;0.00;0.00;;Y;;;;838420
+;                                                                                
+Eighteen Acres Ltd.;341636
+^N;0.00;;
+^C;121192.00;;      
+25450.32
+6438.00;40.83;1324
+5;6438.00
+@
+|

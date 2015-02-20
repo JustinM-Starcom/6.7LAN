@@ -1,0 +1,23 @@
+^011304;44798;011304;4444444444
+Rose Hill Greenhouses, Inc.;050040484
+0;Invoice;011304;Order;OUR TRUCK;;910-277-7770;
+;;;38.00;0.00;0.00;0.00;0.00;0.00;
+1255;0
+WM 1255;Wal-Mart #1255;901 US Hwy. 401 Bypass;;Laurinburg;NC;28352      ;0078742012254
+WM HQ;Wal-Mart Stores, Inc.;1108 SE 10th. Street;;Bentonville;Ar;72716-8004 
+;;;;;;;;;
+4429 JACKSON ROAD;EMINENCE;KY;40019      
+901 US Hwy. 401 Bypass;;Laurinburg;NC;28352      
+87411
+0;021204;021204;30;30;NET 30
+040113
+^8;4.75;005667319;721821100020;Poinsettia 10" HB
+;Poin10HB;Poinsettia 10" HB;4;CA;1;38.00;0.00;0.00;;N;;
+;                                                                                
+Rose Hill Greenhouses, Inc.;44798
+^N;0.00;;
+38.00
+8.00;0.50;2
+1;8.00
+@
+|

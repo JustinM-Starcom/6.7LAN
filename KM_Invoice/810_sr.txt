@@ -1,0 +1,2713 @@
+N;
+^091514;813478;090814;250927520
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;520-761-4844;GF
+;;;1180.80;0.00;0.00;0.00;0.00;0.00;
+3923;0
+KM3923;KMART #3923 - NOGALES;300 W. MARIPOSA ROAD;;NOGALES;AZ;85621      ;0089658733923
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+300 WEST MARIPOSA RD;;NOGALES;AZ;856211043  
+445502
+0.0;101514;101514;30;30;NET 30
+140915
+^3;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;55.35;0.00;0.00;;N;00007323360008134785;;;90554
+;                                                                                
+^3;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;55.35;0.00;0.00;;N;00007323360008134785;;;90566
+;                                                                                
+^3;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134785;;;90558
+;                                                                                
+^2;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134785;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134785;;;90569
+;                                                                                
+^2;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;36.90;0.00;0.00;;N;00007323360008134785;;;90550
+;                                                                                
+^12;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;221.40;0.00;0.00;;N;00007323360008134785;;;90556
+;                                                                                
+^2;18.4500;008670385;732336750846;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134785;;;90559
+;                                                                                
+^6;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;110.70;0.00;0.00;;N;00007323360008134785;;;90560
+;                                                                                
+^2;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;36.90;0.00;0.00;;N;00007323360008134785;;;90568
+;                                                                                
+^1;18.4500;008670377;732336750259;USDA Citrus
+;USDACITRUS;3.5gal SD Oro Blanco;1;EA;1;18.45;0.00;0.00;;N;00007323360008134785;;;90551
+;                                                                                
+^1;18.4500;008670383;732336750662;USDA Citrus
+;USDACITRUS;3.5gal SD PinkLemonade;1;EA;1;18.45;0.00;0.00;;N;00007323360008134785;;;90557
+;                                                                                
+^2;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;36.90;0.00;0.00;;N;00007323360008134785;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134785;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134785;;;90562
+;                                                                                
+^6;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;110.70;0.00;0.00;;N;00007323360008134785;;;90564
+;                                                                                
+^2;18.4500;008670396;732336750204;USDA Citrus
+;USDACITRUS;3.5gal Std Grapefruit;1;EA;1;36.90;0.00;0.00;;N;00007323360008134785;;;90570
+;                                                                                
+^3;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;55.35;0.00;0.00;;N;00007323360008134785;;;90572
+;                                                                                
+^2;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134785;;;90573
+;                                                                                
+^3;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;55.35;0.00;0.00;;N;00007323360008134785;;;90574
+;                                                                                
+^3;18.4500;008670403;732336751706;USDA Citrus
+;USDACITRUS;3.5gal Std Tangerine;1;EA;1;55.35;0.00;0.00;;N;00007323360008134785;;;90576
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813478
+^N;0.00;;
+1180.80
+64.00;64.00;64
+21;64.00
+@
+N;
+^091514;813479;090814;250927521
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;661-721-7001;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3945;0
+KM3945;KMART #3945 - DELANO;912 COUNTY LINE ROAD;;DELANO;CA;93215      ;0089658733945
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+912 COUNTY LINE RD;;DELANO;CA;932153823  
+445502
+0.0;101514;101514;30;30;NET 30
+140915
+^2;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;36.90;0.00;0.00;;N;00007323360008134792;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134792;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134792;;;90555
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134792;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134792;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134792;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134792;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134792;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134792;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134792;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134792;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134792;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134792;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134792;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813479
+^N;0.00;;
+590.40
+32.00;32.00;32
+14;32.00
+@
+N;
+^091514;813495;090814;250927537
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;661-763-5949;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+7287;0
+KM7287;KMART #7287 - TAFT;301 GARDNER FIELD ROAD;;TAFT;CA;93268      ;0089658737287
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+301 GARDNER FIELD ROAD;;TAFT;CA;932689726  
+445502
+0.0;101514;101514;30;30;NET 30
+140915
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134952;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134952;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134952;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134952;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134952;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134952;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134952;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134952;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134952;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134952;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134952;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134952;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134952;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134952;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134952;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813495
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091614;813461;090814;250927503
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;530-345-9461;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3086;0
+KM3086;KMART #3086 - CHICO;2155 PHILLSBURY ROAD;;CHICO;CA;95926      ;0089658733086
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+2155 PILLSBURY RD;;CHICO;CA;959261330  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134617;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134617;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134617;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134617;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134617;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134617;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134617;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134617;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134617;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134617;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134617;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134617;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134617;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134617;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134617;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813461
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091614;813462;090814;250927504
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;530-673-4101;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3162;0
+KM3162;KMART #3162 - YUBA CITY;850 GRAY AVENUE;;YUBA CITY;CA;95991      ;0089658733162
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+850 GRAY AVE;;YUBA CITY;CA;959913641  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134624;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134624;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134624;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134624;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134624;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134624;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134624;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134624;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134624;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134624;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134624;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134624;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134624;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134624;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134624;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813462
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091614;813463;090814;250927505
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;480-832-2650;GF
+;;;1771.20;0.00;0.00;0.00;0.00;0.00;
+3188;0
+KM3188;KMART #3188 - MESA;2840 E. MAIN STREET;;MESA;AZ;           ;0089658733188
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+2840 E MAIN ST;;MESA;AZ;852139377  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^6;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;110.70;0.00;0.00;;N;00007323360008134631;;;90554
+;                                                                                
+^4;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;73.80;0.00;0.00;;N;00007323360008134631;;;90566
+;                                                                                
+^4;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;73.80;0.00;0.00;;N;00007323360008134631;;;90558
+;                                                                                
+^3;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;55.35;0.00;0.00;;N;00007323360008134631;;;90555
+;                                                                                
+^2;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;36.90;0.00;0.00;;N;00007323360008134631;;;90569
+;                                                                                
+^2;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;36.90;0.00;0.00;;N;00007323360008134631;;;90550
+;                                                                                
+^18;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;332.10;0.00;0.00;;N;00007323360008134631;;;90556
+;                                                                                
+^3;18.4500;008670385;732336750846;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134631;;;90559
+;                                                                                
+^10;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;184.50;0.00;0.00;;N;00007323360008134631;;;90560
+;                                                                                
+^2;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;36.90;0.00;0.00;;N;00007323360008134631;;;90568
+;                                                                                
+^1;18.4500;008670389;732336751263;USDA Citrus
+;USDACITRUS;3.5gal SD Naval;1;EA;1;18.45;0.00;0.00;;N;00007323360008134631;;;90563
+;                                                                                
+^2;18.4500;008670377;732336750259;USDA Citrus
+;USDACITRUS;3.5gal SD Oro Blanco;1;EA;1;36.90;0.00;0.00;;N;00007323360008134631;;;90551
+;                                                                                
+^2;18.4500;008670383;732336750662;USDA Citrus
+;USDACITRUS;3.5gal SD PinkLemonade;1;EA;1;36.90;0.00;0.00;;N;00007323360008134631;;;90557
+;                                                                                
+^2;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;36.90;0.00;0.00;;N;00007323360008134631;;;90567
+;                                                                                
+^2;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;36.90;0.00;0.00;;N;00007323360008134631;;;90552
+;                                                                                
+^6;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;110.70;0.00;0.00;;N;00007323360008134631;;;90562
+;                                                                                
+^9;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;166.05;0.00;0.00;;N;00007323360008134631;;;90564
+;                                                                                
+^3;18.4500;008670396;732336750204;USDA Citrus
+;USDACITRUS;3.5gal Std Grapefruit;1;EA;1;55.35;0.00;0.00;;N;00007323360008134631;;;90570
+;                                                                                
+^4;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;73.80;0.00;0.00;;N;00007323360008134631;;;90572
+;                                                                                
+^3;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134631;;;90573
+;                                                                                
+^4;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134631;;;90574
+;                                                                                
+^4;18.4500;008670403;732336751706;USDA Citrus
+;USDACITRUS;3.5gal Std Tangerine;1;EA;1;73.80;0.00;0.00;;N;00007323360008134631;;;90576
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813463
+^N;0.00;;
+1771.20
+96.00;96.00;96
+22;96.00
+@
+N;
+^091614;813464;090814;250927506
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;602-995-8867;GF
+;;;1180.80;0.00;0.00;0.00;0.00;0.00;
+3228;0
+KM3228;KMART #3228 - PHOENIX;2526 W. NORTHERN;;PHOENIX;AZ;85051      ;0089658733228
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+2526 W NORTHERN AVENUE;;PHOENIX;AZ;850514849  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^3;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;55.35;0.00;0.00;;N;00007323360008134648;;;90554
+;                                                                                
+^3;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;55.35;0.00;0.00;;N;00007323360008134648;;;90566
+;                                                                                
+^3;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134648;;;90558
+;                                                                                
+^2;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134648;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134648;;;90569
+;                                                                                
+^2;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;36.90;0.00;0.00;;N;00007323360008134648;;;90550
+;                                                                                
+^12;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;221.40;0.00;0.00;;N;00007323360008134648;;;90556
+;                                                                                
+^2;18.4500;008670385;732336750846;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134648;;;90559
+;                                                                                
+^6;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;110.70;0.00;0.00;;N;00007323360008134648;;;90560
+;                                                                                
+^2;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;36.90;0.00;0.00;;N;00007323360008134648;;;90568
+;                                                                                
+^1;18.4500;008670377;732336750259;USDA Citrus
+;USDACITRUS;3.5gal SD Oro Blanco;1;EA;1;18.45;0.00;0.00;;N;00007323360008134648;;;90551
+;                                                                                
+^1;18.4500;008670383;732336750662;USDA Citrus
+;USDACITRUS;3.5gal SD PinkLemonade;1;EA;1;18.45;0.00;0.00;;N;00007323360008134648;;;90557
+;                                                                                
+^2;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;36.90;0.00;0.00;;N;00007323360008134648;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134648;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134648;;;90562
+;                                                                                
+^6;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;110.70;0.00;0.00;;N;00007323360008134648;;;90564
+;                                                                                
+^2;18.4500;008670396;732336750204;USDA Citrus
+;USDACITRUS;3.5gal Std Grapefruit;1;EA;1;36.90;0.00;0.00;;N;00007323360008134648;;;90570
+;                                                                                
+^3;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;55.35;0.00;0.00;;N;00007323360008134648;;;90572
+;                                                                                
+^2;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134648;;;90573
+;                                                                                
+^3;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;55.35;0.00;0.00;;N;00007323360008134648;;;90574
+;                                                                                
+^3;18.4500;008670403;732336751706;USDA Citrus
+;USDACITRUS;3.5gal Std Tangerine;1;EA;1;55.35;0.00;0.00;;N;00007323360008134648;;;90576
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813464
+^N;0.00;;
+1180.80
+64.00;64.00;64
+21;64.00
+@
+N;
+^091614;813468;090814;250927510
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;916-726-3395;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3376;0
+KM3376;KMART #3376 - CITRUS HEIGHTS;8501 AUBURN BLVD.;;CITRUS HEIGHTS;CA;95610      ;0089658733376
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+8501 AUBURN BLVD;;CITRUS HEIGHTS;CA;956100315  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134686;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134686;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134686;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134686;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134686;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134686;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134686;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134686;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134686;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134686;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134686;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134686;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134686;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134686;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134686;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813468
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091614;813471;090814;250927513
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;916-624-7003;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3696;0
+KM3696;KMART #3696 - ROCKLIN;5615 PACIFIC ST.;;ROCKLIN;CA;95677      ;0089658733696
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+5615 PACIFIC STREET;;ROCKLIN;CA;956773174  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134716;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134716;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134716;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134716;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134716;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134716;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134716;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134716;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134716;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134716;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134716;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134716;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134716;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134716;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134716;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813471
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091614;813474;090814;250927516
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;209-826-8866;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3764;0
+KM3764;KMART #3764 - LOS BANOS;1400 MARCY SPRINGS;;LOS BANOS;CA;93635      ;0089658733764
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+1400 MERCEY SPRINGS;;LOS BANOS;CA;936354928  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^2;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;36.90;0.00;0.00;;N;00007323360008134747;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134747;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134747;;;90555
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134747;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134747;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134747;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134747;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134747;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134747;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134747;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134747;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134747;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134747;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134747;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813474
+^N;0.00;;
+590.40
+32.00;32.00;32
+14;32.00
+@
+N;
+^091614;813476;090814;250927518
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;602-276-1181;GF
+;;;1180.80;0.00;0.00;0.00;0.00;0.00;
+3858;0
+KM3858;KMART #3858 - PHOENIX;336 EAST BASELINE ROAD;;PHOENIX;AZ;   85040   ;0089658733858
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+336 EAST BASELINE RD;;PHOENIX;AZ;850426511  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^3;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;55.35;0.00;0.00;;N;00007323360008134761;;;90554
+;                                                                                
+^3;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;55.35;0.00;0.00;;N;00007323360008134761;;;90566
+;                                                                                
+^3;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134761;;;90558
+;                                                                                
+^2;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134761;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134761;;;90569
+;                                                                                
+^2;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;36.90;0.00;0.00;;N;00007323360008134761;;;90550
+;                                                                                
+^12;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;221.40;0.00;0.00;;N;00007323360008134761;;;90556
+;                                                                                
+^2;18.4500;008670385;732336750846;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134761;;;90559
+;                                                                                
+^6;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;110.70;0.00;0.00;;N;00007323360008134761;;;90560
+;                                                                                
+^2;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;36.90;0.00;0.00;;N;00007323360008134761;;;90568
+;                                                                                
+^1;18.4500;008670377;732336750259;USDA Citrus
+;USDACITRUS;3.5gal SD Oro Blanco;1;EA;1;18.45;0.00;0.00;;N;00007323360008134761;;;90551
+;                                                                                
+^1;18.4500;008670383;732336750662;USDA Citrus
+;USDACITRUS;3.5gal SD PinkLemonade;1;EA;1;18.45;0.00;0.00;;N;00007323360008134761;;;90557
+;                                                                                
+^2;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;36.90;0.00;0.00;;N;00007323360008134761;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134761;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134761;;;90562
+;                                                                                
+^6;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;110.70;0.00;0.00;;N;00007323360008134761;;;90564
+;                                                                                
+^2;18.4500;008670396;732336750204;USDA Citrus
+;USDACITRUS;3.5gal Std Grapefruit;1;EA;1;36.90;0.00;0.00;;N;00007323360008134761;;;90570
+;                                                                                
+^3;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;55.35;0.00;0.00;;N;00007323360008134761;;;90572
+;                                                                                
+^2;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134761;;;90573
+;                                                                                
+^3;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;55.35;0.00;0.00;;N;00007323360008134761;;;90574
+;                                                                                
+^3;18.4500;008670403;732336751706;USDA Citrus
+;USDACITRUS;3.5gal Std Tangerine;1;EA;1;55.35;0.00;0.00;;N;00007323360008134761;;;90576
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813476
+^N;0.00;;
+1180.80
+64.00;64.00;64
+21;64.00
+@
+N;
+^091614;813483;090814;250927525
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;916-452-7681;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+4117;0
+KM4117;KMART #4117 - SACRAMENTO;5100 STOCKTON BLVD.;;SACRAMENTO;CA;95820      ;0089658734117
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+5100 STOCKTON BLVD;;SACRAMENTO;CA;958205410  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134839;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134839;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134839;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134839;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134839;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134839;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134839;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134839;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134839;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134839;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134839;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134839;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134839;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134839;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134839;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813483
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091614;813488;090814;250927530
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;559-935-5090;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+4721;0
+KM4721;KMART #4721 - COALINGA;25 W. POLK ST.;;COALINGA;CA;93210      ;0089658734721
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+25 WEST POLK STREET;;COALINGA;CA;932102366  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134884;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134884;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134884;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134884;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134884;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134884;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134884;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134884;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134884;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134884;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134884;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134884;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134884;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134884;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134884;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813488
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091614;813489;090814;250927531
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;925-777-0145;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+4762;0
+KM4762;KMART #4762 - ANTIOCH;3625 E. 18TH STREET;;ANTIOCH;CA;94509      ;0089658734762
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+3625 EAST 18TH ST;;ANTIOCH;CA;945098511  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134891;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134891;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134891;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134891;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134891;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134891;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134891;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134891;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134891;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134891;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134891;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134891;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134891;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134891;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134891;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813489
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091614;813491;090814;250927533
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;209-825-3033;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+4862;0
+KM4862;KMART #4862 - MANTECA;255 NORTHGATE DRIVE;;MANTECA;CA;95336      ;0089658734862
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+255 NORTHGATE DRIVE;;MANTECA;CA;953367125  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134914;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134914;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134914;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134914;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134914;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134914;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134914;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134914;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134914;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134914;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134914;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134914;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134914;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134914;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134914;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813491
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091614;813492;090814;250927534
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;520 546-6565;GF
+;;;1180.80;0.00;0.00;0.00;0.00;0.00;
+4996;0
+KM4996;KMART #4996 - TUCSON;7055 E BROADWAY;;TUCSON;AZ;85710      ;0089658734996
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+7055 EAST BROADWAY;;TUCSON;AZ;857102804  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^3;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;55.35;0.00;0.00;;N;00007323360008134921;;;90554
+;                                                                                
+^3;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;55.35;0.00;0.00;;N;00007323360008134921;;;90566
+;                                                                                
+^3;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134921;;;90558
+;                                                                                
+^2;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134921;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134921;;;90569
+;                                                                                
+^2;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;36.90;0.00;0.00;;N;00007323360008134921;;;90550
+;                                                                                
+^12;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;221.40;0.00;0.00;;N;00007323360008134921;;;90556
+;                                                                                
+^2;18.4500;008670385;732336750846;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134921;;;90559
+;                                                                                
+^6;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;110.70;0.00;0.00;;N;00007323360008134921;;;90560
+;                                                                                
+^2;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;36.90;0.00;0.00;;N;00007323360008134921;;;90568
+;                                                                                
+^1;18.4500;008670377;732336750259;USDA Citrus
+;USDACITRUS;3.5gal SD Oro Blanco;1;EA;1;18.45;0.00;0.00;;N;00007323360008134921;;;90551
+;                                                                                
+^1;18.4500;008670383;732336750662;USDA Citrus
+;USDACITRUS;3.5gal SD PinkLemonade;1;EA;1;18.45;0.00;0.00;;N;00007323360008134921;;;90557
+;                                                                                
+^2;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;36.90;0.00;0.00;;N;00007323360008134921;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134921;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134921;;;90562
+;                                                                                
+^6;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;110.70;0.00;0.00;;N;00007323360008134921;;;90564
+;                                                                                
+^2;18.4500;008670396;732336750204;USDA Citrus
+;USDACITRUS;3.5gal Std Grapefruit;1;EA;1;36.90;0.00;0.00;;N;00007323360008134921;;;90570
+;                                                                                
+^3;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;55.35;0.00;0.00;;N;00007323360008134921;;;90572
+;                                                                                
+^2;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134921;;;90573
+;                                                                                
+^3;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;55.35;0.00;0.00;;N;00007323360008134921;;;90574
+;                                                                                
+^3;18.4500;008670403;732336751706;USDA Citrus
+;USDACITRUS;3.5gal Std Tangerine;1;EA;1;55.35;0.00;0.00;;N;00007323360008134921;;;90576
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813492
+^N;0.00;;
+1180.80
+64.00;64.00;64
+21;64.00
+@
+N;
+^091614;813493;090814;250927535
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;925-671-2000;GF
+;;;1180.80;0.00;0.00;0.00;0.00;0.00;
+7098;0
+KM7098;KMART #7098 - CONCORD;5100 CLAYTON ROAD;;CONCORD;CA;94521      ;0089658737098
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+5100 CLAYTON ROAD;;CONCORD;CA;945213139  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^6;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;110.70;0.00;0.00;;N;00007323360008134938;;;90554
+;                                                                                
+^2;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;36.90;0.00;0.00;;N;00007323360008134938;;;90566
+;                                                                                
+^3;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134938;;;90558
+;                                                                                
+^2;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134938;;;90555
+;                                                                                
+^2;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;36.90;0.00;0.00;;N;00007323360008134938;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134938;;;90550
+;                                                                                
+^12;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;221.40;0.00;0.00;;N;00007323360008134938;;;90556
+;                                                                                
+^2;18.4500;008670385;732336750846;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134938;;;90559
+;                                                                                
+^8;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;147.60;0.00;0.00;;N;00007323360008134938;;;90560
+;                                                                                
+^2;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;36.90;0.00;0.00;;N;00007323360008134938;;;90568
+;                                                                                
+^2;18.4500;008670389;732336751263;USDA Citrus
+;USDACITRUS;3.5gal SD Naval;1;EA;1;36.90;0.00;0.00;;N;00007323360008134938;;;90563
+;                                                                                
+^1;18.4500;008670377;732336750259;USDA Citrus
+;USDACITRUS;3.5gal SD Oro Blanco;1;EA;1;18.45;0.00;0.00;;N;00007323360008134938;;;90551
+;                                                                                
+^2;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;36.90;0.00;0.00;;N;00007323360008134938;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134938;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134938;;;90562
+;                                                                                
+^8;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;147.60;0.00;0.00;;N;00007323360008134938;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134938;;;90572
+;                                                                                
+^2;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134938;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134938;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813493
+^N;0.00;;
+1180.80
+64.00;64.00;64
+19;64.00
+@
+N;
+^091614;813494;090814;250927536
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;623-412-2539;GF
+;;;1771.20;0.00;0.00;0.00;0.00;0.00;
+7236;0
+KM7236;KMART #7236 - GLENDALE;6767 W. BELL RD.;;GLENDALE;AZ;85308      ;0089658737236
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+6767 WEST BELL ROAD;;GLENDALE;AZ;853088402  
+445502
+0.0;101614;101614;30;30;NET 30
+140916
+^6;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;110.70;0.00;0.00;;N;00007323360008134945;;;90554
+;                                                                                
+^4;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;73.80;0.00;0.00;;N;00007323360008134945;;;90566
+;                                                                                
+^4;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;73.80;0.00;0.00;;N;00007323360008134945;;;90558
+;                                                                                
+^3;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;55.35;0.00;0.00;;N;00007323360008134945;;;90555
+;                                                                                
+^2;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;36.90;0.00;0.00;;N;00007323360008134945;;;90569
+;                                                                                
+^2;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;36.90;0.00;0.00;;N;00007323360008134945;;;90550
+;                                                                                
+^18;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;332.10;0.00;0.00;;N;00007323360008134945;;;90556
+;                                                                                
+^3;18.4500;008670385;732336750846;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134945;;;90559
+;                                                                                
+^10;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;184.50;0.00;0.00;;N;00007323360008134945;;;90560
+;                                                                                
+^2;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;36.90;0.00;0.00;;N;00007323360008134945;;;90568
+;                                                                                
+^1;18.4500;008670389;732336751263;USDA Citrus
+;USDACITRUS;3.5gal SD Naval;1;EA;1;18.45;0.00;0.00;;N;00007323360008134945;;;90563
+;                                                                                
+^2;18.4500;008670377;732336750259;USDA Citrus
+;USDACITRUS;3.5gal SD Oro Blanco;1;EA;1;36.90;0.00;0.00;;N;00007323360008134945;;;90551
+;                                                                                
+^2;18.4500;008670383;732336750662;USDA Citrus
+;USDACITRUS;3.5gal SD PinkLemonade;1;EA;1;36.90;0.00;0.00;;N;00007323360008134945;;;90557
+;                                                                                
+^2;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;36.90;0.00;0.00;;N;00007323360008134945;;;90567
+;                                                                                
+^2;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;36.90;0.00;0.00;;N;00007323360008134945;;;90552
+;                                                                                
+^6;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;110.70;0.00;0.00;;N;00007323360008134945;;;90562
+;                                                                                
+^9;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;166.05;0.00;0.00;;N;00007323360008134945;;;90564
+;                                                                                
+^3;18.4500;008670396;732336750204;USDA Citrus
+;USDACITRUS;3.5gal Std Grapefruit;1;EA;1;55.35;0.00;0.00;;N;00007323360008134945;;;90570
+;                                                                                
+^4;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;73.80;0.00;0.00;;N;00007323360008134945;;;90572
+;                                                                                
+^3;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134945;;;90573
+;                                                                                
+^4;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134945;;;90574
+;                                                                                
+^4;18.4500;008670403;732336751706;USDA Citrus
+;USDACITRUS;3.5gal Std Tangerine;1;EA;1;73.80;0.00;0.00;;N;00007323360008134945;;;90576
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813494
+^N;0.00;;
+1771.20
+96.00;96.00;96
+22;96.00
+@
+N;
+^091714;813465;090814;250927507
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;510-895-9055;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3276;0
+KM3276;KMART #3276 - SAN LEANDRO;250 FLORESTA BLVD.;;SAN LEANDRO;CA;94578      ;0089658733276
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+250 FLORESTA BLVD;;SAN LEANDRO;CA;945784164  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^4;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;73.80;0.00;0.00;;N;00007323360008134655;;;90554
+;                                                                                
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134655;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134655;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134655;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134655;;;90569
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134655;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134655;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134655;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134655;;;90567
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134655;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134655;;;90564
+;                                                                                
+^1;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134655;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134655;;;90573
+;                                                                                
+^1;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;18.45;0.00;0.00;;N;00007323360008134655;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813465
+^N;0.00;;
+590.40
+32.00;32.00;32
+14;32.00
+@
+N;
+^091714;813466;090814;250927508
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;209-521-9610;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3345;0
+KM3345;KMART #3345 - MODESTO;1351 E. HATCH ROAD;;MODESTO;CA;95351      ;0089658733345
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+1351 E HATCH RD;;MODESTO;CA;953515010  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^2;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;36.90;0.00;0.00;;N;00007323360008134662;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134662;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134662;;;90555
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134662;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134662;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134662;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134662;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134662;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134662;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134662;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134662;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134662;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134662;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134662;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813466
+^N;0.00;;
+590.40
+32.00;32.00;32
+14;32.00
+@
+N;
+^091714;813467;090814;250927509
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;928 453-5919;GF
+;;;1180.80;0.00;0.00;0.00;0.00;0.00;
+3375;0
+KM3375;KMART #3375 - BULLHEAD CITY;2250 S HWY 95 STE256;;BULLHEAD CITY;AZ;86442      ;0089658733375
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+2250 HIGHWAY 95 STE 256;;BULLHEAD CITY;AZ;864426012  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^3;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;55.35;0.00;0.00;;N;00007323360008134679;;;90554
+;                                                                                
+^3;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;55.35;0.00;0.00;;N;00007323360008134679;;;90566
+;                                                                                
+^3;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134679;;;90558
+;                                                                                
+^2;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134679;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134679;;;90569
+;                                                                                
+^2;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;36.90;0.00;0.00;;N;00007323360008134679;;;90550
+;                                                                                
+^12;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;221.40;0.00;0.00;;N;00007323360008134679;;;90556
+;                                                                                
+^2;18.4500;008670385;732336750846;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134679;;;90559
+;                                                                                
+^6;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;110.70;0.00;0.00;;N;00007323360008134679;;;90560
+;                                                                                
+^2;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;36.90;0.00;0.00;;N;00007323360008134679;;;90568
+;                                                                                
+^1;18.4500;008670377;732336750259;USDA Citrus
+;USDACITRUS;3.5gal SD Oro Blanco;1;EA;1;18.45;0.00;0.00;;N;00007323360008134679;;;90551
+;                                                                                
+^1;18.4500;008670383;732336750662;USDA Citrus
+;USDACITRUS;3.5gal SD PinkLemonade;1;EA;1;18.45;0.00;0.00;;N;00007323360008134679;;;90557
+;                                                                                
+^2;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;36.90;0.00;0.00;;N;00007323360008134679;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134679;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134679;;;90562
+;                                                                                
+^6;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;110.70;0.00;0.00;;N;00007323360008134679;;;90564
+;                                                                                
+^2;18.4500;008670396;732336750204;USDA Citrus
+;USDACITRUS;3.5gal Std Grapefruit;1;EA;1;36.90;0.00;0.00;;N;00007323360008134679;;;90570
+;                                                                                
+^3;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;55.35;0.00;0.00;;N;00007323360008134679;;;90572
+;                                                                                
+^2;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134679;;;90573
+;                                                                                
+^3;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;55.35;0.00;0.00;;N;00007323360008134679;;;90574
+;                                                                                
+^3;18.4500;008670403;732336751706;USDA Citrus
+;USDACITRUS;3.5gal Std Tangerine;1;EA;1;55.35;0.00;0.00;;N;00007323360008134679;;;90576
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813467
+^N;0.00;;
+1180.80
+64.00;64.00;64
+21;64.00
+@
+N;
+^091714;813469;090814;250927511
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;707-778-6235;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3501;0
+KM3501;KMART #3501 - PETALUMA;261 NORTH MC DOWELL BLVD.;;PETALUMA;CA;94954      ;0089658733501
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+261 N MC DOWELL BLVD;;PETALUMA;CA;949542306  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134693;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134693;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134693;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134693;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134693;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134693;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134693;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134693;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134693;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134693;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134693;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134693;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134693;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134693;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134693;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813469
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091714;813470;090814;250927512
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;559-298-9772;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3582;0
+KM3582;KMART #3582 - CLOVIS;1075 S. SHAW;;CLOVIS;CA;93612      ;0089658733582
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+1075 SHAW AVENUE;;CLOVIS;CA;936123933  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^2;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;36.90;0.00;0.00;;N;00007323360008134709;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134709;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134709;;;90555
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134709;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134709;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134709;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134709;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134709;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134709;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134709;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134709;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134709;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134709;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134709;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813470
+^N;0.00;;
+590.40
+32.00;32.00;32
+14;32.00
+@
+N;
+^091714;813472;090814;250927514
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;928 763-7878;GF
+;;;1771.20;0.00;0.00;0.00;0.00;0.00;
+3707;0
+KM3707;KMART #3707 - LAKE HAVASU;1870 McCULLOCK BLVD;;LAKE HAVASU;AZ;86403      ;0089658733707
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+1870 MCCULLOCH BLVD;;LAKE HAVASU CITY;AZ;864035744  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^6;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;110.70;0.00;0.00;;N;00007323360008134723;;;90554
+;                                                                                
+^4;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;73.80;0.00;0.00;;N;00007323360008134723;;;90566
+;                                                                                
+^4;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;73.80;0.00;0.00;;N;00007323360008134723;;;90558
+;                                                                                
+^3;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;55.35;0.00;0.00;;N;00007323360008134723;;;90555
+;                                                                                
+^2;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;36.90;0.00;0.00;;N;00007323360008134723;;;90569
+;                                                                                
+^2;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;36.90;0.00;0.00;;N;00007323360008134723;;;90550
+;                                                                                
+^18;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;332.10;0.00;0.00;;N;00007323360008134723;;;90556
+;                                                                                
+^3;18.4500;008670385;732336750846;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134723;;;90559
+;                                                                                
+^10;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;184.50;0.00;0.00;;N;00007323360008134723;;;90560
+;                                                                                
+^2;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;36.90;0.00;0.00;;N;00007323360008134723;;;90568
+;                                                                                
+^1;18.4500;008670389;732336751263;USDA Citrus
+;USDACITRUS;3.5gal SD Naval;1;EA;1;18.45;0.00;0.00;;N;00007323360008134723;;;90563
+;                                                                                
+^2;18.4500;008670377;732336750259;USDA Citrus
+;USDACITRUS;3.5gal SD Oro Blanco;1;EA;1;36.90;0.00;0.00;;N;00007323360008134723;;;90551
+;                                                                                
+^2;18.4500;008670383;732336750662;USDA Citrus
+;USDACITRUS;3.5gal SD PinkLemonade;1;EA;1;36.90;0.00;0.00;;N;00007323360008134723;;;90557
+;                                                                                
+^2;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;36.90;0.00;0.00;;N;00007323360008134723;;;90567
+;                                                                                
+^2;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;36.90;0.00;0.00;;N;00007323360008134723;;;90552
+;                                                                                
+^6;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;110.70;0.00;0.00;;N;00007323360008134723;;;90562
+;                                                                                
+^9;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;166.05;0.00;0.00;;N;00007323360008134723;;;90564
+;                                                                                
+^3;18.4500;008670396;732336750204;USDA Citrus
+;USDACITRUS;3.5gal Std Grapefruit;1;EA;1;55.35;0.00;0.00;;N;00007323360008134723;;;90570
+;                                                                                
+^4;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;73.80;0.00;0.00;;N;00007323360008134723;;;90572
+;                                                                                
+^3;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134723;;;90573
+;                                                                                
+^4;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134723;;;90574
+;                                                                                
+^4;18.4500;008670403;732336751706;USDA Citrus
+;USDACITRUS;3.5gal Std Tangerine;1;EA;1;73.80;0.00;0.00;;N;00007323360008134723;;;90576
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813472
+^N;0.00;;
+1771.20
+96.00;96.00;96
+22;96.00
+@
+N;
+^091714;813473;090814;250927515
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;831-637-5730;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3748;0
+KM3748;KMART #3748 - HOLLISTER;491 TRES PINOS ROAD;;HOLLISTER;CA;95023      ;0089658733748
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+491 TRES PINOS ROAD;;HOLLISTER;CA;950235545  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134730;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134730;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134730;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134730;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134730;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134730;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134730;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134730;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134730;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134730;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134730;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134730;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134730;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134730;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134730;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813473
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091714;813475;090814;250927517
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;209-847-7091;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3842;0
+KM3842;KMART #3842 - OAKDALE;175 MAAG AVE;;OAKDALE;CA;95361      ;0089658733842
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+175 SOUTH MAAG AVENUE;;OAKDALE;CA;953619626  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^2;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;36.90;0.00;0.00;;N;00007323360008134754;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134754;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134754;;;90555
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134754;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134754;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134754;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134754;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134754;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134754;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134754;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134754;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134754;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134754;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134754;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813475
+^N;0.00;;
+590.40
+32.00;32.00;32
+14;32.00
+@
+N;
+^091714;813477;090814;250927519
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;760 921-8442;GF
+;;;1771.20;0.00;0.00;0.00;0.00;0.00;
+3881;0
+KM3881;KMART #3881 - BLYTHE;1455 W HOBSONWAY DR;;BLYTHE;CA;92225      ;0089658733881
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+1455 W HOBSON;;BLYTHE;CA;922251479  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^6;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;110.70;0.00;0.00;;N;00007323360008134778;;;90554
+;                                                                                
+^4;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;73.80;0.00;0.00;;N;00007323360008134778;;;90566
+;                                                                                
+^4;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;73.80;0.00;0.00;;N;00007323360008134778;;;90558
+;                                                                                
+^3;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;55.35;0.00;0.00;;N;00007323360008134778;;;90555
+;                                                                                
+^2;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;36.90;0.00;0.00;;N;00007323360008134778;;;90569
+;                                                                                
+^2;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;36.90;0.00;0.00;;N;00007323360008134778;;;90550
+;                                                                                
+^18;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;332.10;0.00;0.00;;N;00007323360008134778;;;90556
+;                                                                                
+^3;18.4500;008670385;732336750846;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134778;;;90559
+;                                                                                
+^10;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;184.50;0.00;0.00;;N;00007323360008134778;;;90560
+;                                                                                
+^2;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;36.90;0.00;0.00;;N;00007323360008134778;;;90568
+;                                                                                
+^1;18.4500;008670389;732336751263;USDA Citrus
+;USDACITRUS;3.5gal SD Naval;1;EA;1;18.45;0.00;0.00;;N;00007323360008134778;;;90563
+;                                                                                
+^2;18.4500;008670377;732336750259;USDA Citrus
+;USDACITRUS;3.5gal SD Oro Blanco;1;EA;1;36.90;0.00;0.00;;N;00007323360008134778;;;90551
+;                                                                                
+^2;18.4500;008670383;732336750662;USDA Citrus
+;USDACITRUS;3.5gal SD PinkLemonade;1;EA;1;36.90;0.00;0.00;;N;00007323360008134778;;;90557
+;                                                                                
+^2;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;36.90;0.00;0.00;;N;00007323360008134778;;;90567
+;                                                                                
+^2;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;36.90;0.00;0.00;;N;00007323360008134778;;;90552
+;                                                                                
+^6;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;110.70;0.00;0.00;;N;00007323360008134778;;;90562
+;                                                                                
+^9;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;166.05;0.00;0.00;;N;00007323360008134778;;;90564
+;                                                                                
+^3;18.4500;008670396;732336750204;USDA Citrus
+;USDACITRUS;3.5gal Std Grapefruit;1;EA;1;55.35;0.00;0.00;;N;00007323360008134778;;;90570
+;                                                                                
+^4;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;73.80;0.00;0.00;;N;00007323360008134778;;;90572
+;                                                                                
+^3;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;55.35;0.00;0.00;;N;00007323360008134778;;;90573
+;                                                                                
+^4;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134778;;;90574
+;                                                                                
+^4;18.4500;008670403;732336751706;USDA Citrus
+;USDACITRUS;3.5gal Std Tangerine;1;EA;1;73.80;0.00;0.00;;N;00007323360008134778;;;90576
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813477
+^N;0.00;;
+1771.20
+96.00;96.00;96
+22;96.00
+@
+N;
+^091714;813480;090814;250927522
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;661-758-9211;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3968;0
+KM3968;KMART #3968 - WASCO;2785 HWY. 46;;WASCO;CA;93280      ;0089658733968
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+2785 HWY 46;;WASCO;CA;932802912  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134808;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134808;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134808;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134808;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134808;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134808;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134808;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134808;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134808;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134808;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134808;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134808;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134808;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134808;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134808;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813480
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091714;813481;090814;250927523
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;559-924-8896;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3982;0
+KM3982;KMART #3982 - LEMOORE;215 WEST HANFORD/ARMONA;;LEMOORE;CA;93245      ;0089658733982
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+215 WEST HANFORD/ARMONA;;LEMOORE;CA;932452302  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134815;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134815;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134815;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134815;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134815;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134815;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134815;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134815;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134815;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134815;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134815;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134815;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134815;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134815;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134815;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813481
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091714;813482;090814;250927524
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;559-591-1502;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+3998;0
+KM3998;KMART #3998 - DINUBA;2270 EAST EL MONTE;;DINUBA;CA;93618      ;0089658733998
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+2270 EAST EL MONTE WAY;;DINUBA;CA;936189384  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134822;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134822;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134822;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134822;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134822;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134822;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134822;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134822;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134822;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134822;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134822;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134822;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134822;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134822;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134822;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813482
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091714;813484;090814;250927526
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;707-544-2245;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+4340;0
+KM4340;KMART #4340 - SANTA ROSA/CHESAPEAK;3771 CLEVELAND AVENUE;;SANTA ROSA/CHESAPEAK;CA;95403      ;0089658734340
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+3771 CLEVELAND AVE;;SANTA ROSA;CA;954032144  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134846;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134846;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134846;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134846;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134846;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134846;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134846;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134846;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134846;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134846;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134846;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134846;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134846;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134846;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134846;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813484
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091714;813485;090814;250927527
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;650-364-7640;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+4349;0
+KM4349;KMART #4349 - REDWOOD CITY;1155 VETERAN'S BLVD.;;REDWOOD CITY;CA;94063      ;0089658734349
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+1155 VETERAN'S BLVD;;REDWOOD CITY;CA;940632036  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^4;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;73.80;0.00;0.00;;N;00007323360008134853;;;90554
+;                                                                                
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134853;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134853;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134853;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134853;;;90569
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134853;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134853;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134853;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134853;;;90567
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134853;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134853;;;90564
+;                                                                                
+^1;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134853;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134853;;;90573
+;                                                                                
+^1;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;18.45;0.00;0.00;;N;00007323360008134853;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813485
+^N;0.00;;
+590.40
+32.00;32.00;32
+14;32.00
+@
+N;
+^091714;813487;090814;250927529
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;559-897-0180;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+4705;0
+KM4705;KMART #4705 - KINGSBURG;333 SIERRA AVENUE;;KINGSBURG;CA;93631      ;0089658734705
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+333 SIERRA;;KINGSBURG;CA;936311707  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134877;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134877;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134877;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134877;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134877;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134877;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134877;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134877;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134877;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134877;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134877;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134877;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134877;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134877;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134877;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813487
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091714;813490;090814;250927532
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;707-263-9305;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+4819;0
+KM4819;KMART #4819 - LAKEPORT;2019 SOUTH MAIN;;LAKEPORT;CA;95453      ;0089658734819
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+2019 S MAIN;;LAKEPORT;CA;954535617  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134907;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134907;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134907;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134907;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134907;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134907;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134907;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134907;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134907;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134907;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134907;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134907;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134907;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134907;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134907;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813490
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091714;813496;090814;250927538
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;209-357-3711;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+7481;0
+KM7481;KMART #7481 - ATWATER;1085 BELLEVUE ROAD;;ATWATER;CA;95301      ;0089658737481
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+1085 BELLEVUE;;ATWATER;CA;953012862  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134969;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134969;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134969;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134969;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134969;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134969;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134969;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134969;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134969;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134969;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134969;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134969;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134969;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134969;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134969;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813496
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091714;813499;090814;250927541
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;559-739-8491;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+9761;0
+KM9761;KMART #9761 - VISALIA;3247 WEST NOBEL AVENUE;;VISALIA;CA;93277      ;0089658739761
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+3247 NOBLE AVE;;VISALIA;CA;932771841  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134990;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134990;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134990;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134990;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134990;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134990;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134990;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134990;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134990;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134990;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134990;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134990;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134990;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134990;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134990;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813499
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091714;813500;090814;250927542
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;831-438-0545;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+9797;0
+KM9797;KMART #9797 - SCOTTS VALLEY;270 MT. HERMON ROAD;;SCOTTS VALLEY;CA;95066      ;0089658739797
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+270 MT HERMON ROAD;;SCOTTS VALLEY;CA;950664024  
+445502
+0.0;101714;101714;30;30;NET 30
+140917
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008135003;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008135003;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008135003;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008135003;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008135003;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008135003;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008135003;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008135003;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008135003;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008135003;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008135003;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008135003;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008135003;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008135003;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008135003;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813500
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+N;
+^091814;813497;090814;250927539
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;805-481-8484;GF
+;;;1180.80;0.00;0.00;0.00;0.00;0.00;
+7552;0
+KM7552;KMART #7552 - ARROYO GRANDE;1570 WEST BRANCH STREET;;ARROYO GRANDE;CA;93420      ;0089658737552
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+1570 W BRANCH ST;;ARROYO GRANDE;CA;934201818  
+445502
+0.0;101814;101814;30;30;NET 30
+140918
+^2;18.4500;008670380;732336750549;USDA Citrus
+;USDACITRUS;3.5 gal SD Kumquat Nagami;1;EA;1;36.90;0.00;0.00;;N;00007323360008134976;;;90554
+;                                                                                
+^2;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;36.90;0.00;0.00;;N;00007323360008134976;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134976;;;90558
+;                                                                                
+^2;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134976;;;90555
+;                                                                                
+^2;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;36.90;0.00;0.00;;N;00007323360008134976;;;90569
+;                                                                                
+^2;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;36.90;0.00;0.00;;N;00007323360008134976;;;90550
+;                                                                                
+^12;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;221.40;0.00;0.00;;N;00007323360008134976;;;90556
+;                                                                                
+^8;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;147.60;0.00;0.00;;N;00007323360008134976;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134976;;;90568
+;                                                                                
+^2;18.4500;008670389;732336751263;USDA Citrus
+;USDACITRUS;3.5gal SD Naval;1;EA;1;36.90;0.00;0.00;;N;00007323360008134976;;;90563
+;                                                                                
+^2;18.4500;008670377;732336750259;USDA Citrus
+;USDACITRUS;3.5gal SD Oro Blanco;1;EA;1;36.90;0.00;0.00;;N;00007323360008134976;;;90551
+;                                                                                
+^2;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;36.90;0.00;0.00;;N;00007323360008134976;;;90567
+;                                                                                
+^2;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;36.90;0.00;0.00;;N;00007323360008134976;;;90552
+;                                                                                
+^6;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;110.70;0.00;0.00;;N;00007323360008134976;;;90562
+;                                                                                
+^6;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;110.70;0.00;0.00;;N;00007323360008134976;;;90564
+;                                                                                
+^3;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;55.35;0.00;0.00;;N;00007323360008134976;;;90572
+;                                                                                
+^2;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134976;;;90573
+;                                                                                
+^3;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;55.35;0.00;0.00;;N;00007323360008134976;;;90574
+;                                                                                
+^3;18.4500;008670403;732336751706;USDA Citrus
+;USDACITRUS;3.5gal Std Tangerine;1;EA;1;55.35;0.00;0.00;;N;00007323360008134976;;;90576
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813497
+^N;0.00;;
+1180.80
+64.00;64.00;64
+19;64.00
+@
+N;
+^091814;813498;090814;250927540
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;090814;Posted;Our Truck;EDI 850;805-466-7700;GF
+;;;590.40;0.00;0.00;0.00;0.00;0.00;
+7619;0
+KM7619;KMART #7619 - ATASCADERO;3980 EL CAMINO REAL;;ATASCADERO;CA;93422      ;0089658737619
+KMART;KMART;;SEARS-KMART VENDOR PAYMENTS;OMAHA;NE;68103-2230 
+;;;;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+3980 EL CAMINO REAL;;ATASCADERO;CA;934222533  
+445502
+0.0;101814;101814;30;30;NET 30
+140918
+^1;18.4500;008670392;732336751737;USDA Citrus
+;USDACITRUS;3.5gal SD Algerian;1;EA;1;18.45;0.00;0.00;;N;00007323360008134983;;;90566
+;                                                                                
+^2;18.4500;008670384;732336750839;USDA Citrus
+;USDACITRUS;3.5gal SD Bearss Lime;1;EA;1;36.90;0.00;0.00;;N;00007323360008134983;;;90558
+;                                                                                
+^1;18.4500;008670381;732336750648;USDA Citrus
+;USDACITRUS;3.5gal SD Eureka Lemon;1;EA;1;18.45;0.00;0.00;;N;00007323360008134983;;;90555
+;                                                                                
+^1;18.4500;008670395;732336751829;USDA Citrus
+;USDACITRUS;3.5gal SD Honey Tangerine;1;EA;1;18.45;0.00;0.00;;N;00007323360008134983;;;90569
+;                                                                                
+^1;18.4500;008670375;732336750273;USDA Citrus
+;USDACITRUS;3.5gal SD Hybrid Cocktail;1;EA;1;18.45;0.00;0.00;;N;00007323360008134983;;;90550
+;                                                                                
+^6;18.4500;008670382;732336750655;USDA Citrus
+;USDACITRUS;3.5gal SD Improved Meyer;1;EA;1;110.70;0.00;0.00;;N;00007323360008134983;;;90556
+;                                                                                
+^4;18.4500;008670386;732336750853;USDA Citrus
+;USDACITRUS;3.5gal SD Mexican Thornless;1;EA;1;73.80;0.00;0.00;;N;00007323360008134983;;;90560
+;                                                                                
+^1;18.4500;008670394;732336751751;USDA Citrus
+;USDACITRUS;3.5gal SD Murcott;1;EA;1;18.45;0.00;0.00;;N;00007323360008134983;;;90568
+;                                                                                
+^1;18.4500;008670393;732336751744;USDA Citrus
+;USDACITRUS;3.5gal SD Pixie;1;EA;1;18.45;0.00;0.00;;N;00007323360008134983;;;90567
+;                                                                                
+^1;18.4500;008670378;732336750266;USDA Citrus
+;USDACITRUS;3.5gal SD Rio Red;1;EA;1;18.45;0.00;0.00;;N;00007323360008134983;;;90552
+;                                                                                
+^4;18.4500;008670388;732336751348;USDA Citrus
+;USDACITRUS;3.5gal SD Valencia Orange;1;EA;1;73.80;0.00;0.00;;N;00007323360008134983;;;90562
+;                                                                                
+^4;18.4500;008670390;732336751256;USDA Citrus
+;USDACITRUS;3.5gal SD Washington;1;EA;1;73.80;0.00;0.00;;N;00007323360008134983;;;90564
+;                                                                                
+^2;18.4500;008670398;732336750600;USDA Citrus
+;USDACITRUS;3.5gal Std Lemon;1;EA;1;36.90;0.00;0.00;;N;00007323360008134983;;;90572
+;                                                                                
+^1;18.4500;008670399;732336750808;USDA Citrus
+;USDACITRUS;3.5gal Std Lime;1;EA;1;18.45;0.00;0.00;;N;00007323360008134983;;;90573
+;                                                                                
+^2;18.4500;008670400;732336751102;USDA Citrus
+;USDACITRUS;3.5gal Std Orange;1;EA;1;36.90;0.00;0.00;;N;00007323360008134983;;;90574
+;                                                                                
+COLORAMA WH0LESALE NURSERY;813498
+^N;0.00;;
+590.40
+32.00;32.00;32
+15;32.00
+@
+|

@@ -1,0 +1,91 @@
+^053002;68421;052802;223530
+Garden State Growers;056021462
+0;Invoice;052802;Posted;GSG Truck;Simone;(610)292-0268;JPM
+;;;1203.24;0.00;0.00;1203.24;0.00;0.00;
+5223;056021462
+SH#5223;Sears Hardware #5223;2811 Dekalb Pike;Route 202;E Norriton;PA;19401      ;5223
+SEARS;Sears Hardware;6450 Viadeloro;;San Jose;CA;95119      
+;;;056021462;;;;;;
+99 Locust Grove Road;Pittstown;NJ;08867      
+2811 Dekalb Pike;Route 202;E Norriton;PA;19401      
+6111250000
+0;062902;062902;30;30;NET 30
+020530
+^30;5.25;45494;008914007306;10" Flowering Hanging Baskets
+;10" HB FLW;10" Flowering Hanging Baskets;1;EACH;1;157.50;0.00;0.00;;Y;;
+;                                                                                
+^30;5.25;45494;008914007306;10" Flowering Hanging Baskets
+;10" HB FLW;10" Flowering Hanging Baskets;1;RACK;1;157.50;0.00;0.00;;Y;;
+;                                                                                
+^48;10.00;45501;008914200745;10" Patio Planters
+;10" Pot;10" Patio Planters;1;RACK;1;480.00;0.00;0.00;;Y;;
+;                                                                                
+^378;1.08;45590;008914300162;606 Annuals
+;606 ANN;606 Annuals;6;EACH;1;408.24;0.00;0.00;;Y;;
+;                                                                                
+Garden State Growers;68421
+^N;0.00;;
+1203.24
+486.00;3.00;171
+4;486.00
+@
+^053002;68447;052802;954530
+Garden State Growers;056021462
+0;Invoice;052802;Posted;GSG Truck;Anne;(860)423-9041;JPM
+;;;2801.88;0.00;0.00;2801.88;0.00;0.00;
+5954;0
+SH#5954;Sears Hardware #5954;29 North Ridge Drive;;Windham;CT;06256      ;0
+SEARS;Sears Hardware;6450 Viadeloro;;San Jose;CA;95119      
+;;;;;;;;;
+99 Locust Grove Road;Pittstown;NJ;08867      
+29 North Ridge Drive;;Windham;CT;06256      
+6111250000
+0;062902;062902;30;30;NET 30
+020530
+^756;1.00;45482;008914300186;4" Annual Pots
+;4" ANN;4" Annual Pots;18;RACK;1;756.00;0.00;0.00;;Y;;
+;                                                                                
+^180;1.85;45490;008914100359;6" Annual Pots
+;6" ANN;6" Annual Pots;6;RACK;1;333.00;0.00;0.00;;Y;;
+;                                                                                
+^240;3.00;42612;008914008600;1 Gallon Perennial
+;1 GAL;1 Gallon Perennial;6;EACH;1;720.00;0.00;0.00;;Y;;
+;                                                                                
+^336;1.08;45590;008914380058;606 Vegetables
+;606 VEG;606 Vegetables;6;EACH;1;362.88;0.00;0.00;;Y;;
+;                                                                                
+^120;5.25;46400;008914008228;Landscape Groundcover
+;Half Flt;Landscape Groundcover;1;EACH;1;630.00;0.00;0.00;;Y;;
+;                                                                                
+Garden State Growers;68447
+^N;0.00;;
+2801.88
+1632.00;6.00;288
+5;1632.00
+@
+^053002;68499;052802;213530
+Garden State Growers;056021462
+0;Invoice;052802;Posted;GSG Truck;Harriet;(610)925-0477;JPM
+;;;695.88;0.00;0.00;695.88;0.00;0.00;
+5213;0
+SH#5213;Sears Hardware #5213;817 East Baltimore Pike;;Kennett Square;PA;19348      ;0
+SEARS;Sears Hardware;6450 Viadeloro;;San Jose;CA;95119      
+;;;;;;;;;
+99 Locust Grove Road;Pittstown;NJ;08867      
+817 East Baltimore Pike;;Kennett Square;PA;19348      
+6111250000
+0;062902;062902;30;30;NET 30
+020530
+^336;1.08;45590;008914380058;606 Vegetables
+;606 VEG;606 Vegetables;6;EACH;1;362.88;0.00;0.00;;Y;;
+;                                                                                
+^180;1.85;45490;008914100359;6" Annual Pots
+;6" ANN;6" Annual Pots;6;RACK;1;333.00;0.00;0.00;;Y;;
+;                                                                                
+Garden State Growers;68499
+^N;0.00;;
+695.88
+516.00;2.00;86
+2;516.00
+@
+|

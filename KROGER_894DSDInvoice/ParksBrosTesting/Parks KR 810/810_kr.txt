@@ -1,0 +1,138 @@
+N;
+^022012;91036;013012;
+Parks Brothers Farm, Inc.;065321747
+0;Invoice;013012;Order;TRUCK;DAVID;337-478-4051;
+;;;2082.39;0.00;0.00;2518.65;0.00;0.00;
+4232;099391542
+K34232;KROGER TEXAS L. P.;139 W MCNEESE ST;;LAKE CHARLES;LA;70609      ;34232
+KR0000;KROGER COMPANY;1014 VINE ST;;CINNCINNATI;OH;45202-1100 
+;;;099391542;;;;;;
+6733 Parks Road;Van Buren;AR;72956      
+139 W MCNEESE ST;;LAKE CHARLES;LA;70609      
+
+0.0;022012;032112;0;30;NET 30
+120220
+^375;2.59;;096096001649;PERENNIAL #1QT
+;PERE QT;PERENNIAL #1QT;1;EA;15;971.25;0.00;0.00;;Y;;;;43200
+;                                                                                
+^18;1.11;;096096001762;ANNUAL #4 DELUXE
+;ANN #4DEL;ANNUAL #4 DELUXE;1;EA;18;19.98;0.00;0.00;;Y;;;;30000
+;                                                                                
+^10;1.98;;096096001779;ANNUAL #4.5 PREMIUM
+;ANN #4.5;ANNUAL #4.5 PREMIUM;1;EA;10;19.80;0.00;0.00;;Y;;;;33000
+;                                                                                
+^18;7.25;;096096001816;#10 BASKET #2
+;BSKT1002;#10 BASKET #2;1;EA;1;130.50;0.00;0.00;;Y;;;;51000
+;                                                                                
+^1;13.00;;096096001915;#12  DECO POT
+;DECO #12;#12  DECO POT;1;EA;1;13.00;0.00;0.00;;Y;;;;60083
+;                                                                                
+^1;6.36;;096096001922;#10 BASKET #1
+;BSKT1001;#10 BASKET #1;1;EA;1;6.36;0.00;0.00;;Y;;;;50000
+;                                                                                
+^6;5.61;;096096001946;PERENNIAL #1G CLEMATIS
+;PERE#1 CLM;PERENNIAL #1G CLEMATIS;1;EA;6;33.66;0.00;0.00;;Y;;;;5950
+;                                                                                
+^6;4.96;;096096001953;PERENNIALS #1G PREMIUM
+;PERE #1 PR;PERENNIALS #1G PREMIUM;1;EA;6;29.76;0.00;0.00;;Y;;;;7750
+;                                                                                
+^6;2.46;;096096002035;ANNUAL #1G
+;ANN #1;ANNUAL #1G;1;EA;6;14.76;0.00;0.00;;Y;;;;77000
+;                                                                                
+^6;4.11;;096096002141;PERENNIAL #1G DELUXE
+;PERE #1 DL;PERENNIAL #1G DELUXE;1;EA;6;24.66;0.00;0.00;;Y;;;;7005
+;                                                                                
+^6;3.29;;096096002387;ANNUAL PREMIUM #1G
+;ANN #1 PRM;ANNUAL PREMIUM #1G;1;EA;6;19.74;0.00;0.00;;Y;;;;77500
+;                                                                                
+^1;10.36;;096096002448;PERENNIAL #2G POT
+;PERE #2;PERENNIAL #2G POT;1;EA;1;10.36;0.00;0.00;;Y;;;;49992
+;                                                                                
+^150;0.99;;096096002462;CHARLEYS VEGGIES #4
+;VEGE #4;CHARLEYS VEGGIES #4;1;EA;10;148.50;0.00;0.00;;Y;;;;25595
+;                                                                                
+^6;2.49;;096096002561;ANNUAL #6 DELUXE
+;ANN #6 DLX;ANNUAL #6 DELUXE;1;EA;6;14.94;0.00;0.00;;Y;;;;38500
+;                                                                                
+^6;2.49;;096096002578;WAVE PETUNIAS #6
+;ANN #6 WV;WAVE PETUNIAS #6;1;EA;6;14.94;0.00;0.00;;Y;;;;79200
+;                                                                                
+^6;2.40;;096096002653;VEGETABLES #1G
+;VEGE #1;VEGETABLES #1G;1;EA;6;14.40;0.00;0.00;;Y;;;;26050
+;                                                                                
+^1;4.99;;096096002691;WAVE PETUNIAS #8
+;ANN #8 WV;WAVE PETUNIAS #8;1;EA;1;4.99;0.00;0.00;;Y;;;;79170
+;                                                                                
+^1;6.59;;096096002721;SQUARE PLANTER #8
+;ANN #8 SQ;SQUARE PLANTER #8;1;EA;1;6.59;0.00;0.00;;Y;;;;80030
+;                                                                                
+^6;3.19;;096096003186;ANNUAL #6 CONFETTI GARDEN
+;ANN #6 CFT;ANNUAL #6 CONFETTI GARDEN;1;EA;6;19.14;0.00;0.00;;Y;;;;39950
+;                                                                                
+^1;8.06;;096096003377;#10 DECO POT
+;DECO #10;#10 DECO POT;1;EA;1;8.06;0.00;0.00;;Y;;;;55000
+;                                                                                
+^6;6.56;;096096003407;TROPICALS #1G
+;ANN #1TROP;TROPICALS #1G;1;EA;6;39.36;0.00;0.00;;Y;;;;79021
+;                                                                                
+^6;4.96;;096096003414;TROPICALS #1G
+;ANN #1TROP;TROPICALS #1G;1;EA;6;29.76;0.00;0.00;;Y;;;;79000
+;                                                                                
+^6;2.40;;096096003483;VEGETABLES #1G
+;VEGE #1;VEGETABLES #1G;1;EA;6;14.40;0.00;0.00;;Y;;;;26030
+;                                                                                
+^1;7.96;;096096003773;#10 BASKET #3
+;BSKT1003;#10 BASKET #3;1;EA;1;7.96;0.00;0.00;;Y;;;;52000
+;                                                                                
+^1;4.99;;096096003834;WAVE PETUNIAS #8
+;ANN #8 WV;WAVE PETUNIAS #8;1;EA;1;4.99;0.00;0.00;;Y;;;;79180
+;                                                                                
+^1;9.06;;096096400305;#10 BASKET #3
+;BSKT1003;#10 BASKET #3;1;EA;1;9.06;0.00;0.00;;Y;;;;52075
+;                                                                                
+^1;6.36;;096096400404;#10 BASKET #1
+;BSKT1001;#10 BASKET #1;1;EA;1;6.36;0.00;0.00;;Y;;;;50050
+;                                                                                
+^6;1.64;;096096406604;ANNUAL #6 BASIC
+;ANN #6;ANNUAL #6 BASIC;1;EA;6;9.84;0.00;0.00;;Y;;;;37000
+;                                                                                
+^11;13.00;;096096410144;#12 UPGRADE BASKET
+;BSKT #12;#12 UPGRADE BASKET;1;EA;1;143.00;0.00;0.00;;Y;;;;53000
+;                                                                                
+^14;10.40;;096096500104;#12  DECO POT
+;DECO #12;#12  DECO POT;1;EA;1;145.60;0.00;0.00;;Y;;;;60000
+;                                                                                
+^1;8.56;;096096500135;COLOR BOWL #12
+;BOWL #12;COLOR BOWL #12;1;EA;1;8.56;0.00;0.00;;Y;;;;60200
+;                                                                                
+^1;10.01;;096096500142;COLOR BOWL #14
+;BOWL #14;COLOR BOWL #14;1;EA;1;10.01;0.00;0.00;;Y;;;;60300
+;                                                                                
+^648;0.62;;096096515412;ANNUAL #4 BASIC
+;ANN #4;ANNUAL #4 BASIC;1;EA;18;401.76;0.00;0.00;;Y;;;;31000
+;                                                                                
+^18;1.27;;096096515665;CALADIUM #4 (1801)
+;CALA #4;CALADIUM #4 (1801);1;EA;18;22.86;0.00;0.00;;Y;;;;35100
+;                                                                                
+^10;1.32;;096096522564;STRAWBERRY 4"
+;STRAW #4;STRAWBERRY 4";1;EA;10;13.20;0.00;0.00;;Y;;;;25845
+;                                                                                
+^6;2.99;;096096555050;ANNUAL #6 PREMIUM
+;ANN #6 PRM;ANNUAL #6 PREMIUM;1;EA;6;17.94;0.00;0.00;;Y;;;;39300
+;                                                                                
+^6;4.11;;096096710152;PERENNIAL #1G DELUXE
+;PERE #1 DL;PERENNIAL #1G DELUXE;1;EA;6;24.66;0.00;0.00;;Y;;;;7350
+;                                                                                
+^50;1.32;;096096852043;CHARLEYS HERBS #4
+;HERB #4;CHARLEYS HERBS #4;1;EA;10;66.00;0.00;0.00;;Y;;;;36100
+;                                                                                
+^6;2.99;;096096910668;ANNUAL #6 PREMIUM
+;ANN #6 PRM;ANNUAL #6 PREMIUM;1;EA;6;17.94;0.00;0.00;;Y;;;;39600
+;                                                                                
+Parks Brothers Farm, Inc.;91036
+^N;0.00;;
+2518.65
+1430.00;18.00;156
+39;1430.00
+@
+|

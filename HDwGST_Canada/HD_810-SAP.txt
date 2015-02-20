@@ -1,0 +1,212 @@
+^052006;36066;032806;78944725
+Seacliff Farms;
+0;Invoice;032806;Posted;SEACLIFF;EDI 850;416-664-9800;LB
+;6:30am;;818.00;0.00;0.00;818.00;0.00;7.00;
+7078;10476105RT
+HD7078;H.D. #7078 Steeles & Dufferin;2375 STEELES AVE W;;TORONTO;ON;M3J 3N2    ;7078
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711C;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+2375 STEELES AVE W;;TORONTO;ON;M3J 3N2    
+10175
+0.0;052006;061906;0;30;NET 30
+060520
+^32;13.75;101953;;13" Angelica Collection Plantr
+;SP13Angel;13" Angelica Collection Plantr;1;EA;1;440.00;0.00;0.00;;Y;;
+;                                                                                
+^24;15.75;471774;;23" Angelica Balcony Box
+;ANGEL23;23" Angelica Balcony Box;1;EA;1;378.00;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36066
+^N;0.00;;
+^C;5726.00;;      
+875.26
+56.00;2.00;56
+2;56.00
+@
+^051806;36070;032806;78944743
+Seacliff Farms;
+0;Invoice;032806;Posted;SEACLIFF;EDI 850;416-664-9800;LB
+;9:00am;;1680.70;0.00;0.00;1680.70;0.00;7.00;
+7078;10476105RT
+HD7078;H.D. #7078 Steeles & Dufferin;2375 STEELES AVE W;;TORONTO;ON;M3J 3N2    ;7078
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711C;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+2375 STEELES AVE W;;TORONTO;ON;M3J 3N2    
+10175
+0.0;051806;061706;0;30;NET 30
+060518
+^294;4.25;176408;773502012900;2402 Assorted Annual
+;2402;2402 Assorted Annual;1;EA;1;1249.50;0.00;0.00;;Y;;
+;                                                                                
+^196;2.20;176666;773502012856;4012 Assorted Annual
+;4012;4012 Assorted Annual;1;EA;1;431.20;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36070
+^N;0.00;;
+^C;11764.90;;      
+1798.35
+490.00;4.00;490
+2;490.00
+@
+^051906;36071;032806;78944744
+Seacliff Farms;
+0;Invoice;032806;Posted;SEACLIFF;EDI 850;416-664-9800;LB
+;4:00am;;1623.20;0.00;0.00;1623.20;0.00;7.00;
+7078;10476105RT
+HD7078;H.D. #7078 Steeles & Dufferin;2375 STEELES AVE W;;TORONTO;ON;M3J 3N2    ;7078
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711C;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+2375 STEELES AVE W;;TORONTO;ON;M3J 3N2    
+10175
+0.0;051906;061806;0;30;NET 30
+060519
+^48;7.75;;;10" Hanging Basket
+;SP10HB;10" Hanging Basket;1;EA;1;372.00;0.00;0.00;;Y;;
+;                                                                                
+^32;13.75;102605;;12" Regal Georgian
+;SP12Regal;12" Regal Georgian;1;EA;1;440.00;0.00;0.00;;Y;;
+;                                                                                
+^96;8.45;126148;;10" Hanging Basket
+;SP10HB;10" Hanging Basket;1;EA;1;811.20;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36071
+^N;0.00;;
+^C;11362.40;;      
+1736.82
+176.00;4.00;176
+3;176.00
+@
+^051506;36633;032906;78944772
+Seacliff Farms;
+0;Invoice;032906;Posted;SEACLIFF;EDI 850;416-664-9800;LB
+;9:00am;;1128.00;0.00;0.00;1128.00;0.00;7.00;
+7078;10476105RT
+HD7078;H.D. #7078 Steeles & Dufferin;2375 STEELES AVE W;;TORONTO;ON;M3J 3N2    ;7078
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711C;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+2375 STEELES AVE W;;TORONTO;ON;M3J 3N2    
+10175
+0.0;051506;061406;0;30;NET 30
+060515
+^240;2.35;102329;;5" Optimum Annual
+;SP5Annual;5" Optimum Annual;1;EA;1;564.00;0.00;0.00;;Y;;
+;                                                                                
+^240;2.35;102405;;5" Geranium
+;SP5Granium;5" Geranium;1;EA;1;564.00;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36633
+^N;0.00;;
+^C;7896.00;;      
+1206.96
+480.00;2.00;480
+2;480.00
+@
+^051906;35641;032806;12944723
+Seacliff Farms;
+0;Invoice;032806;Posted;SEACLIFF;EDI 850;905-281-6232;LB
+;4:00am;;2434.40;0.00;0.00;2434.40;0.00;7.00;
+7112;10476105RT
+HD7112;H.D. #7112 South Mississauga;3065 MAVIS ROAD;;MISSISSAUGA;ON;L5C 1T7    ;7112
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711C;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+3065 MAVIS ROAD;;MISSISSAUGA;ON;L5C 1T7    
+10175
+0.0;051906;061806;0;30;NET 30
+060519
+^48;7.75;;;10" Hanging Basket
+;SP10HB;10" Hanging Basket;1;EA;1;372.00;0.00;0.00;;Y;;
+;                                                                                
+^32;13.75;102605;;12" Regal Georgian
+;SP12Regal;12" Regal Georgian;1;EA;1;440.00;0.00;0.00;;Y;;
+;                                                                                
+^192;8.45;126148;;10" Hanging Basket
+;SP10HB;10" Hanging Basket;1;EA;1;1622.40;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;35641
+^N;0.00;;
+^C;17040.80;;      
+2604.81
+272.00;6.00;272
+3;272.00
+@
+^051506;35643;032806;12944725
+Seacliff Farms;
+0;Invoice;032806;Posted;SEACLIFF;EDI 850;905-281-6232;LB
+;1:00pm;;818.00;0.00;0.00;818.00;0.00;7.00;
+7112;10476105RT
+HD7112;H.D. #7112 South Mississauga;3065 MAVIS ROAD;;MISSISSAUGA;ON;L5C 1T7    ;7112
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711C;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+3065 MAVIS ROAD;;MISSISSAUGA;ON;L5C 1T7    
+10175
+0.0;051506;061406;0;30;NET 30
+060515
+^32;13.75;101953;;13" Angelica Collection Plantr
+;SP13Angel;13" Angelica Collection Plantr;1;EA;1;440.00;0.00;0.00;;Y;;
+;                                                                                
+^24;15.75;471774;;23" Angelica Balcony Box
+;ANGEL23;23" Angelica Balcony Box;1;EA;1;378.00;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;35643
+^N;0.00;;
+^C;5726.00;;      
+875.26
+56.00;2.00;56
+2;56.00
+@
+^051606;36334;032906;12944772
+Seacliff Farms;
+0;Invoice;032906;Posted;SEACLIFF;EDI 850;905-281-6232;LB
+;2:00am;;1692.00;0.00;0.00;1692.00;0.00;7.00;
+7112;10476105RT
+HD7112;H.D. #7112 South Mississauga;3065 MAVIS ROAD;;MISSISSAUGA;ON;L5C 1T7    ;7112
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711C;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+3065 MAVIS ROAD;;MISSISSAUGA;ON;L5C 1T7    
+10175
+0.0;051606;061506;0;30;NET 30
+060516
+^480;2.35;102329;;5" Optimum Annual
+;SP5Annual;5" Optimum Annual;1;EA;1;1128.00;0.00;0.00;;Y;;
+;                                                                                
+^240;2.35;102405;;5" Geranium
+;SP5Granium;5" Geranium;1;EA;1;564.00;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36334
+^N;0.00;;
+^C;11844.00;;      
+1810.44
+720.00;3.00;720
+2;720.00
+@
+^051706;36338;032906;12944776
+Seacliff Farms;
+0;Invoice;032906;Posted;SEACLIFF;EDI 850;905-281-6232;LB
+;6:00am;;720.00;0.00;0.00;720.00;0.00;7.00;
+7112;10476105RT
+HD7112;H.D. #7112 South Mississauga;3065 MAVIS ROAD;;MISSISSAUGA;ON;L5C 1T7    ;7112
+HD;Home Depot Canada;A/P Vendor #25010175, Dept.#28;Box 900, Station D;Scarborough;On;M1R 5H8    
+;;;10476105RT;072271711C;;;;;
+451 Seacliff  Dr. W.;Leamington;ON;N8H 4C9    
+3065 MAVIS ROAD;;MISSISSAUGA;ON;L5C 1T7    
+10175
+0.0;051706;061606;0;30;NET 30
+060517
+^180;4.00;403951;;306-PK Jumbo Annual
+;306Annual;306-PK Jumbo Annual;1;EA;1;720.00;0.00;0.00;;Y;;
+;                                                                                
+Seacliff Farms;36338
+^N;0.00;;
+^C;5040.00;;      
+770.40
+180.00;2.00;180
+1;180.00
+@
+|

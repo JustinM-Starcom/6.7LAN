@@ -1,0 +1,13 @@
+^KM3822;77648
+050103
+K-Mart Store #3822;;3822
+230 L Roger Wells Blvd.;Glasglow;KY;42141      
+Dewar Nurseries, Inc.;143
+625 W. Keene Rd.
+Apopka;FL;32703      
+201768549;050103
+77648;
+00000950620000776482
+^484151113;095062000914;Rose 2 Gal;200;0000
+@
+|
