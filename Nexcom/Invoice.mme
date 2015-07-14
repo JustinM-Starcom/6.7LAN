@@ -1,0 +1,12 @@
+M200	WARNING:
+	Map: Invoice   Output: GroupCtrl# Element:GS Segment V4010:IE<>F4010<>Outbound Partner Funct'lGroup ANSI [1]:NEX_810_V4010
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: Transaction   Output: PO# Element:BIG Segment:Transaction_Out
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: Invoice   Output: GroupCtrl# Element:GE Segment V4010:IE<>F4010<>Outbound Partner Funct'lGroup ANSI [1]:NEX_810_V4010
+	Size of input item is greater than size of output item.
+

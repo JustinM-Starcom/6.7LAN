@@ -1,0 +1,8 @@
+M200	WARNING:
+	Map: PO_850   Output: LineNumber Fields:Out
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: PO_SDQ   Output: LineNumber Fields:Out
+	Size of input item is greater than size of output item.
+

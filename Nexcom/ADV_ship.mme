@@ -1,0 +1,12 @@
+M200	WARNING:
+	Map: ADV_ship   Output: Receiver InterchangeIDQual'r Element:ISAPartnerInfo:Partner Outbound ISA Segment Control ANSI:NEX_856_V4010
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: ADV_ship   Output: GroupCtrl# Element:GS Segment V4010:#856<>F4010<>Outbound Partner Funct'lGroup ANSI [1]:NEX_856_V4010
+	Size of input item is greater than size of output item.
+
+M200	WARNING:
+	Map: ADV_ship   Output: GroupCtrl# Element:GE Segment V4010:#856<>F4010<>Outbound Partner Funct'lGroup ANSI [1]:NEX_856_V4010
+	Size of input item is greater than size of output item.
+

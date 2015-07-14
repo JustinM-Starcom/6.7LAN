@@ -1,0 +1,1752 @@
+N;
+^082310;503391;082110;0660-11-9107-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082110;Posted;Our Truck;SC;(805)681-1500;RKW
+;;;648.90;0.00;0.00;648.90;0.00;0.00;
+0660;000011509
+OSH0660;Orchard Supply - #660 Goleta;125 North Fairview;;Goleta;CA;93017      ;660
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+0;0;0;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+125 North Fairview;;Goleta;CA;93017      
+00744
+0.0;092210;092210;30;30;NET 30
+100823
+^288;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;Each;1;509.76;0.00;0.00;;Y;;;;55000
+;                                                                                
+^32;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;Each;1;23.36;0.00;0.00;;Y;;;;40000
+;                                                                                
+^32;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;Each;1;33.28;0.00;0.00;;Y;;;;25100
+;                                                                                
+^75;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;Each;1;82.50;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503391
+^N;0.00;;
+648.90
+427.00;43.00;43
+4;427.00
+@
+N;
+^082310;503392;082110;0660-11-9108-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082110;Posted;Our Truck;SC;(805)681-1500;RKW
+;;;112.64;0.00;0.00;112.64;0.00;0.00;
+0660;000011509
+OSH0660;Orchard Supply - #660 Goleta;125 North Fairview;;Goleta;CA;93017      ;660
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+0;0;0;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+125 North Fairview;;Goleta;CA;93017      
+00744
+0.0;092210;092210;30;30;NET 30
+100823
+^64;1.76;2672541;732336090003;Other Miscellaneous Items
+;OTHER;Quart Pot Perennial;16;Each;1;112.64;0.00;0.00;;Y;;;;37936
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503392
+^N;0.00;;
+112.64
+64.00;4.00;4
+1;64.00
+@
+N;
+^082310;503393;082110;0840-11-8897-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082110;Posted;Our Truck;SC;(818) 363-7557;PS
+;;;731.66;0.00;0.00;731.66;0.00;0.00;
+0840;000011509
+OSH0840;Orchard Supply - #840 GranadaHill;18060 Chatsworth St;;Granada Hills;CA;91344      ;840
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+18060 Chatsworth St;;Granada Hills;CA;91344      
+00744
+0.0;092210;092210;30;30;NET 30
+100823
+^160;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;283.20;0.00;0.00;;Y;;;;55000
+;                                                                                
+^128;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;EACH;1;93.44;0.00;0.00;;Y;;;;40000
+;                                                                                
+^64;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;66.56;0.00;0.00;;Y;;;;25100
+;                                                                                
+^64;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;152.96;0.00;0.00;;Y;;;;37560
+;                                                                                
+^10;4.20;2666303;732336371027;Premium Gallons
+;GALLONP;Asiatic Lily;1;EACH;1;42.00;0.00;0.00;;Y;;;;30115
+;                                                                                
+^4;6.75;2690345;732336170002;Half Flats
+;HALF;Assrt Half Flt Color;2;EACH;1;27.00;0.00;0.00;;Y;;;;70000
+;                                                                                
+^20;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;39.00;0.00;0.00;;Y;;;;36700
+;                                                                                
+^25;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;27.50;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503393
+^N;0.00;;
+731.66
+475.00;69.00;69
+8;475.00
+@
+N;
+^082310;503395;082110;0830-11-8629-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082110;Posted;Our Truck;SC;(714) 835 4440;CFR
+;;;777.60;0.00;0.00;777.60;0.00;0.00;
+0830;000011509
+OSH0830;Orchard Supply - #830 Santa Ana;1975 E 17th Street;;Santa Ana;CA;92701      ;830
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+1975 E 17th Street;;Santa Ana;CA;92701      
+00744
+0.0;092210;092210;30;30;NET 30
+100823
+^240;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;424.80;0.00;0.00;;Y;;;;55000
+;                                                                                
+^96;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;99.84;0.00;0.00;;Y;;;;25100
+;                                                                                
+^64;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;152.96;0.00;0.00;;Y;;;;37560
+;                                                                                
+^10;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;100.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503395
+^N;0.00;;
+777.60
+410.00;50.00;50
+4;410.00
+@
+N;
+^082310;503400;082110;0750-11-9232-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082110;Posted;Our Truck;SC;(805)241-4347;PR
+;;;1799.36;0.00;0.00;1799.36;0.00;0.00;
+0750;000011509
+OSH0750;Orchard Supply - #750 1000 Oaks;1934 E Ave. de Los Arboles;;Thousand Oaks;CA;91362      ;750
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+1934 E Ave. de Los Arboles;;Thousand Oaks;CA;91362      
+00744
+0.0;092210;092210;30;30;NET 30
+100823
+^360;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;637.20;0.00;0.00;;Y;;;;55000
+;                                                                                
+^64;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;EACH;1;46.72;0.00;0.00;;Y;;;;40000
+;                                                                                
+^80;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;83.20;0.00;0.00;;Y;;;;25100
+;                                                                                
+^80;1.80;1787589;732336092007;Premium 4 inch Pots
+;PREM 4;QRT Geran Ivy;16;EACH;1;144.00;0.00;0.00;;Y;;;;25450
+;                                                                                
+^64;2.38;2325652;732336096500;Other Miscellaneous Items
+;OTHER;Quart Pot Mini Rose;16;EACH;1;152.32;0.00;0.00;;Y;;;;37937
+;                                                                                
+^20;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;39.00;0.00;0.00;;Y;;;;35000
+;                                                                                
+^30;2.52;2328110;732336372000;Premium Gallons
+;GALLONP;Geranium Zonal;1;EACH;1;75.60;0.00;0.00;;Y;;;;30600
+;                                                                                
+^15;4.20;2666303;732336371027;Premium Gallons
+;GALLONP;Asiatic Lily;1;EACH;1;63.00;0.00;0.00;;Y;;;;30115
+;                                                                                
+^64;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;152.32;0.00;0.00;;Y;;;;38021
+;                                                                                
+^10;8.50;2692531;732336602503;Other Miscellaneous Items
+;OTHER;Color Bowls 14";1;EACH;1;85.00;0.00;0.00;;Y;;;;37760
+;                                                                                
+^30;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;58.50;0.00;0.00;;Y;;;;35600
+;                                                                                
+^15;12.00;2900454;732336390967;Basket Other
+;BASKETS;12"Bskt Prov Winner;1;EACH;1;180.00;0.00;0.00;;Y;;;;47700
+;                                                                                
+^75;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;82.50;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503400
+^N;0.00;;
+1799.36
+907.00;190.00;190
+13;907.00
+@
+N;
+^082410;503402;082110;0361-11-9033-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082110;Posted;Our Truck;SC;(805) 226-0604;RKW
+;;;742.44;0.00;0.00;742.44;0.00;0.00;
+0361;000011509
+OSH0361;Orchard Supply - #361 Paso Robles;2005 Theater Way;;Paso Robles;CA;93446      ;361
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+2005 Theater Way;;Paso Robles;CA;93446      
+00744
+0.0;092310;092310;30;30;NET 30
+100824
+^256;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;Each;1;453.12;0.00;0.00;;Y;;;;55000
+;                                                                                
+^48;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;Each;1;49.92;0.00;0.00;;Y;;;;25100
+;                                                                                
+^32;1.80;1787589;732336092007;Premium 4 inch Pots
+;PREM 4;QRT Geran Ivy;16;Each;1;57.60;0.00;0.00;;Y;;;;25450
+;                                                                                
+^20;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;Each;1;39.60;0.00;0.00;;Y;;;;30300
+;                                                                                
+^6;8.50;2692531;732336602503;Other Miscellaneous Items
+;OTHER;Color Bowls 14";1;Each;1;51.00;0.00;0.00;;Y;;;;37760
+;                                                                                
+^48;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;Each;1;91.20;0.00;0.00;;Y;;;;37920
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503402
+^N;0.00;;
+742.44
+410.00;66.00;66
+6;410.00
+@
+N;
+^082410;503403;082110;0670-11-9382-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082110;Posted;Our Truck;SC;(805) 473-4050;LR
+;;;635.36;0.00;0.00;635.36;0.00;0.00;
+0670;000011509
+OSH0670;Orchard Supply - #670 Pismo Bch;825 Oak Park Rd;;Pismo Beach;CA;93449      ;670
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+825 Oak Park Rd;;Pismo Beach;CA;93449      
+00744
+0.0;092310;092310;30;30;NET 30
+100824
+^240;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;Each;1;424.80;0.00;0.00;;Y;;;;55000
+;                                                                                
+^32;1.80;1787589;732336092007;Premium 4 inch Pots
+;PREM 4;QRT Geran Ivy;16;Each;1;57.60;0.00;0.00;;Y;;;;25450
+;                                                                                
+^64;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;Each;1;152.96;0.00;0.00;;Y;;;;37560
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503403
+^N;0.00;;
+635.36
+336.00;36.00;36
+3;336.00
+@
+N;
+^082510;503845;082410;0630-11-8059-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082410;Posted;Our Truck;PG;(818)779-7292;NG
+;;;1330.53;0.00;0.00;1330.53;0.00;0.00;
+0630;000011509
+OSH0630;Orchard Supply - #630 Van Nuys;5960 Sepulveda Blvd;;Van Nuys;CA;91411      ;630
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+0;0;0;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+5960 Sepulveda Blvd;;Van Nuys;CA;91411      
+00744
+0.0;092410;092410;30;30;NET 30
+100825
+^32;0.76;0000026;732336200006;4-inch Annual (16)
+;4" ANNUAL;Asst 4" Annual (16);16;EACH;1;24.32;0.00;0.00;;Y;;;;73000
+;                                                                                
+^320;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;566.40;0.00;0.00;;Y;;;;55000
+;                                                                                
+^32;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;EACH;1;23.36;0.00;0.00;;Y;;;;40000
+;                                                                                
+^32;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;33.28;0.00;0.00;;Y;;;;25100
+;                                                                                
+^16;1.80;1787589;732336092007;Premium 4 inch Pots
+;PREM 4;QRT Geran Ivy;16;EACH;1;28.80;0.00;0.00;;Y;;;;25450
+;                                                                                
+^18;2.85;2048528;732336111265;Premium Color Pak
+;PREM CP;Chrysanthemum Garden;6;EACH;1;51.30;0.00;0.00;;Y;;;;18060
+;                                                                                
+^12;4.58;2325199;732336490506;Other Miscellaneous Items
+;OTHER;6" Cyclamen;6;EACH;1;54.96;0.00;0.00;;Y;;;;37660
+;                                                                                
+^25;2.50;2325413;732336370006;Gallons - Individual
+;GALLONS;Asst Gal Perennial;1;EACH;1;62.50;0.00;0.00;;Y;;;;35020
+;                                                                                
+^32;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;76.48;0.00;0.00;;Y;;;;37560
+;                                                                                
+^10;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;19.50;0.00;0.00;;Y;;;;35000
+;                                                                                
+^6;2.52;2328110;732336372000;Premium Gallons
+;GALLONP;Geranium Zonal;1;EACH;1;15.12;0.00;0.00;;Y;;;;30600
+;                                                                                
+^10;2.50;2330041;732336377005;Premium Gallons
+;GALLONP;Impatien-New Guinea;1;EACH;1;25.00;0.00;0.00;;Y;;;;30720
+;                                                                                
+^10;4.20;2666303;732336371027;Premium Gallons
+;GALLONP;Asiatic Lily;1;EACH;1;42.00;0.00;0.00;;Y;;;;30115
+;                                                                                
+^32;1.76;2672541;732336090003;Other Miscellaneous Items
+;OTHER;Quart Pot Perennial;16;EACH;1;56.32;0.00;0.00;;Y;;;;37936
+;                                                                                
+^16;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;38.08;0.00;0.00;;Y;;;;38021
+;                                                                                
+^4;6.75;2690345;732336170002;Half Flats
+;HALF;Assrt Half Flt Color;2;EACH;1;27.00;0.00;0.00;;Y;;;;70000
+;                                                                                
+^16;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;EACH;1;30.40;0.00;0.00;;Y;;;;37920
+;                                                                                
+^8;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;15.60;0.00;0.00;;Y;;;;35600
+;                                                                                
+^15;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;29.25;0.00;0.00;;Y;;;;36700
+;                                                                                
+^3;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;30.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+^16;2.15;2900447;732336338006;Other Miscellaneous Items
+;OTHER;Quart Rice Pot Herb;16;EACH;1;34.40;0.00;0.00;;Y;;;;38022
+;                                                                                
+^8;2.37;2913952;732336260451;Gallons - Individual
+;GALLONS;Assort Herbs;1;EACH;1;18.96;0.00;0.00;;Y;;;;35025
+;                                                                                
+^25;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;27.50;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503845
+^N;0.00;;
+1330.53
+698.00;157.00;157
+23;698.00
+@
+N;
+^082510;503853;082410;0700-11-9071-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082410;Posted;Our Truck;lm;(818)541-7075;RMP
+;;;1902.90;0.00;0.00;1902.90;0.00;0.00;
+0700;000011509
+OSH0700;Orchard Supply - #700 LaCrescenta;3100 Foothill Blvd;;LaCrescenta;CA;91214      ;700
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+3100 Foothill Blvd;;LaCrescenta;CA;91214      
+00744
+0.0;092410;092410;30;30;NET 30
+100825
+^48;0.76;0000026;732336200006;4-inch Annual (16)
+;4" ANNUAL;Asst 4" Annual (16);16;EACH;1;36.48;0.00;0.00;;Y;;;;73000
+;                                                                                
+^240;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;424.80;0.00;0.00;;Y;;;;55000
+;                                                                                
+^64;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;EACH;1;46.72;0.00;0.00;;Y;;;;40000
+;                                                                                
+^64;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;66.56;0.00;0.00;;Y;;;;25100
+;                                                                                
+^32;1.80;1787589;732336092007;Premium 4 inch Pots
+;PREM 4;QRT Geran Ivy;16;EACH;1;57.60;0.00;0.00;;Y;;;;25450
+;                                                                                
+^24;2.85;2048528;732336111265;Premium Color Pak
+;PREM CP;Chrysanthemum Garden;6;EACH;1;68.40;0.00;0.00;;Y;;;;18060
+;                                                                                
+^12;4.58;2325199;732336490506;Other Miscellaneous Items
+;OTHER;6" Cyclamen;6;EACH;1;54.96;0.00;0.00;;Y;;;;37660
+;                                                                                
+^64;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;152.96;0.00;0.00;;Y;;;;37560
+;                                                                                
+^40;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;78.00;0.00;0.00;;Y;;;;35000
+;                                                                                
+^15;2.52;2412815;732336373007;Premium Gallons
+;GALLONP;Geranium Ivy;1;EACH;1;37.80;0.00;0.00;;Y;;;;30560
+;                                                                                
+^10;4.20;2666303;732336371027;Premium Gallons
+;GALLONP;Asiatic Lily;1;EACH;1;42.00;0.00;0.00;;Y;;;;30115
+;                                                                                
+^64;1.76;2672541;732336090003;Other Miscellaneous Items
+;OTHER;Quart Pot Perennial;16;EACH;1;112.64;0.00;0.00;;Y;;;;37936
+;                                                                                
+^32;2.07;2672558;732336080004;Other Miscellaneous Items
+;OTHER;Quart Pot Grass;16;EACH;1;66.24;0.00;0.00;;Y;;;;37935
+;                                                                                
+^48;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;114.24;0.00;0.00;;Y;;;;38021
+;                                                                                
+^6;6.75;2690345;732336170002;Half Flats
+;HALF;Assrt Half Flt Color;2;EACH;1;40.50;0.00;0.00;;Y;;;;70000
+;                                                                                
+^48;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;EACH;1;91.20;0.00;0.00;;Y;;;;37920
+;                                                                                
+^20;2.50;2695823;732336360106;Premium Gallons
+;GALLONP;Bacopa;1;EACH;1;50.00;0.00;0.00;;Y;;;;30165
+;                                                                                
+^20;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;39.00;0.00;0.00;;Y;;;;35600
+;                                                                                
+^20;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;39.00;0.00;0.00;;Y;;;;36700
+;                                                                                
+^5;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;50.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+^32;2.15;2900447;732336338006;Other Miscellaneous Items
+;OTHER;Quart Rice Pot Herb;16;EACH;1;68.80;0.00;0.00;;Y;;;;38022
+;                                                                                
+^150;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;165.00;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503853
+^N;0.00;;
+1902.90
+1058.00;206.00;206
+22;1058.00
+@
+N;
+^082610;503866;082510;0830-11-8632-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082510;Posted;Our Truck;tr;(714) 835 4440;CFR
+;;;887.80;0.00;0.00;887.80;0.00;0.00;
+0830;000011509
+OSH0830;Orchard Supply - #830 Santa Ana;1975 E 17th Street;;Santa Ana;CA;92701      ;830
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+1975 E 17th Street;;Santa Ana;CA;92701      
+00744
+0.0;092510;092510;30;30;NET 30
+100826
+^240;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;424.80;0.00;0.00;;Y;;;;55000
+;                                                                                
+^96;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;EACH;1;70.08;0.00;0.00;;Y;;;;40000
+;                                                                                
+^128;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;133.12;0.00;0.00;;Y;;;;25100
+;                                                                                
+^32;1.77;2563534;732336280008;806 PAK
+;806 PAK;806 Pak Veggies;8;EACH;1;56.64;0.00;0.00;;Y;;;;60680
+;                                                                                
+^6;12.00;2604213;732336597342;Other Miscellaneous Items
+;OTHER;10" Redwd Tub HERB;1;EACH;1;72.00;0.00;0.00;;Y;;;;37952
+;                                                                                
+^32;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;76.16;0.00;0.00;;Y;;;;38021
+;                                                                                
+^50;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;55.00;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503866
+^N;0.00;;
+887.80
+584.00;58.00;58
+7;584.00
+@
+N;
+^082610;503868;082510;0051-11-9489-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082510;Posted;Our Truck;PG;(714) 536-0397;CFR
+;;;1091.68;0.00;0.00;1091.68;0.00;0.00;
+0051;000011509
+OSH0051;Orchard Supply - #051 Hunt Bch;19330 Golden West St;;Huntington Bch;CA;92648      ;51
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+19330 Golden West St;;Huntington Bch;CA;92648      
+00744
+0.0;092510;092510;30;30;NET 30
+100826
+^200;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;354.00;0.00;0.00;;Y;;;;55000
+;                                                                                
+^144;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;149.76;0.00;0.00;;Y;;;;25100
+;                                                                                
+^96;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;229.44;0.00;0.00;;Y;;;;37560
+;                                                                                
+^20;2.50;2330041;732336377005;Premium Gallons
+;GALLONP;Impatien-New Guinea;1;EACH;1;50.00;0.00;0.00;;Y;;;;30720
+;                                                                                
+^96;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;228.48;0.00;0.00;;Y;;;;38021
+;                                                                                
+^8;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;80.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503868
+^N;0.00;;
+1091.68
+564.00;74.00;74
+6;564.00
+@
+N;
+^082610;503871;082510;0790-11-8589-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082510;Posted;Our Truck;PG;(714)964-2282;CFR
+;;;1226.42;0.00;0.00;1226.42;0.00;0.00;
+0790;000011509
+OSH0790;Orchard Supply - #790 Ft Valley;17200 Brookhurst St;;Fountain Valley;CA;92708      ;790
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+17200 Brookhurst St;;Fountain Valley;CA;92708      
+00744
+0.0;092510;092510;30;30;NET 30
+100826
+^200;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;354.00;0.00;0.00;;Y;;;;55000
+;                                                                                
+^64;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;EACH;1;46.72;0.00;0.00;;Y;;;;40000
+;                                                                                
+^128;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;133.12;0.00;0.00;;Y;;;;25100
+;                                                                                
+^96;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;229.44;0.00;0.00;;Y;;;;37560
+;                                                                                
+^30;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;58.50;0.00;0.00;;Y;;;;35000
+;                                                                                
+^30;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;EACH;1;59.40;0.00;0.00;;Y;;;;30300
+;                                                                                
+^48;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;114.24;0.00;0.00;;Y;;;;38021
+;                                                                                
+^80;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;EACH;1;152.00;0.00;0.00;;Y;;;;37920
+;                                                                                
+^10;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;19.50;0.00;0.00;;Y;;;;35600
+;                                                                                
+^10;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;19.50;0.00;0.00;;Y;;;;36700
+;                                                                                
+^4;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;40.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503871
+^N;0.00;;
+1226.42
+700.00;135.00;135
+11;700.00
+@
+N;
+^082610;503872;082510;0650-11-8659-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082510;Posted;Our Truck;tr;(323) 871-1707;RMP
+;;;1506.42;0.00;0.00;1506.42;0.00;0.00;
+0650;000011509
+OSH0650;Orchard Supply - #650 Hollywood;5525 W Sunset Blvd;;Hollywood;CA;90027      ;650
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+0;0;0;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+5525 W Sunset Blvd;;Hollywood;CA;90027      
+00744
+0.0;092510;092510;30;30;NET 30
+100826
+^32;0.76;0000026;732336200006;4-inch Annual (16)
+;4" ANNUAL;Asst 4" Annual (16);16;EACH;1;24.32;0.00;0.00;;Y;;;;73000
+;                                                                                
+^160;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;283.20;0.00;0.00;;Y;;;;55000
+;                                                                                
+^32;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;EACH;1;23.36;0.00;0.00;;Y;;;;40000
+;                                                                                
+^96;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;99.84;0.00;0.00;;Y;;;;25100
+;                                                                                
+^16;1.80;1787589;732336092007;Premium 4 inch Pots
+;PREM 4;QRT Geran Ivy;16;EACH;1;28.80;0.00;0.00;;Y;;;;25450
+;                                                                                
+^16;1.77;2031953;732336287540;806 PAK
+;806 PAK;806 Pak Strawberry;8;EACH;1;28.32;0.00;0.00;;Y;;;;60700
+;                                                                                
+^24;2.85;2048528;732336111265;Premium Color Pak
+;PREM CP;Chrysanthemum Garden;6;EACH;1;68.40;0.00;0.00;;Y;;;;18060
+;                                                                                
+^12;4.58;2325199;732336490506;Other Miscellaneous Items
+;OTHER;6" Cyclamen;6;EACH;1;54.96;0.00;0.00;;Y;;;;37660
+;                                                                                
+^16;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;38.24;0.00;0.00;;Y;;;;37560
+;                                                                                
+^32;2.38;2325652;732336096500;Other Miscellaneous Items
+;OTHER;Quart Pot Mini Rose;16;EACH;1;76.16;0.00;0.00;;Y;;;;37937
+;                                                                                
+^20;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;39.00;0.00;0.00;;Y;;;;35000
+;                                                                                
+^10;2.52;2328110;732336372000;Premium Gallons
+;GALLONP;Geranium Zonal;1;EACH;1;25.20;0.00;0.00;;Y;;;;30600
+;                                                                                
+^30;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;EACH;1;59.40;0.00;0.00;;Y;;;;30300
+;                                                                                
+^10;4.20;2666303;732336371027;Premium Gallons
+;GALLONP;Asiatic Lily;1;EACH;1;42.00;0.00;0.00;;Y;;;;30115
+;                                                                                
+^48;1.76;2672541;732336090003;Other Miscellaneous Items
+;OTHER;Quart Pot Perennial;16;EACH;1;84.48;0.00;0.00;;Y;;;;37936
+;                                                                                
+^16;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;38.08;0.00;0.00;;Y;;;;38021
+;                                                                                
+^2;8.50;2692531;732336602503;Other Miscellaneous Items
+;OTHER;Color Bowls 14";1;EACH;1;17.00;0.00;0.00;;Y;;;;37760
+;                                                                                
+^2;13.58;2692580;732336460004;Other Miscellaneous Items
+;OTHER;12" Pot Proven Winner;1;EACH;1;27.16;0.00;0.00;;Y;;;;37925
+;                                                                                
+^32;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;EACH;1;60.80;0.00;0.00;;Y;;;;37920
+;                                                                                
+^20;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;39.00;0.00;0.00;;Y;;;;35600
+;                                                                                
+^30;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;58.50;0.00;0.00;;Y;;;;36700
+;                                                                                
+^6;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;60.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+^48;2.15;2900447;732336338006;Other Miscellaneous Items
+;OTHER;Quart Rice Pot Herb;16;EACH;1;103.20;0.00;0.00;;Y;;;;38022
+;                                                                                
+^6;12.00;2900454;732336390967;Basket Other
+;BASKETS;12"Bskt Prov Winner;1;EACH;1;72.00;0.00;0.00;;Y;;;;47700
+;                                                                                
+^50;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;55.00;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503872
+^N;0.00;;
+1506.42
+766.00;189.00;189
+25;766.00
+@
+N;
+^082610;503876;082510;0780-11-8492-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082510;Posted;Our Truck;LM;(909)948-2888;BEB
+;;;1074.00;0.00;0.00;1074.00;0.00;0.00;
+0780;000011509
+OSH0780;Orchard Supply - #780 R Cucamon;9080 Foothill Blvd;;Rnch Cucamonga;CA;91730      ;780
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+9080 Foothill Blvd;;Rnch Cucamonga;CA;91730      
+00744
+0.0;092510;092510;30;30;NET 30
+100826
+^120;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;212.40;0.00;0.00;;Y;;;;55000
+;                                                                                
+^384;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;399.36;0.00;0.00;;Y;;;;25100
+;                                                                                
+^48;1.80;1787589;732336092007;Premium 4 inch Pots
+;PREM 4;QRT Geran Ivy;16;EACH;1;86.40;0.00;0.00;;Y;;;;25450
+;                                                                                
+^32;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;76.48;0.00;0.00;;Y;;;;37560
+;                                                                                
+^32;2.38;2325652;732336096500;Other Miscellaneous Items
+;OTHER;Quart Pot Mini Rose;16;EACH;1;76.16;0.00;0.00;;Y;;;;37937
+;                                                                                
+^48;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;EACH;1;91.20;0.00;0.00;;Y;;;;37920
+;                                                                                
+^6;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;60.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+^6;12.00;2900454;732336390967;Basket Other
+;BASKETS;12"Bskt Prov Winner;1;EACH;1;72.00;0.00;0.00;;Y;;;;47700
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503876
+^N;0.00;;
+1074.00
+676.00;61.00;61
+8;676.00
+@
+N;
+^082710;503870;082510;0670-11-9386-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082510;Posted;Our Truck;LM;(805) 473-4050;LR
+;;;800.42;0.00;0.00;800.42;0.00;0.00;
+0670;000011509
+OSH0670;Orchard Supply - #670 Pismo Bch;825 Oak Park Rd;;Pismo Beach;CA;93449      ;670
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+825 Oak Park Rd;;Pismo Beach;CA;93449      
+00744
+0.0;092610;092610;30;30;NET 30
+100827
+^200;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;Each;1;354.00;0.00;0.00;;Y;;;;55000
+;                                                                                
+^32;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;Each;1;33.28;0.00;0.00;;Y;;;;25100
+;                                                                                
+^15;2.90;2324523;732336376008;Premium Gallons
+;GALLONP;Gerbera Dwarf;1;Each;1;43.50;0.00;0.00;;Y;;;;30620
+;                                                                                
+^32;2.38;2325652;732336096500;Other Miscellaneous Items
+;OTHER;Quart Pot Mini Rose;16;Each;1;76.16;0.00;0.00;;Y;;;;37937
+;                                                                                
+^15;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;Each;1;29.25;0.00;0.00;;Y;;;;35000
+;                                                                                
+^16;1.76;2672541;732336090003;Other Miscellaneous Items
+;OTHER;Quart Pot Perennial;16;Each;1;28.16;0.00;0.00;;Y;;;;37936
+;                                                                                
+^16;2.07;2672558;732336080004;Other Miscellaneous Items
+;OTHER;Quart Pot Grass;16;Each;1;33.12;0.00;0.00;;Y;;;;37935
+;                                                                                
+^48;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;Each;1;91.20;0.00;0.00;;Y;;;;37920
+;                                                                                
+^15;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;Each;1;29.25;0.00;0.00;;Y;;;;35600
+;                                                                                
+^75;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;Each;1;82.50;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;503870
+^N;0.00;;
+800.42
+464.00;82.00;82
+10;464.00
+@
+N;
+^082710;504042;082610;0750-11-9236-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082610;Posted;Our Truck;PG;(805)241-4347;PR
+;;;1023.82;0.00;0.00;1023.82;0.00;0.00;
+0750;000011509
+OSH0750;Orchard Supply - #750 1000 Oaks;1934 E Ave. de Los Arboles;;Thousand Oaks;CA;91362      ;750
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+1934 E Ave. de Los Arboles;;Thousand Oaks;CA;91362      
+00744
+0.0;092610;092610;30;30;NET 30
+100827
+^216;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;382.32;0.00;0.00;;Y;;;;55000
+;                                                                                
+^50;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;97.50;0.00;0.00;;Y;;;;35000
+;                                                                                
+^25;2.52;2328110;732336372000;Premium Gallons
+;GALLONP;Geranium Zonal;1;EACH;1;63.00;0.00;0.00;;Y;;;;30600
+;                                                                                
+^24;6.75;2690345;732336170002;Half Flats
+;HALF;Assrt Half Flt Color;2;EACH;1;162.00;0.00;0.00;;Y;;;;70000
+;                                                                                
+^10;8.50;2692531;732336602503;Other Miscellaneous Items
+;OTHER;Color Bowls 14";1;EACH;1;85.00;0.00;0.00;;Y;;;;37760
+;                                                                                
+^20;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;39.00;0.00;0.00;;Y;;;;35600
+;                                                                                
+^100;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;195.00;0.00;0.00;;Y;;;;36700
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504042
+^N;0.00;;
+1023.82
+445.00;244.00;244
+7;445.00
+@
+N;
+^082710;504091;082610;0720-11-9889-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082610;Posted;Our Truck;lm;(818) 883-6788;NG
+;;;1068.46;0.00;0.00;1068.46;0.00;0.00;
+0720;000011509
+OSH0720;Orchard Supply - #720 Canoga;22741 Victory Blvd;;Canoga Park;CA;91304      ;720
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+22741 Victory Blvd;;Canoga Park;CA;91304      
+00744
+0.0;092610;092610;30;30;NET 30
+100827
+^16;0.76;0000026;732336200006;4-inch Annual (16)
+;4" ANNUAL;Asst 4" Annual (16);16;EACH;1;12.16;0.00;0.00;;Y;;;;73000
+;                                                                                
+^192;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;339.84;0.00;0.00;;Y;;;;55000
+;                                                                                
+^64;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;66.56;0.00;0.00;;Y;;;;25100
+;                                                                                
+^16;1.77;2031953;732336287540;806 PAK
+;806 PAK;806 Pak Strawberry;8;EACH;1;28.32;0.00;0.00;;Y;;;;60700
+;                                                                                
+^18;2.85;2048528;732336111265;Premium Color Pak
+;PREM CP;Chrysanthemum Garden;6;EACH;1;51.30;0.00;0.00;;Y;;;;18060
+;                                                                                
+^6;4.58;2325199;732336490506;Other Miscellaneous Items
+;OTHER;6" Cyclamen;6;EACH;1;27.48;0.00;0.00;;Y;;;;37660
+;                                                                                
+^8;2.50;2325413;732336370006;Gallons - Individual
+;GALLONS;Asst Gal Perennial;1;EACH;1;20.00;0.00;0.00;;Y;;;;35020
+;                                                                                
+^64;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;152.96;0.00;0.00;;Y;;;;37560
+;                                                                                
+^12;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;23.40;0.00;0.00;;Y;;;;35000
+;                                                                                
+^8;2.52;2328110;732336372000;Premium Gallons
+;GALLONP;Geranium Zonal;1;EACH;1;20.16;0.00;0.00;;Y;;;;30600
+;                                                                                
+^16;2.50;2330041;732336377005;Premium Gallons
+;GALLONP;Impatien-New Guinea;1;EACH;1;40.00;0.00;0.00;;Y;;;;30720
+;                                                                                
+^14;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;EACH;1;27.72;0.00;0.00;;Y;;;;30300
+;                                                                                
+^4;2.52;2412815;732336373007;Premium Gallons
+;GALLONP;Geranium Ivy;1;EACH;1;10.08;0.00;0.00;;Y;;;;30560
+;                                                                                
+^16;1.76;2672541;732336090003;Other Miscellaneous Items
+;OTHER;Quart Pot Perennial;16;EACH;1;28.16;0.00;0.00;;Y;;;;37936
+;                                                                                
+^16;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;38.08;0.00;0.00;;Y;;;;38021
+;                                                                                
+^32;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;EACH;1;60.80;0.00;0.00;;Y;;;;37920
+;                                                                                
+^14;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;27.30;0.00;0.00;;Y;;;;36700
+;                                                                                
+^16;2.15;2900447;732336338006;Other Miscellaneous Items
+;OTHER;Quart Rice Pot Herb;16;EACH;1;34.40;0.00;0.00;;Y;;;;38022
+;                                                                                
+^2;2.37;2913952;732336260451;Gallons - Individual
+;GALLONS;Assort Herbs;1;EACH;1;4.74;0.00;0.00;;Y;;;;35025
+;                                                                                
+^50;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;55.00;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504091
+^N;0.00;;
+1068.46
+584.00;124.00;124
+20;584.00
+@
+N;
+^082710;504092;082610;0700-11-9076-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082610;Posted;Our Truck;tr;(818)541-7075;RMP
+;;;556.32;0.00;0.00;556.32;0.00;0.00;
+0700;000011509
+OSH0700;Orchard Supply - #700 LaCrescenta;3100 Foothill Blvd;;LaCrescenta;CA;91214      ;700
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+3100 Foothill Blvd;;LaCrescenta;CA;91214      
+00744
+0.0;092610;092610;30;30;NET 30
+100827
+^240;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;424.80;0.00;0.00;;Y;;;;55000
+;                                                                                
+^10;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;19.50;0.00;0.00;;Y;;;;35000
+;                                                                                
+^10;2.52;2412815;732336373007;Premium Gallons
+;GALLONP;Geranium Ivy;1;EACH;1;25.20;0.00;0.00;;Y;;;;30560
+;                                                                                
+^16;1.77;2563534;732336280008;806 PAK
+;806 PAK;806 Pak Veggies;8;EACH;1;28.32;0.00;0.00;;Y;;;;60680
+;                                                                                
+^10;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;19.50;0.00;0.00;;Y;;;;35600
+;                                                                                
+^10;1.95;2710275;732336352651;Gallons - Individual
+;GALLONS;Snapdragon;1;EACH;1;19.50;0.00;0.00;;Y;;;;36460
+;                                                                                
+^10;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;19.50;0.00;0.00;;Y;;;;36700
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504092
+^N;0.00;;
+556.32
+306.00;82.00;82
+7;306.00
+@
+N;
+^082710;504194;082610;0610-11-9974-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082610;Posted;Our Truck;tr;(626)403-8115;RMP
+;;;2018.64;0.00;0.00;2018.64;0.00;0.00;
+0610;000011509
+OSH0610;Orchard Supply - #610 So Pasadena;452 Fair Oaks Ave;;South Pasadena;CA;91030      ;610
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+0;0;0;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+452 Fair Oaks Ave;;South Pasadena;CA;91030      
+00744
+0.0;092610;092610;30;30;NET 30
+100827
+^32;0.76;0000026;732336200006;4-inch Annual (16)
+;4" ANNUAL;Asst 4" Annual (16);16;EACH;1;24.32;0.00;0.00;;Y;;;;73000
+;                                                                                
+^160;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;283.20;0.00;0.00;;Y;;;;55000
+;                                                                                
+^64;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;EACH;1;46.72;0.00;0.00;;Y;;;;40000
+;                                                                                
+^128;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;133.12;0.00;0.00;;Y;;;;25100
+;                                                                                
+^32;1.77;2031953;732336287540;806 PAK
+;806 PAK;806 Pak Strawberry;8;EACH;1;56.64;0.00;0.00;;Y;;;;60700
+;                                                                                
+^24;2.85;2048528;732336111265;Premium Color Pak
+;PREM CP;Chrysanthemum Garden;6;EACH;1;68.40;0.00;0.00;;Y;;;;18060
+;                                                                                
+^12;4.58;2325199;732336490506;Other Miscellaneous Items
+;OTHER;6" Cyclamen;6;EACH;1;54.96;0.00;0.00;;Y;;;;37660
+;                                                                                
+^30;2.50;2325413;732336370006;Gallons - Individual
+;GALLONS;Asst Gal Perennial;1;EACH;1;75.00;0.00;0.00;;Y;;;;35020
+;                                                                                
+^80;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;191.20;0.00;0.00;;Y;;;;37560
+;                                                                                
+^50;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;97.50;0.00;0.00;;Y;;;;35000
+;                                                                                
+^10;2.52;2328110;732336372000;Premium Gallons
+;GALLONP;Geranium Zonal;1;EACH;1;25.20;0.00;0.00;;Y;;;;30600
+;                                                                                
+^50;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;EACH;1;99.00;0.00;0.00;;Y;;;;30300
+;                                                                                
+^2;7.25;2421444;732336601001;Other Miscellaneous Items
+;OTHER;Color Bowls 12";1;EACH;1;14.50;0.00;0.00;;Y;;;;37740
+;                                                                                
+^4;12.00;2604213;732336597342;Other Miscellaneous Items
+;OTHER;10" Redwd Tub HERB;1;EACH;1;48.00;0.00;0.00;;Y;;;;37952
+;                                                                                
+^64;1.76;2672541;732336090003;Other Miscellaneous Items
+;OTHER;Quart Pot Perennial;16;EACH;1;112.64;0.00;0.00;;Y;;;;37936
+;                                                                                
+^48;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;114.24;0.00;0.00;;Y;;;;38021
+;                                                                                
+^4;6.75;2690345;732336170002;Half Flats
+;HALF;Assrt Half Flt Color;2;EACH;1;27.00;0.00;0.00;;Y;;;;70000
+;                                                                                
+^2;10.62;2692499;732336480019;Other Miscellaneous Items
+;OTHER;10" Cache Perennial;1;EACH;1;21.24;0.00;0.00;;Y;;;;38018
+;                                                                                
+^2;8.50;2692531;732336602503;Other Miscellaneous Items
+;OTHER;Color Bowls 14";1;EACH;1;17.00;0.00;0.00;;Y;;;;37760
+;                                                                                
+^2;13.58;2692580;732336460004;Other Miscellaneous Items
+;OTHER;12" Pot Proven Winner;1;EACH;1;27.16;0.00;0.00;;Y;;;;37925
+;                                                                                
+^32;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;EACH;1;60.80;0.00;0.00;;Y;;;;37920
+;                                                                                
+^20;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;39.00;0.00;0.00;;Y;;;;35600
+;                                                                                
+^10;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;19.50;0.00;0.00;;Y;;;;36700
+;                                                                                
+^6;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;60.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+^32;2.15;2900447;732336338006;Other Miscellaneous Items
+;OTHER;Quart Rice Pot Herb;16;EACH;1;68.80;0.00;0.00;;Y;;;;38022
+;                                                                                
+^8;12.00;2900454;732336390967;Basket Other
+;BASKETS;12"Bskt Prov Winner;1;EACH;1;96.00;0.00;0.00;;Y;;;;47700
+;                                                                                
+^125;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;137.50;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504194
+^N;0.00;;
+2018.64
+1033.00;263.00;263
+27;1033.00
+@
+N;
+^082710;504198;082610;0840-11-8902-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082610;Posted;Our Truck;PG;(818) 363-7557;PS
+;;;633.68;0.00;0.00;633.68;0.00;0.00;
+0840;000011509
+OSH0840;Orchard Supply - #840 GranadaHill;18060 Chatsworth St;;Granada Hills;CA;91344      ;840
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+18060 Chatsworth St;;Granada Hills;CA;91344      
+00744
+0.0;092610;092610;30;30;NET 30
+100827
+^80;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;141.60;0.00;0.00;;Y;;;;55000
+;                                                                                
+^32;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;33.28;0.00;0.00;;Y;;;;25100
+;                                                                                
+^64;1.77;2031953;732336287540;806 PAK
+;806 PAK;806 Pak Strawberry;8;EACH;1;113.28;0.00;0.00;;Y;;;;60700
+;                                                                                
+^36;2.85;2048528;732336111265;Premium Color Pak
+;PREM CP;Chrysanthemum Garden;6;EACH;1;102.60;0.00;0.00;;Y;;;;18060
+;                                                                                
+^40;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;78.00;0.00;0.00;;Y;;;;35000
+;                                                                                
+^10;2.50;2330041;732336377005;Premium Gallons
+;GALLONP;Impatien-New Guinea;1;EACH;1;25.00;0.00;0.00;;Y;;;;30720
+;                                                                                
+^30;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;EACH;1;59.40;0.00;0.00;;Y;;;;30300
+;                                                                                
+^10;2.52;2412815;732336373007;Premium Gallons
+;GALLONP;Geranium Ivy;1;EACH;1;25.20;0.00;0.00;;Y;;;;30560
+;                                                                                
+^16;1.77;2563534;732336280008;806 PAK
+;806 PAK;806 Pak Veggies;8;EACH;1;28.32;0.00;0.00;;Y;;;;60680
+;                                                                                
+^4;6.75;2690345;732336170002;Half Flats
+;HALF;Assrt Half Flt Color;2;EACH;1;27.00;0.00;0.00;;Y;;;;70000
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504198
+^N;0.00;;
+633.68
+322.00;120.00;120
+10;322.00
+@
+N;
+^082710;504201;082610;0730-11-9033-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082610;Posted;Our Truck;PG;(310)375-3077;BL
+;;;2082.35;0.00;0.00;2082.35;0.00;0.00;
+0730;000011509
+OSH0730;Orchard Supply - #730 RPV;4340 Pacific Coast Hwy;;Torrance;CA;90505      ;730
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+4340 Pacific Coast Hwy;;Torrance;CA;90505      
+00744
+0.0;092610;092610;30;30;NET 30
+100827
+^480;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;849.60;0.00;0.00;;Y;;;;55000
+;                                                                                
+^64;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;EACH;1;46.72;0.00;0.00;;Y;;;;40000
+;                                                                                
+^160;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;166.40;0.00;0.00;;Y;;;;25100
+;                                                                                
+^32;1.77;2031953;732336287540;806 PAK
+;806 PAK;806 Pak Strawberry;8;EACH;1;56.64;0.00;0.00;;Y;;;;60700
+;                                                                                
+^24;2.85;2048528;732336111265;Premium Color Pak
+;PREM CP;Chrysanthemum Garden;6;EACH;1;68.40;0.00;0.00;;Y;;;;18060
+;                                                                                
+^48;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;114.72;0.00;0.00;;Y;;;;37560
+;                                                                                
+^16;2.38;2325652;732336096500;Other Miscellaneous Items
+;OTHER;Quart Pot Mini Rose;16;EACH;1;38.08;0.00;0.00;;Y;;;;37937
+;                                                                                
+^24;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;46.80;0.00;0.00;;Y;;;;35000
+;                                                                                
+^35;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;EACH;1;69.30;0.00;0.00;;Y;;;;30300
+;                                                                                
+^3;12.00;2604213;732336597342;Other Miscellaneous Items
+;OTHER;10" Redwd Tub HERB;1;EACH;1;36.00;0.00;0.00;;Y;;;;37952
+;                                                                                
+^48;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;114.24;0.00;0.00;;Y;;;;38021
+;                                                                                
+^10;6.25;2686897;732336437563;Vegetables - 1 gallon
+;VEGETGAL;2-Gal Tomato/ Veg;1;EACH;1;62.50;0.00;0.00;;Y;;;;45010
+;                                                                                
+^6;6.75;2690345;732336170002;Half Flats
+;HALF;Assrt Half Flt Color;2;EACH;1;40.50;0.00;0.00;;Y;;;;70000
+;                                                                                
+^16;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;EACH;1;30.40;0.00;0.00;;Y;;;;37920
+;                                                                                
+^30;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;58.50;0.00;0.00;;Y;;;;35600
+;                                                                                
+^9;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;90.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+^4;12.00;2900454;732336390967;Basket Other
+;BASKETS;12"Bskt Prov Winner;1;EACH;1;48.00;0.00;0.00;;Y;;;;47700
+;                                                                                
+^15;2.37;2913952;732336260451;Gallons - Individual
+;GALLONS;Assort Herbs;1;EACH;1;35.55;0.00;0.00;;Y;;;;35025
+;                                                                                
+^100;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;110.00;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504201
+^N;0.00;;
+2082.35
+1124.00;227.00;227
+19;1124.00
+@
+N;
+^082710;504203;082610;0660-11-9115-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082610;Posted;Our Truck;lm;(805)681-1500;RKW
+;;;1140.99;0.00;0.00;1140.99;0.00;0.00;
+0660;000011509
+OSH0660;Orchard Supply - #660 Goleta;125 North Fairview;;Goleta;CA;93017      ;660
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+0;0;0;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+125 North Fairview;;Goleta;CA;93017      
+00744
+0.0;092610;092610;30;30;NET 30
+100827
+^16;0.76;0000026;732336200006;4-inch Annual (16)
+;4" ANNUAL;Asst 4" Annual (16);16;Each;1;12.16;0.00;0.00;;Y;;;;73000
+;                                                                                
+^312;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;Each;1;552.24;0.00;0.00;;Y;;;;55000
+;                                                                                
+^32;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;Each;1;33.28;0.00;0.00;;Y;;;;25100
+;                                                                                
+^64;1.80;1787589;732336092007;Premium 4 inch Pots
+;PREM 4;QRT Geran Ivy;16;Each;1;115.20;0.00;0.00;;Y;;;;25450
+;                                                                                
+^48;1.77;2031953;732336287540;806 PAK
+;806 PAK;806 Pak Strawberry;8;Each;1;84.96;0.00;0.00;;Y;;;;60700
+;                                                                                
+^25;2.50;2330041;732336377005;Premium Gallons
+;GALLONP;Impatien-New Guinea;1;Each;1;62.50;0.00;0.00;;Y;;;;30720
+;                                                                                
+^20;2.52;2412815;732336373007;Premium Gallons
+;GALLONP;Geranium Ivy;1;Each;1;50.40;0.00;0.00;;Y;;;;30560
+;                                                                                
+^20;2.50;2603736;732336354006;Premium Gallons
+;GALLONP;Impatien-Doubles;1;Each;1;50.00;0.00;0.00;;Y;;;;30700
+;                                                                                
+^5;6.25;2686897;732336437563;Vegetables - 1 gallon
+;VEGETGAL;2-Gal Tomato/ Veg;1;Each;1;31.25;0.00;0.00;;Y;;;;45010
+;                                                                                
+^20;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;Each;1;39.00;0.00;0.00;;Y;;;;35600
+;                                                                                
+^100;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;Each;1;110.00;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504203
+^N;0.00;;
+1140.99
+662.00;146.00;146
+11;662.00
+@
+N;
+^082710;504206;082610;0590-11-9164-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082610;Posted;Our Truck;PG;(626)395-7115;RMP
+;;;2215.20;0.00;0.00;2215.20;0.00;0.00;
+0590;000011509
+OSH0590;Orchard Supply - #590 Pasadena;3425 E Colorado Blvd;;Pasadena;CA;91107      ;590
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+0;0;0;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+3425 E Colorado Blvd;;Pasadena;CA;91107      
+00744
+0.0;092610;092610;30;30;NET 30
+100827
+^32;0.76;0000026;732336200006;4-inch Annual (16)
+;4" ANNUAL;Asst 4" Annual (16);16;EACH;1;24.32;0.00;0.00;;Y;;;;73000
+;                                                                                
+^400;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;708.00;0.00;0.00;;Y;;;;55000
+;                                                                                
+^32;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;EACH;1;23.36;0.00;0.00;;Y;;;;40000
+;                                                                                
+^160;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;166.40;0.00;0.00;;Y;;;;25100
+;                                                                                
+^16;1.77;2031953;732336287540;806 PAK
+;806 PAK;806 Pak Strawberry;8;EACH;1;28.32;0.00;0.00;;Y;;;;60700
+;                                                                                
+^6;2.51;2032688;732336371850;Premium Gallons
+;GALLONP;Ornamental Grass;1;EA;1;15.06;0.00;0.00;;Y;;;;30923
+;                                                                                
+^48;2.85;2048528;732336111265;Premium Color Pak
+;PREM CP;Chrysanthemum Garden;6;EACH;1;136.80;0.00;0.00;;Y;;;;18060
+;                                                                                
+^20;2.50;2325413;732336370006;Gallons - Individual
+;GALLONS;Asst Gal Perennial;1;EACH;1;50.00;0.00;0.00;;Y;;;;35020
+;                                                                                
+^48;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;114.72;0.00;0.00;;Y;;;;37560
+;                                                                                
+^30;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;58.50;0.00;0.00;;Y;;;;35000
+;                                                                                
+^15;2.52;2328110;732336372000;Premium Gallons
+;GALLONP;Geranium Zonal;1;EACH;1;37.80;0.00;0.00;;Y;;;;30600
+;                                                                                
+^10;2.50;2330041;732336377005;Premium Gallons
+;GALLONP;Impatien-New Guinea;1;EACH;1;25.00;0.00;0.00;;Y;;;;30720
+;                                                                                
+^40;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;EACH;1;79.20;0.00;0.00;;Y;;;;30300
+;                                                                                
+^5;12.00;2604213;732336597342;Other Miscellaneous Items
+;OTHER;10" Redwd Tub HERB;1;EACH;1;60.00;0.00;0.00;;Y;;;;37952
+;                                                                                
+^48;1.76;2672541;732336090003;Other Miscellaneous Items
+;OTHER;Quart Pot Perennial;16;EACH;1;84.48;0.00;0.00;;Y;;;;37936
+;                                                                                
+^48;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;114.24;0.00;0.00;;Y;;;;38021
+;                                                                                
+^3;8.50;2692531;732336602503;Other Miscellaneous Items
+;OTHER;Color Bowls 14";1;EACH;1;25.50;0.00;0.00;;Y;;;;37760
+;                                                                                
+^64;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;EACH;1;121.60;0.00;0.00;;Y;;;;37920
+;                                                                                
+^20;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;39.00;0.00;0.00;;Y;;;;35600
+;                                                                                
+^30;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;58.50;0.00;0.00;;Y;;;;36700
+;                                                                                
+^10;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;100.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+^16;2.15;2900447;732336338006;Other Miscellaneous Items
+;OTHER;Quart Rice Pot Herb;16;EACH;1;34.40;0.00;0.00;;Y;;;;38022
+;                                                                                
+^100;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;110.00;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504206
+^N;0.00;;
+2215.20
+1201.00;281.00;281
+23;1201.00
+@
+N;
+^082710;504207;082610;0071-11-8750-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082610;Posted;Our Truck;tr;(323) 930-6060;BL
+;;;1639.28;0.00;0.00;1639.28;0.00;0.00;
+0071;000011509
+OSH0071;Orchard Supply - #071 Los Angeles;4801 W Venice Blvd;;Los Angeles;CA;90019      ;71
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+4801 W Venice Blvd;;Los Angeles;CA;90019      
+00744
+0.0;092610;092610;30;30;NET 30
+100827
+^336;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;594.72;0.00;0.00;;Y;;;;55000
+;                                                                                
+^64;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;EACH;1;46.72;0.00;0.00;;Y;;;;40000
+;                                                                                
+^128;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;133.12;0.00;0.00;;Y;;;;25100
+;                                                                                
+^32;1.77;2031953;732336287540;806 PAK
+;806 PAK;806 Pak Strawberry;8;EACH;1;56.64;0.00;0.00;;Y;;;;60700
+;                                                                                
+^25;2.51;2032688;732336371850;Premium Gallons
+;GALLONP;Ornamental Grass;1;EA;1;62.75;0.00;0.00;;Y;;;;30923
+;                                                                                
+^48;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;114.72;0.00;0.00;;Y;;;;37560
+;                                                                                
+^25;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;48.75;0.00;0.00;;Y;;;;35000
+;                                                                                
+^25;2.52;2328110;732336372000;Premium Gallons
+;GALLONP;Geranium Zonal;1;EACH;1;63.00;0.00;0.00;;Y;;;;30600
+;                                                                                
+^10;2.50;2330041;732336377005;Premium Gallons
+;GALLONP;Impatien-New Guinea;1;EACH;1;25.00;0.00;0.00;;Y;;;;30720
+;                                                                                
+^35;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;EACH;1;69.30;0.00;0.00;;Y;;;;30300
+;                                                                                
+^4;12.00;2604213;732336597342;Other Miscellaneous Items
+;OTHER;10" Redwd Tub HERB;1;EACH;1;48.00;0.00;0.00;;Y;;;;37952
+;                                                                                
+^32;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;76.16;0.00;0.00;;Y;;;;38021
+;                                                                                
+^10;6.25;2686897;732336437563;Vegetables - 1 gallon
+;VEGETGAL;2-Gal Tomato/ Veg;1;EACH;1;62.50;0.00;0.00;;Y;;;;45010
+;                                                                                
+^6;6.75;2690345;732336170002;Half Flats
+;HALF;Assrt Half Flt Color;2;EACH;1;40.50;0.00;0.00;;Y;;;;70000
+;                                                                                
+^4;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;40.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+^20;2.37;2913952;732336260451;Gallons - Individual
+;GALLONS;Assort Herbs;1;EACH;1;47.40;0.00;0.00;;Y;;;;35025
+;                                                                                
+^100;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;110.00;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504207
+^N;0.00;;
+1639.28
+904.00;228.00;228
+17;904.00
+@
+N;
+^082710;504213;082610;0630-11-8068-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082610;Posted;Our Truck;LM;(818)779-7292;NG
+;;;988.90;0.00;0.00;988.90;0.00;0.00;
+0630;000011509
+OSH0630;Orchard Supply - #630 Van Nuys;5960 Sepulveda Blvd;;Van Nuys;CA;91411      ;630
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+0;0;0;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+5960 Sepulveda Blvd;;Van Nuys;CA;91411      
+00744
+0.0;092610;092610;30;30;NET 30
+100827
+^160;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;283.20;0.00;0.00;;Y;;;;55000
+;                                                                                
+^16;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;16.64;0.00;0.00;;Y;;;;25100
+;                                                                                
+^16;1.77;2031953;732336287540;806 PAK
+;806 PAK;806 Pak Strawberry;8;EACH;1;28.32;0.00;0.00;;Y;;;;60700
+;                                                                                
+^6;2.90;2324523;732336376008;Premium Gallons
+;GALLONP;Gerbera Dwarf;1;EACH;1;17.40;0.00;0.00;;Y;;;;30620
+;                                                                                
+^6;4.58;2325199;732336490506;Other Miscellaneous Items
+;OTHER;6" Cyclamen;6;EACH;1;27.48;0.00;0.00;;Y;;;;37660
+;                                                                                
+^9;2.50;2325413;732336370006;Gallons - Individual
+;GALLONS;Asst Gal Perennial;1;EACH;1;22.50;0.00;0.00;;Y;;;;35020
+;                                                                                
+^16;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;38.24;0.00;0.00;;Y;;;;37560
+;                                                                                
+^16;2.38;2325652;732336096500;Other Miscellaneous Items
+;OTHER;Quart Pot Mini Rose;16;EACH;1;38.08;0.00;0.00;;Y;;;;37937
+;                                                                                
+^12;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;23.40;0.00;0.00;;Y;;;;35000
+;                                                                                
+^8;2.52;2328110;732336372000;Premium Gallons
+;GALLONP;Geranium Zonal;1;EACH;1;20.16;0.00;0.00;;Y;;;;30600
+;                                                                                
+^8;2.50;2330041;732336377005;Premium Gallons
+;GALLONP;Impatien-New Guinea;1;EACH;1;20.00;0.00;0.00;;Y;;;;30720
+;                                                                                
+^15;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;EACH;1;29.70;0.00;0.00;;Y;;;;30300
+;                                                                                
+^6;2.52;2412815;732336373007;Premium Gallons
+;GALLONP;Geranium Ivy;1;EACH;1;15.12;0.00;0.00;;Y;;;;30560
+;                                                                                
+^16;1.77;2563534;732336280008;806 PAK
+;806 PAK;806 Pak Veggies;8;EACH;1;28.32;0.00;0.00;;Y;;;;60680
+;                                                                                
+^4;12.00;2604213;732336597342;Other Miscellaneous Items
+;OTHER;10" Redwd Tub HERB;1;EACH;1;48.00;0.00;0.00;;Y;;;;37952
+;                                                                                
+^4;4.20;2666303;732336371027;Premium Gallons
+;GALLONP;Asiatic Lily;1;EACH;1;16.80;0.00;0.00;;Y;;;;30115
+;                                                                                
+^16;2.07;2672558;732336080004;Other Miscellaneous Items
+;OTHER;Quart Pot Grass;16;EACH;1;33.12;0.00;0.00;;Y;;;;37935
+;                                                                                
+^16;2.38;2672566;732336093004;Other Miscellaneous Items
+;OTHER;Quart Pot Succulent;16;EACH;1;38.08;0.00;0.00;;Y;;;;38021
+;                                                                                
+^48;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;EACH;1;91.20;0.00;0.00;;Y;;;;37920
+;                                                                                
+^6;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;11.70;0.00;0.00;;Y;;;;35600
+;                                                                                
+^14;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;27.30;0.00;0.00;;Y;;;;36700
+;                                                                                
+^2;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;20.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+^16;2.15;2900447;732336338006;Other Miscellaneous Items
+;OTHER;Quart Rice Pot Herb;16;EACH;1;34.40;0.00;0.00;;Y;;;;38022
+;                                                                                
+^2;2.37;2913952;732336260451;Gallons - Individual
+;GALLONS;Assort Herbs;1;EACH;1;4.74;0.00;0.00;;Y;;;;35025
+;                                                                                
+^50;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;55.00;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504213
+^N;0.00;;
+988.90
+488.00;132.00;132
+25;488.00
+@
+N;
+^082710;504214;082610;0640-11-9613-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082610;Posted;Our Truck;tr;(310)571-3838;BL
+;;;2064.36;0.00;0.00;2064.36;0.00;0.00;
+0640;000011509
+OSH0640;Orchard Supply - #640 WLA;2020 S Bundy Dr;;W Los Angeles;CA;90025      ;640
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+0;0;0;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+2020 S Bundy Dr;;W Los Angeles;CA;90025      
+00744
+0.0;092610;092610;30;30;NET 30
+100827
+^400;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;708.00;0.00;0.00;;Y;;;;55000
+;                                                                                
+^64;0.73;0000471;732336250001;Vegetables - 4 inch potted
+;VEGET 4;Assorted 4" Veggies;16;EACH;1;46.72;0.00;0.00;;Y;;;;40000
+;                                                                                
+^160;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;EACH;1;166.40;0.00;0.00;;Y;;;;25100
+;                                                                                
+^32;1.77;2031953;732336287540;806 PAK
+;806 PAK;806 Pak Strawberry;8;EACH;1;56.64;0.00;0.00;;Y;;;;60700
+;                                                                                
+^12;2.85;2048528;732336111265;Premium Color Pak
+;PREM CP;Chrysanthemum Garden;6;EACH;1;34.20;0.00;0.00;;Y;;;;18060
+;                                                                                
+^15;2.90;2324523;732336376008;Premium Gallons
+;GALLONP;Gerbera Dwarf;1;EACH;1;43.50;0.00;0.00;;Y;;;;30620
+;                                                                                
+^64;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;152.96;0.00;0.00;;Y;;;;37560
+;                                                                                
+^8;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;15.60;0.00;0.00;;Y;;;;35000
+;                                                                                
+^20;2.52;2328110;732336372000;Premium Gallons
+;GALLONP;Geranium Zonal;1;EACH;1;50.40;0.00;0.00;;Y;;;;30600
+;                                                                                
+^50;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;EACH;1;99.00;0.00;0.00;;Y;;;;30300
+;                                                                                
+^3;7.25;2421444;732336601001;Other Miscellaneous Items
+;OTHER;Color Bowls 12";1;EACH;1;21.75;0.00;0.00;;Y;;;;37740
+;                                                                                
+^32;1.77;2563534;732336280008;806 PAK
+;806 PAK;806 Pak Veggies;8;EACH;1;56.64;0.00;0.00;;Y;;;;60680
+;                                                                                
+^4;12.00;2604213;732336597342;Other Miscellaneous Items
+;OTHER;10" Redwd Tub HERB;1;EACH;1;48.00;0.00;0.00;;Y;;;;37952
+;                                                                                
+^8;6.25;2686897;732336437563;Vegetables - 1 gallon
+;VEGETGAL;2-Gal Tomato/ Veg;1;EACH;1;50.00;0.00;0.00;;Y;;;;45010
+;                                                                                
+^6;6.75;2690345;732336170002;Half Flats
+;HALF;Assrt Half Flt Color;2;EACH;1;40.50;0.00;0.00;;Y;;;;70000
+;                                                                                
+^10;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;19.50;0.00;0.00;;Y;;;;35600
+;                                                                                
+^10;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;19.50;0.00;0.00;;Y;;;;36700
+;                                                                                
+^8;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;80.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+^6;12.00;2900454;732336390967;Basket Other
+;BASKETS;12"Bskt Prov Winner;1;EACH;1;72.00;0.00;0.00;;Y;;;;47700
+;                                                                                
+^15;2.37;2913952;732336260451;Gallons - Individual
+;GALLONS;Assort Herbs;1;EACH;1;35.55;0.00;0.00;;Y;;;;35025
+;                                                                                
+^225;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;247.50;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504214
+^N;0.00;;
+2064.36
+1152.00;247.00;247
+21;1152.00
+@
+N;
+^082810;504256;082710;0620-11-8536-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082710;Posted;Our Truck;tr;(818)557-2755;RE
+;;;1088.98;0.00;0.00;1088.98;0.00;0.00;
+0620;000011509
+OSH0620;Orchard Supply - #620 Burbank;641 N Victory Blvd;;Burbank;CA;91502      ;620
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+0;0;0;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+641 N Victory Blvd;;Burbank;CA;91502      
+00744
+0.0;092710;092710;30;30;NET 30
+100828
+^64;0.76;0000026;732336200006;4-inch Annual (16)
+;4" ANNUAL;Asst 4" Annual (16);16;EACH;1;48.64;0.00;0.00;;Y;;;;73000
+;                                                                                
+^160;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;283.20;0.00;0.00;;Y;;;;55000
+;                                                                                
+^20;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;EACH;1;39.60;0.00;0.00;;Y;;;;30300
+;                                                                                
+^32;1.77;2563534;732336280008;806 PAK
+;806 PAK;806 Pak Veggies;8;EACH;1;56.64;0.00;0.00;;Y;;;;60680
+;                                                                                
+^80;1.76;2672541;732336090003;Other Miscellaneous Items
+;OTHER;Quart Pot Perennial;16;EACH;1;140.80;0.00;0.00;;Y;;;;37936
+;                                                                                
+^48;1.90;2692598;732336440006;Other Miscellaneous Items
+;OTHER;4" Proven Winners;16;EACH;1;91.20;0.00;0.00;;Y;;;;37920
+;                                                                                
+^3;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;30.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+^96;2.15;2900447;732336338006;Other Miscellaneous Items
+;OTHER;Quart Rice Pot Herb;16;EACH;1;206.40;0.00;0.00;;Y;;;;38022
+;                                                                                
+^175;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;192.50;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504256
+^N;0.00;;
+1088.98
+678.00;72.00;72
+9;678.00
+@
+N;
+^082810;504257;082710;0770-11-8450-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082710;Posted;Our Truck;tr;(661)296-0551;RE
+;;;787.02;0.00;0.00;787.02;0.00;0.00;
+0770;000011509
+OSH0770;Orchard Supply - #770 SantaClarita;26565 N Bouquet Canyon Rd;;Santa Clarita;CA;91350      ;770
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+26565 N Bouquet Canyon Rd;;Santa Clarita;CA;91350      
+00744
+0.0;092710;092710;30;30;NET 30
+100828
+^200;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;354.00;0.00;0.00;;Y;;;;55000
+;                                                                                
+^16;1.77;2031953;732336287540;806 PAK
+;806 PAK;806 Pak Strawberry;8;EACH;1;28.32;0.00;0.00;;Y;;;;60700
+;                                                                                
+^32;2.39;2325520;732336450500;Other Miscellaneous Items
+;OTHER;4" Cyclamen;16;EACH;1;76.48;0.00;0.00;;Y;;;;37560
+;                                                                                
+^40;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;78.00;0.00;0.00;;Y;;;;35000
+;                                                                                
+^15;2.50;2329183;732336373632;Premium Gallons
+;GALLONP;Verbena Peren;1;EACH;1;37.50;0.00;0.00;;Y;;;;31180
+;                                                                                
+^30;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;EACH;1;59.40;0.00;0.00;;Y;;;;30300
+;                                                                                
+^16;1.77;2563534;732336280008;806 PAK
+;806 PAK;806 Pak Veggies;8;EACH;1;28.32;0.00;0.00;;Y;;;;60680
+;                                                                                
+^6;6.25;2686897;732336437563;Vegetables - 1 gallon
+;VEGETGAL;2-Gal Tomato/ Veg;1;EACH;1;37.50;0.00;0.00;;Y;;;;45010
+;                                                                                
+^6;10.00;2858991;732336485007;Other Miscellaneous Items
+;OTHER;10" Cache Mum;1;EACH;1;60.00;0.00;0.00;;Y;;;;38016
+;                                                                                
+^25;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;27.50;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504257
+^N;0.00;;
+787.02
+386.00;129.00;129
+10;386.00
+@
+N;
+^082810;504281;082710;0221-11-8528-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082710;Posted;Our Truck;PG;(909) 596-1383;BG
+;;;771.88;0.00;0.00;771.88;0.00;0.00;
+0221;000011509
+OSH0221;Orchard Supply - #221 La Verne;2244 Foothill Blvd;;La Verne;CA;91750      ;221
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+2244 Foothill Blvd;;La Verne;CA;91750      
+00744
+0.0;092710;092710;30;30;NET 30
+100828
+^160;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;Each;1;283.20;0.00;0.00;;Y;;;;55000
+;                                                                                
+^192;1.04;0001263;732336455000;Premium 4 inch Pots
+;PREM 4;Chrysanthemum Garden;16;Each;1;199.68;0.00;0.00;;Y;;;;25100
+;                                                                                
+^40;2.50;2325413;732336370006;Gallons - Individual
+;GALLONS;Asst Gal Perennial;1;Each;1;100.00;0.00;0.00;;Y;;;;35020
+;                                                                                
+^30;1.98;2378586;732336350640;Premium Gallons
+;GALLONP;Chrysanthemum Garden;1;Each;1;59.40;0.00;0.00;;Y;;;;30300
+;                                                                                
+^30;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;Each;1;58.50;0.00;0.00;;Y;;;;35600
+;                                                                                
+^30;2.37;2913952;732336260451;Gallons - Individual
+;GALLONS;Assort Herbs;1;Each;1;71.10;0.00;0.00;;Y;;;;35025
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504281
+^N;0.00;;
+771.88
+482.00;162.00;162
+6;482.00
+@
+N;
+^082810;504295;082710;0640-11-9614-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082710;Posted;Our Truck;lm;(310)571-3838;BL
+;;;1243.67;0.00;0.00;1243.67;0.00;0.00;
+0640;000011509
+OSH0640;Orchard Supply - #640 WLA;2020 S Bundy Dr;;W Los Angeles;CA;90025      ;640
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+0;0;0;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+2020 S Bundy Dr;;W Los Angeles;CA;90025      
+00744
+0.0;092710;092710;30;30;NET 30
+100828
+^416;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;736.32;0.00;0.00;;Y;;;;55000
+;                                                                                
+^32;1.80;1787589;732336092007;Premium 4 inch Pots
+;PREM 4;QRT Geran Ivy;16;EACH;1;57.60;0.00;0.00;;Y;;;;25450
+;                                                                                
+^25;2.51;2032688;732336371850;Premium Gallons
+;GALLONP;Ornamental Grass;1;EA;1;62.75;0.00;0.00;;Y;;;;30923
+;                                                                                
+^10;2.50;2325413;732336370006;Gallons - Individual
+;GALLONS;Asst Gal Perennial;1;EACH;1;25.00;0.00;0.00;;Y;;;;35020
+;                                                                                
+^41;1.95;2327286;732336350008;Gallons - Individual
+;GALLONS;Assorted Gallons;1;EACH;1;79.95;0.00;0.00;;Y;;;;35000
+;                                                                                
+^15;2.50;2330041;732336377005;Premium Gallons
+;GALLONP;Impatien-New Guinea;1;EACH;1;37.50;0.00;0.00;;Y;;;;30720
+;                                                                                
+^10;2.50;2603736;732336354006;Premium Gallons
+;GALLONP;Impatien-Doubles;1;EACH;1;25.00;0.00;0.00;;Y;;;;30700
+;                                                                                
+^15;1.95;2710234;732336350909;Gallons - Individual
+;GALLONS;Impatiens;1;EACH;1;29.25;0.00;0.00;;Y;;;;35600
+;                                                                                
+^10;1.95;2710275;732336352651;Gallons - Individual
+;GALLONS;Snapdragon;1;EACH;1;19.50;0.00;0.00;;Y;;;;36460
+;                                                                                
+^10;1.95;2710291;732336353009;Gallons - Individual
+;GALLONS;Vinca;1;EACH;1;19.50;0.00;0.00;;Y;;;;36700
+;                                                                                
+^32;2.15;2900447;732336338006;Other Miscellaneous Items
+;OTHER;Quart Rice Pot Herb;16;EACH;1;68.80;0.00;0.00;;Y;;;;38022
+;                                                                                
+^75;1.10;2913960;732336320001;Other Miscellaneous Items
+;OTHER;4" Herb Herbert;25;EACH;1;82.50;0.00;0.00;;Y;;;;37840
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504295
+^N;0.00;;
+1243.67
+691.00;195.00;195
+12;691.00
+@
+N;
+^082810;504307;082710;0810-11-9108-00
+COLORAMA WH0LESALE NURSERY;148468275
+0;Invoice;082710;Posted;Our Truck;tr;(562) 422-3353;CFR
+;;;698.88;0.00;0.00;698.88;0.00;0.00;
+0810;000011509
+OSH0810;Orchard Supply - #810 Long Beach;4480 Atlantic Ave;;Long Beach;CA;90807      ;810
+OSH;Sears Acct Services Center #9767;Location 10-04;PO Box 660200;Dallas;TX;75266-0200 
+;;;000011509;;;;;;
+1025 North Todd Avenue;Azusa;CA;91702      
+4480 Atlantic Ave;;Long Beach;CA;90807      
+00744
+0.0;092710;092710;30;30;NET 30
+100828
+^320;1.77;0000083;732336100009;806 PAK
+;806 PAK;806 Assort Color Pak;8;EACH;1;566.40;0.00;0.00;;Y;;;;55000
+;                                                                                
+^64;2.07;2672558;732336080004;Other Miscellaneous Items
+;OTHER;Quart Pot Grass;16;EACH;1;132.48;0.00;0.00;;Y;;;;37935
+;                                                                                
+COLORAMA WH0LESALE NURSERY;504307
+^N;0.00;;
+698.88
+384.00;44.00;44
+2;384.00
+@
+|
