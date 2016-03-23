@@ -41,7 +41,21 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.mtr
+*.scc
+*.I01
+*.I02
+*.I03
+*.I04
+*.I05
+*.log
+*.bak
+*.mme
 *.O01
 *.O02
-*.O02
-*.O01
+*.O03
+*.O04
+*.O05
+*.new
+*.txt
+*.mopt
